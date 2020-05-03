@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c8779a17bfbcad47992a04e2831f685, type: 3}
+  m_Name: Wizard Stats
+  m_EditorClassIdentifier: 
+  _startingHealth: 800
+  _healthGain: 100
+  _armor: 1
+  _shotStrength: 4
+  _magicStrength: 5
+  _meleeStrength: 1
+  _moveSpeed: 3
