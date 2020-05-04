@@ -11,7 +11,7 @@ public class PlayerView : Element
 
     }
 
-    public Sprite GetPlayerSpriteOnRotation(PlayerNumber.PlayerNum player, Vector2 rotation)
+    protected Sprite GetPlayerSpriteOnRotation(PlayerNumber.PlayerNum player, Vector2 rotation)
     {
         Sprite playerSprite = null;
 

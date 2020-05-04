@@ -8,8 +8,6 @@ public class PlayerOneView : PlayerView
 
     private Rigidbody2D playerOneRB;
 
-    private float SpriteChangeThreshold = 0.5f;
-
     private void Awake()
     {
         playerSprite = gameObject.GetComponent<SpriteRenderer>();
@@ -52,6 +50,7 @@ public class PlayerOneView : PlayerView
 
     public void MeleeAttack()
     {
+        //Execute attack animation
 
     }
 

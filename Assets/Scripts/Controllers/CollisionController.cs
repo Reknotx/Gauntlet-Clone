@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class CollisionController : Element
 {
+    public void FilterCollision()
+    {
+
+    }
+
     public void OnPlayerWithEnemy()
     {
 
