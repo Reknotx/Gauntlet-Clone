@@ -12,6 +12,8 @@ public class PlayerOneInput : InputView
         inputAction = new PlayerOneInputSystem();
         inputAction.Player.Move.performed += ctxM => movement = ctxM.ReadValue<Vector2>();
         inputAction.Player.Look.performed += ctxL => rotation = ctxL.ReadValue<Vector2>();
+        inputAction.Player.Melee.performed += ctxMA => OnMeleeAttack(app.data.playerData.playerOne.PlayerNum);
+        inputAction.Player.Throw.performed += ctxT => OnThrow(app.data.playerData.playerOne.PlayerNum);
     }
 
     private void LateUpdate()

@@ -1,7 +1,292 @@
 fileFormatVersion: 2
 guid: 89803aab4dca73a4482aab4dddd9e597
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6694381308439208347
+    second: Green Warrior_0
+  - first:
+      213: 4054938175436222050
+    second: Green Warrior_1
+  - first:
+      213: -168004036170280304
+    second: Green Warrior_2
+  - first:
+      213: 198250273451226589
+    second: Green Warrior_3
+  - first:
+      213: -3316609014833719176
+    second: Green Warrior_4
+  - first:
+      213: 3288937079971920073
+    second: Green Warrior_5
+  - first:
+      213: -8783197112329892567
+    second: Green Warrior_6
+  - first:
+      213: 1426834250670558167
+    second: Green Warrior_7
+  - first:
+      213: -3763059300994415786
+    second: Green Warrior_8
+  - first:
+      213: -7843972707143679928
+    second: Green Warrior_9
+  - first:
+      213: 6613370390646897710
+    second: Green Warrior_10
+  - first:
+      213: -290855921786959471
+    second: Green Warrior_11
+  - first:
+      213: -5930822602019917277
+    second: Green Warrior_12
+  - first:
+      213: 8617505843659575499
+    second: Green Warrior_13
+  - first:
+      213: 9052191182102716058
+    second: Green Warrior_14
+  - first:
+      213: -6209781770445371387
+    second: Green Warrior_15
+  - first:
+      213: 1022956001141435162
+    second: Green Warrior_16
+  - first:
+      213: -5695084534686729588
+    second: Green Warrior_17
+  - first:
+      213: 7536452474239046794
+    second: Green Warrior_18
+  - first:
+      213: -7264575077773288350
+    second: Green Warrior_19
+  - first:
+      213: -6884539637762176163
+    second: Green Warrior_20
+  - first:
+      213: -783990637785028171
+    second: Green Warrior_21
+  - first:
+      213: -725058494495781323
+    second: Green Warrior_22
+  - first:
+      213: -3858956728528180751
+    second: Green Warrior_23
+  - first:
+      213: 1395929536978002134
+    second: Green Warrior_24
+  - first:
+      213: 8397612504230456202
+    second: Green Warrior_25
+  - first:
+      213: 1719405319012506763
+    second: Green Warrior_26
+  - first:
+      213: -8197047672983429392
+    second: Green Warrior_27
+  - first:
+      213: -7152207423365528232
+    second: Green Warrior_28
+  - first:
+      213: -2055243471412626516
+    second: Green Warrior_29
+  - first:
+      213: 6471411479874193536
+    second: Green Warrior_30
+  - first:
+      213: -8060969168596519473
+    second: Green Warrior_31
+  - first:
+      213: -9104908936645603169
+    second: Green Warrior_32
+  - first:
+      213: -3781211832576798130
+    second: Green Warrior_33
+  - first:
+      213: -3115967468440543040
+    second: Green Warrior_34
+  - first:
+      213: 6051299079753158426
+    second: Green Warrior_35
+  - first:
+      213: -5203001203127004199
+    second: Green Warrior_36
+  - first:
+      213: 4314583287025582616
+    second: Green Warrior_37
+  - first:
+      213: 5405102126880865555
+    second: Green Warrior_38
+  - first:
+      213: -3457148052494833666
+    second: Green Warrior_39
+  - first:
+      213: -7056165991488215048
+    second: Green Warrior_40
+  - first:
+      213: -1794637678702529580
+    second: Green Warrior_41
+  - first:
+      213: 8099299532490500236
+    second: Green Warrior_42
+  - first:
+      213: 2085693682758332746
+    second: Green Warrior_43
+  - first:
+      213: -8260861063663255517
+    second: Green Warrior_44
+  - first:
+      213: -3303192722352940158
+    second: Green Warrior_45
+  - first:
+      213: 7164856709615156739
+    second: Green Warrior_46
+  - first:
+      213: 730358884363368399
+    second: Green Warrior_47
+  - first:
+      213: -3357297565298076271
+    second: Green Warrior_48
+  - first:
+      213: -5699997386449304964
+    second: Green Warrior_49
+  - first:
+      213: -3427874816517464978
+    second: Green Warrior_50
+  - first:
+      213: -14514230034875400
+    second: Green Warrior_51
+  - first:
+      213: -1575028336997682281
+    second: Green Warrior_52
+  - first:
+      213: 5417245943963920559
+    second: Green Warrior_53
+  - first:
+      213: 6959887735831490369
+    second: Green Warrior_54
+  - first:
+      213: -5887420247862422340
+    second: Green Warrior_55
+  - first:
+      213: -388181112530533745
+    second: Green Warrior_56
+  - first:
+      213: -4120526529219940887
+    second: Green Warrior_57
+  - first:
+      213: -7578018254394911762
+    second: Green Warrior_58
+  - first:
+      213: -4391179887433350962
+    second: Green Warrior_59
+  - first:
+      213: -4530571310609661040
+    second: Green Warrior_60
+  - first:
+      213: -1526289606065949035
+    second: Green Warrior_61
+  - first:
+      213: -5859973053166354199
+    second: Green Warrior_62
+  - first:
+      213: -1514261501413955701
+    second: Green Warrior_63
+  - first:
+      213: -311782001447680018
+    second: Green Warrior_64
+  - first:
+      213: 8070881099495596732
+    second: Green Warrior_65
+  - first:
+      213: -2761785652967409282
+    second: Green Warrior_66
+  - first:
+      213: 1930146849489852011
+    second: Green Warrior_67
+  - first:
+      213: -6856502082823964196
+    second: Green Warrior_68
+  - first:
+      213: 2661903181891180737
+    second: Green Warrior_69
+  - first:
+      213: 4806185733190724156
+    second: Green Warrior_70
+  - first:
+      213: -4691467151386323494
+    second: Green Warrior_71
+  - first:
+      213: -3944318005849104017
+    second: Green Warrior_72
+  - first:
+      213: 4315541951730138262
+    second: Green Warrior_73
+  - first:
+      213: -4539928537891808442
+    second: Green Warrior_74
+  - first:
+      213: 8028816172197021904
+    second: Green Warrior_75
+  - first:
+      213: 8832865298301855376
+    second: Green Warrior_76
+  - first:
+      213: -8715410949640189187
+    second: Green Warrior_77
+  - first:
+      213: -272429040917783917
+    second: Green Warrior_78
+  - first:
+      213: 6134749638126190131
+    second: Green Warrior_79
+  - first:
+      213: 2053144961645472774
+    second: Green Warrior_80
+  - first:
+      213: -4337145589665839788
+    second: Green Warrior_81
+  - first:
+      213: -416282224133843527
+    second: Green Warrior_82
+  - first:
+      213: 1929612152551704691
+    second: Green Warrior_83
+  - first:
+      213: 2212562859688246299
+    second: Green Warrior_84
+  - first:
+      213: -5517409513378673067
+    second: Green Warrior_85
+  - first:
+      213: 1954763338274753919
+    second: Green Warrior_86
+  - first:
+      213: -2467039252940081162
+    second: Green Warrior_87
+  - first:
+      213: 4763626313402075969
+    second: Green Warrior_88
+  - first:
+      213: 3213451578975032334
+    second: Green Warrior_89
+  - first:
+      213: -2965588781921396990
+    second: Green Warrior_90
+  - first:
+      213: 2449329139229387711
+    second: Green Warrior_91
+  - first:
+      213: 330813603754373137
+    second: Green Warrior_92
+  - first:
+      213: 3490061090028405089
+    second: Green Warrior_93
+  - first:
+      213: 5154811176665741596
+    second: Green Warrior_94
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +325,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +354,2015 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Green Warrior_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3329
+        width: 205
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bfdaaf21d32d642aef64cf8bd077b4
+      internalID: 6694381308439208347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3348
+        width: 204
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d12b85fdd81714386a297c773363ca
+      internalID: 4054938175436222050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3329
+        width: 234
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2daccede928e2479a3bf3dc8dbd33a
+      internalID: -168004036170280304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_3
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 3329
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba580fd1d2e71d4a9e862b23a0f11eb
+      internalID: 198250273451226589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_4
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3337
+        width: 204
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727a386b88fdcce4e8638613f48a17b1
+      internalID: -3316609014833719176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_5
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 3337
+        width: 214
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3378560a64c442645b0f425d74994b5e
+      internalID: 3288937079971920073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3078
+        width: 194
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b106fc0f5ea9a146b020d8f911748b4
+      internalID: -8783197112329892567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3078
+        width: 204
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d12ebfb35d202d4199ac2b0883f3127
+      internalID: 1426834250670558167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3088
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c580617c97e2c4ea402bf3ef6e6b34
+      internalID: -3763059300994415786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_9
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 3078
+        width: 194
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cfc4c8f671dcd49b135c19bdbfcc2f
+      internalID: -7843972707143679928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_10
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3088
+        width: 195
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdcae5c7fda9e64ebd41122d58f0027
+      internalID: 6613370390646897710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_11
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3078
+        width: 194
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42c738c62f01314789239249900c8c4
+      internalID: -290855921786959471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2837
+        width: 206
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61991dec558c38a4a9a45b75012d285b
+      internalID: -5930822602019917277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2868
+        width: 203
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f085b8d09d2c9004c80b927642b15b14
+      internalID: 8617505843659575499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_14
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2837
+        width: 204
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48709c4d0461fa34eb4a09decae0fa92
+      internalID: 9052191182102716058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_15
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 2828
+        width: 195
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd2c0d0d9d203e499582140fd8a162a
+      internalID: -6209781770445371387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_16
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2847
+        width: 194
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f253e294aac764f828b7a1222ccd73
+      internalID: 1022956001141435162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_17
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 2847
+        width: 195
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660be716c61537249bb51cf7099e718a
+      internalID: -5695084534686729588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2577
+        width: 196
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fce634f6137ec4b84220aaea197046
+      internalID: 7536452474239046794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2577
+        width: 204
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b1940adc6bfbb44b2a528484e64cf0
+      internalID: -7264575077773288350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2577
+        width: 203
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a441e61f326c7e04aa55298c3d028526
+      internalID: -6884539637762176163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2609
+        width: 214
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b88032eb2eca84da256084ef197341
+      internalID: -783990637785028171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_22
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 2588
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc1147bcf222af409df835034b8ad96
+      internalID: -725058494495781323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_23
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 2577
+        width: 204
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d929556f6311f4baf67907db75637e
+      internalID: -3858956728528180751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2338
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd321e24cfa1699489b78f71ae521348
+      internalID: 1395929536978002134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2328
+        width: 224
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549193db60d0b4343b8f12618b07fe9a
+      internalID: 8397612504230456202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_26
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2328
+        width: 204
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7291e7b7c6eff7d42adec94353f4569f
+      internalID: 1719405319012506763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_27
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2328
+        width: 243
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12930b30b13c57c4ab785ed47e1a52da
+      internalID: -8197047672983429392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2077
+        width: 164
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d7208a177805c4cac5ef55e2e07273
+      internalID: -7152207423365528232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2077
+        width: 244
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13484f5f893b50849a62a69f5637ed5e
+      internalID: -2055243471412626516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_30
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 2077
+        width: 183
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeece82cef69b344b4c91ce6b50c321
+      internalID: 6471411479874193536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_31
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2077
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dc3c8d82c857f4590a5236eb67d1c8
+      internalID: -8060969168596519473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1828
+        width: 204
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f653ebe945250742936364cf2875e83
+      internalID: -9104908936645603169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1828
+        width: 203
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f61da87edaeb6c458d8c67076f1f5a6
+      internalID: -3781211832576798130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_34
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1828
+        width: 195
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366411f1f08a03744b829fbebb437502
+      internalID: -3115967468440543040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_35
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1828
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1630d121fb44da4cb2b0079d945582e
+      internalID: 6051299079753158426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1578
+        width: 193
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b36fe911676a554abfb3de40e09904f
+      internalID: -5203001203127004199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1578
+        width: 204
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bd1fc739c823042b07cf7dc8a4e84b
+      internalID: 4314583287025582616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_38
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1598
+        width: 225
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9e55d43cfeee84f88dc4c4dcffed8b
+      internalID: 5405102126880865555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_39
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1578
+        width: 215
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c759fcaf2cd2b488a7c4e3eff80e3a
+      internalID: -3457148052494833666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_40
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1327
+        width: 193
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075e5856e05e27d41927e01223b77596
+      internalID: -7056165991488215048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1327
+        width: 233
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41556be1bb02ece4b9d389e9e6e771eb
+      internalID: -1794637678702529580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1327
+        width: 244
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0a120378738d641b3ad6fc4bb9d908
+      internalID: 8099299532490500236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_43
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1327
+        width: 206
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453643f12278f5e4a9c72f60595bf7dc
+      internalID: 2085693682758332746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_44
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1327
+        width: 235
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41faef08bfc41294dba46e6472efaa1a
+      internalID: -8260861063663255517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_45
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1338
+        width: 194
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9f65300e8da85429edd2e8b452173a
+      internalID: -3303192722352940158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_46
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1338
+        width: 243
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea4d9496be5d5948a4d1ff0b8d67745
+      internalID: 7164856709615156739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_47
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1327
+        width: 234
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f595bc7b3a1316d4c99c49cdb0c0fd42
+      internalID: 730358884363368399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 242
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8457c25cb163ac14bacc026556793528
+      internalID: -3357297565298076271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_49
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1078
+        width: 235
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c4cfe403371014383baeea40922850
+      internalID: -5699997386449304964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1078
+        width: 243
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f99afaa5ecb32c4d950510f582870ec
+      internalID: -3427874816517464978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_51
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1078
+        width: 244
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b6c65dc62e9514ab2bc8d713fd40a4
+      internalID: -14514230034875400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_52
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1078
+        width: 175
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d63cb0640fc6949a7ed5a99fd45c8d
+      internalID: -1575028336997682281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_53
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1078
+        width: 224
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a66b73d793ece04ea9f83eb22ce8671
+      internalID: 5417245943963920559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_54
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1078
+        width: 244
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a5a8a7fb851b244a4f1d102ddc43d3
+      internalID: 6959887735831490369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_55
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1078
+        width: 242
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c51892b179f359458a915cb0e1e8626
+      internalID: -5887420247862422340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 827
+        width: 204
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f276721fdfd3e4da6f16dd83d88e2a
+      internalID: -388181112530533745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 827
+        width: 224
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d81ee7ad46c054c9ac55b1aa6fe8da
+      internalID: -4120526529219940887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_58
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 827
+        width: 193
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27dd0b2cfdc8934ea2ae1a1a4afcece
+      internalID: -7578018254394911762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_59
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 827
+        width: 204
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89e6e47b410e86479bf3d92d9322986
+      internalID: -4391179887433350962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_60
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 827
+        width: 204
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c36771c4226a74f913a9b849a44329
+      internalID: -4530571310609661040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_61
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 827
+        width: 224
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b45aef95ad5dad4598277877a98f35b
+      internalID: -1526289606065949035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_62
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 827
+        width: 214
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4bc033a633c304785e13ac786e829d
+      internalID: -5859973053166354199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_63
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 827
+        width: 206
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbdb822c4d4f1b4496949a62e41d7c6
+      internalID: -1514261501413955701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 203
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea8898fc19a2f748b540363c66dfa59
+      internalID: -311782001447680018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_65
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 578
+        width: 204
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ce7cc51fc0ba743a0ec661a70aee77
+      internalID: 8070881099495596732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_66
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 578
+        width: 203
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e298760f1a6304a9197eb6df141fe1
+      internalID: -2761785652967409282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_67
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 578
+        width: 203
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef3140acb878504fa0d73e59b589fa3
+      internalID: 1930146849489852011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_68
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 588
+        width: 195
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7edc5716df44b241a2eb94f93022f64
+      internalID: -6856502082823964196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_69
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 578
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c748cd12c637440806ba88c308a8e9
+      internalID: 2661903181891180737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_70
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 578
+        width: 223
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c997ceb7ee6aa14799601cd44070eda
+      internalID: 4806185733190724156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_71
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 588
+        width: 222
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d75a04d4cce31b49a68342dfc851fc2
+      internalID: -4691467151386323494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 348
+        width: 225
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3c0a21d1911844b8915890f51dccab
+      internalID: -3944318005849104017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_73
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 348
+        width: 195
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95a7e6378d7cb04ba7d83987e3d7dfe
+      internalID: 4315541951730138262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_74
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 348
+        width: 206
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc753a598cf194aa870bdc52f1ac0a
+      internalID: -4539928537891808442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_75
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 358
+        width: 182
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9231c4ad2a9db045b5e63d73f585412
+      internalID: 8028816172197021904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_76
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 368
+        width: 145
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f774d4141c3d141ae017c2cb437fa0
+      internalID: 8832865298301855376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_77
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 377
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dd0b62fd1bfd745bc6d5398bcde528
+      internalID: -8715410949640189187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_78
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 388
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d548e44a82d4e9b4db2699ee4473b565
+      internalID: -272429040917783917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 178
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e761f8769f2d9f43bd9859a156204db
+      internalID: 6134749638126190131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_80
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 168
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfbc16a194c353468d6767bcf677e11
+      internalID: 2053144961645472774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_81
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 168
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4739b63edbb43f439b9c340bf4c8111
+      internalID: -4337145589665839788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_82
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 168
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fa050ed4a2bab459abfdbc2330b491
+      internalID: -416282224133843527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_83
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 178
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0115ae8d78a5a5b4d95e5d72ed58af52
+      internalID: 1929612152551704691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_84
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 198
+        width: 134
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d9d21833149e94882d6760b6034d85
+      internalID: 2212562859688246299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_85
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 198
+        width: 134
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdcda113ac68b64b8448e0aef007c42
+      internalID: -5517409513378673067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_86
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 187
+        width: 134
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c52e76bce5f4e41a579fc806b65acd
+      internalID: 1954763338274753919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_87
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 125
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acdf92fe5ca09547b8d16171051450f
+      internalID: -2467039252940081162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_88
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 8
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c726ffe29da9344821a8a7d237c923
+      internalID: 4763626313402075969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_89
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 8
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca05b3b5261fdf84ba9536b5133e2679
+      internalID: 3213451578975032334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_90
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 8
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b731a75f26cda2b4f8140670ea81f057
+      internalID: -2965588781921396990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_91
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 0
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70af3150427c0e24b819dfc52c3d46dd
+      internalID: 2449329139229387711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_92
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 18
+        width: 135
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3133b30bdd29b8c49af9d22ca1490354
+      internalID: 330813603754373137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_93
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 144
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439dbfa170bf9a641b7b3a0caa1f3a97
+      internalID: 3490061090028405089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Warrior_94
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 314
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08ab3c39c7da6c4fa11160882627c67
+      internalID: 5154811176665741596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

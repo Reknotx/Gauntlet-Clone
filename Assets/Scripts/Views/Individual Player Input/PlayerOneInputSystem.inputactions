@@ -22,12 +22,20 @@
                     "interactions": ""
                 },
                 {
-                    "name": "Fire",
+                    "name": "Melee",
                     "type": "Button",
                     "id": "ac844c23-bcea-4aa3-9d6e-01590a815220",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
+                },
+                {
+                    "name": "Throw",
+                    "type": "Button",
+                    "id": "af2b394b-136a-4ae6-9ed6-07e56cd7b30e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
                 }
             ],
             "bindings": [
@@ -192,7 +200,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": ";Gamepad",
-                    "action": "Fire",
+                    "action": "Melee",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -203,7 +211,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
-                    "action": "Fire",
+                    "action": "Melee",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -214,7 +222,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": ";Touch",
-                    "action": "Fire",
+                    "action": "Melee",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -225,7 +233,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "Joystick",
-                    "action": "Fire",
+                    "action": "Melee",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -236,7 +244,29 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "XR",
-                    "action": "Fire",
+                    "action": "Melee",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6a72fe84-4914-46b2-99d1-43167b62831f",
+                    "path": "<Gamepad>/leftTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard&Mouse",
+                    "action": "Throw",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7f2bb348-83ad-4b39-be44-da456282eaaa",
+                    "path": "<Gamepad>/leftTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Throw",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

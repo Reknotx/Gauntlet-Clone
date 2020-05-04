@@ -1,7 +1,292 @@
 fileFormatVersion: 2
 guid: 2128c7eb3e5ee174995c9232c4c1ef83
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1247864961656535135
+    second: RedWarrior_South_Move1
+  - first:
+      213: -8685034346851596434
+    second: RedWarrior_South_Move2
+  - first:
+      213: 5021284487195402598
+    second: RedWarrior_South_Move3
+  - first:
+      213: 2972718134015401615
+    second: RedWarrior_SouthWest_Move1
+  - first:
+      213: 1919487909751445940
+    second: RedWarrior_SouthWest_Move2
+  - first:
+      213: 5967553933481513060
+    second: RedWarrior_SouthWest_Move3
+  - first:
+      213: 8408232040337413058
+    second: RedWarrior_West_Move1
+  - first:
+      213: -7941678188754086714
+    second: RedWarrior_West_Move2
+  - first:
+      213: -9110942148873176439
+    second: RedWarrior_West_Move3
+  - first:
+      213: 9168796254310724658
+    second: RedWarrior_NorthWest_Move1
+  - first:
+      213: 1976302084042722704
+    second: RedWarrior_NorthWest_Move2
+  - first:
+      213: -2944488675558575516
+    second: RedWarrior_NorthWest_Move3
+  - first:
+      213: -8442556377589288250
+    second: RedWarrior_North_Move1
+  - first:
+      213: -8200644538220232768
+    second: RedWarrior_North_Move2
+  - first:
+      213: 2683895061281375194
+    second: RedWarrior_North_Move3
+  - first:
+      213: -799835890628828149
+    second: RedWarrior_NorthEast_Move1
+  - first:
+      213: -8017077564339775471
+    second: RedWarrior_NorthEast_Move2
+  - first:
+      213: -9178137663327404
+    second: RedWarrior_NorthEast_Move3
+  - first:
+      213: 5145919439710123508
+    second: RedWarrior_East_Move1
+  - first:
+      213: 2601704408225601620
+    second: RedWarrior_East_Move2
+  - first:
+      213: -6836393756816652463
+    second: RedWarrior_East_Move3
+  - first:
+      213: -5882459240707819693
+    second: RedWarrior_SouthEast_Move1
+  - first:
+      213: 3093730972148028656
+    second: RedWarrior_SouthEast_Move2
+  - first:
+      213: -7134199290942597069
+    second: RedWarrior_SouthEast_Move3
+  - first:
+      213: -4298503673538540110
+    second: RedWarrior_South_Throw1
+  - first:
+      213: -6766895466687229171
+    second: RedWarrior_South_Throw2
+  - first:
+      213: 692894223715235231
+    second: RedWarrior_SouthWest_Throw1
+  - first:
+      213: -3342623007948820156
+    second: RedWarrior_SouthWest_Throw2
+  - first:
+      213: -2491933268228245247
+    second: RedWarrior_West_Throw1
+  - first:
+      213: -7332914599536551798
+    second: RedWarrior_West_Throw2
+  - first:
+      213: -9207338747395142756
+    second: RedWarrior_NorthWest_Throw1
+  - first:
+      213: -7637394536017954900
+    second: RedWarrior_NorthWest_Throw2
+  - first:
+      213: -2584764345295920961
+    second: RedWarrior_North_Throw1
+  - first:
+      213: -2178370554551548951
+    second: RedWarrior_North_Throw2
+  - first:
+      213: 5979508153467042671
+    second: RedWarrior_NorthEast_Throw1
+  - first:
+      213: -7328991162452255986
+    second: RedWarrior_NorthEast_Throw2
+  - first:
+      213: -2642737095606109414
+    second: RedWarrior_East_Throw1
+  - first:
+      213: -2088363339737443684
+    second: RedWarrior_East_Throw2
+  - first:
+      213: -1981041385135525682
+    second: RedWarrior_SouthEast_Throw1
+  - first:
+      213: -3224380200118041858
+    second: RedWarrior_SouthEast_Throw2
+  - first:
+      213: -8763235290211384117
+    second: RedWarrior_SouthWest_Attack4
+  - first:
+      213: 7635711202012495173
+    second: RedWarrior_South_Attack1
+  - first:
+      213: 8084526904597725532
+    second: RedWarrior_South_Attack2
+  - first:
+      213: -6850196521970396521
+    second: RedWarrior_South_Attack3
+  - first:
+      213: 5393069851410168687
+    second: RedWarrior_South_Attack4
+  - first:
+      213: 4656637108907833451
+    second: RedWarrior_SouthWest_Attack1
+  - first:
+      213: -4762711329198186389
+    second: RedWarrior_SouthWest_Attack2
+  - first:
+      213: 819424859035599625
+    second: RedWarrior_SouthWest_Attack3
+  - first:
+      213: 5550120986795228411
+    second: RedWarrior_West_Attack1
+  - first:
+      213: 3618377786388990570
+    second: RedWarrior_West_Attack2
+  - first:
+      213: -5404953221750930595
+    second: RedWarrior_West_Attack3
+  - first:
+      213: -3694976082165343025
+    second: RedWarrior_West_Attack4
+  - first:
+      213: -1121436129579496364
+    second: RedWarrior_NorthWest_Attack1
+  - first:
+      213: -7906461224601642048
+    second: RedWarrior_NorthWest_Attack2
+  - first:
+      213: 8519518653037290939
+    second: RedWarrior_NorthWest_Attack3
+  - first:
+      213: -1687788280170421524
+    second: RedWarrior_NorthWest_Attack4
+  - first:
+      213: 282133979972269368
+    second: RedWarrior_North_Attack1
+  - first:
+      213: 5023613403380600804
+    second: RedWarrior_North_Attack2
+  - first:
+      213: -6124505164557259826
+    second: RedWarrior_North_Attack3
+  - first:
+      213: -2852450952162904197
+    second: RedWarrior_North_Attack4
+  - first:
+      213: -5483790545303501521
+    second: RedWarrior_NorthEast_Attack1
+  - first:
+      213: 6760327231166432945
+    second: RedWarrior_NorthEast_Attack2
+  - first:
+      213: -6066632071921518289
+    second: RedWarrior_NorthEast_Attack3
+  - first:
+      213: 3761659898475514540
+    second: RedWarrior_NorthEast_Attack4
+  - first:
+      213: 7070178289524689133
+    second: RedWarrior_East_Attack1
+  - first:
+      213: -605085969999917495
+    second: RedWarrior_East_Attack2
+  - first:
+      213: 6355615494847903948
+    second: RedWarrior_East_Attack3
+  - first:
+      213: -8614557794409862696
+    second: RedWarrior_East_Attack4
+  - first:
+      213: 6878011609115712876
+    second: RedWarrior_SouthEast_Attack1
+  - first:
+      213: 4492052139199753923
+    second: RedWarrior_SouthEast_Attack2
+  - first:
+      213: 6801832994314373612
+    second: RedWarrior_SouthEast_Attack3
+  - first:
+      213: 2918476871401471312
+    second: RedWarrior_SouthEast_Attack4
+  - first:
+      213: -3786847772552883423
+    second: RedWarrior_NextFloor1
+  - first:
+      213: -7111008431159086585
+    second: RedWarrior_NextFloor2
+  - first:
+      213: 3018648891346213636
+    second: RedWarrior_NextFloor3
+  - first:
+      213: -1045452638759046027
+    second: RedWarrior_NextFloor4
+  - first:
+      213: 5702067085158991917
+    second: RedWarrior_NextFloor5
+  - first:
+      213: 9138622836373922488
+    second: RedWarrior_NextFloor6
+  - first:
+      213: -4208870956673293230
+    second: RedWarrior_NextFloor7
+  - first:
+      213: -5728827071940713190
+    second: RedWarrior_Projectile1
+  - first:
+      213: 2606393950014408371
+    second: RedWarrior_Projectile2
+  - first:
+      213: -6402684484910907621
+    second: RedWarrior_Projectile3
+  - first:
+      213: -426507635483564036
+    second: RedWarrior_Projectile4
+  - first:
+      213: -7703068736549531093
+    second: RedWarrior_Projectile5
+  - first:
+      213: -8930488670968744596
+    second: RedWarrior_Projectile6
+  - first:
+      213: 2279102318193068703
+    second: RedWarrior_Projectile7
+  - first:
+      213: 4728709477293239331
+    second: RedWarrior_Projectile8
+  - first:
+      213: 2239578999106155913
+    second: RedWarrior_Projectile9
+  - first:
+      213: 2709655884897758445
+    second: RedWarrior_Projectile10
+  - first:
+      213: 6037839667293466755
+    second: RedWarrior_Projectile11
+  - first:
+      213: -5301800625570168821
+    second: RedWarrior_Projectile12
+  - first:
+      213: -2677124879028270424
+    second: RedWarrior_Projectile13
+  - first:
+      213: -8856197013417706764
+    second: RedWarrior_Projectile14
+  - first:
+      213: 3243238812210232568
+    second: RedWarrior_Projectile15
+  - first:
+      213: 4797629985800318709
+    second: RedWarrior_Projectile16
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +325,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -60,7 +345,18 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -71,7 +367,2002 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: RedWarrior_South_Move1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3330
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2661080bd98e1134d8b443469a63d320
+      internalID: 1247864961656535135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_South_Move2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3350
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8403fe727df620845bede1e269ee031e
+      internalID: -8685034346851596434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_South_Move3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3330
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8030703b3a93d764ba6261925e423191
+      internalID: 5021284487195402598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthWest_Move1
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 3330
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19f6d54674c6644891d9577f941a1f5
+      internalID: 2972718134015401615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthWest_Move2
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 3340
+        width: 200
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b156438ec9e72042ad0b88d536d6e0d
+      internalID: 1919487909751445940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthWest_Move3
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 3340
+        width: 210
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7672181f23bd92498e67cf7211a57b5
+      internalID: 5967553933481513060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_West_Move1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3080
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864cc96b74cc82c43b202c0ee27870db
+      internalID: 8408232040337413058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_West_Move2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3080
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f04cb30bd269ab4ab900ecf586b5cc6
+      internalID: -7941678188754086714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_West_Move3
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 3090
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac842a6a175f9d48a2dffc2c78f84bb
+      internalID: -9110942148873176439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthWest_Move1
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3080
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fb8113698822340b69315c10906eaa
+      internalID: 9168796254310724658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthWest_Move2
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3090
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64495712d45487c4eaabe8812187224f
+      internalID: 1976302084042722704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthWest_Move3
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3080
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969477b5279f13b4082250c18f948dcd
+      internalID: -2944488675558575516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_North_Move1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2840
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9fcbbd6576fec419433b56b3af767a
+      internalID: -8442556377589288250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_North_Move2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2870
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f882edd846ef942a132f72f2aaa3ad
+      internalID: -8200644538220232768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_North_Move3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2840
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb1e06bc5ce095408c57fdaa4d25726
+      internalID: 2683895061281375194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthEast_Move1
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2830
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4790ac83f9967194cbd7a9812a600c4e
+      internalID: -799835890628828149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthEast_Move2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2850
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3a992691bdff46b36ce995233a0b9
+      internalID: -8017077564339775471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthEast_Move3
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2850
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e434c0a883002f4b814a4f0c767ac71
+      internalID: -9178137663327404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_East_Move1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2580
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede8c0e419edc5a4a9261d349af46c30
+      internalID: 5145919439710123508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_East_Move2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2580
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321500160fc60e64f889b3a0400d9251
+      internalID: 2601704408225601620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_East_Move3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2580
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164c77c3359184b4299955fda322acd3
+      internalID: -6836393756816652463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthEast_Move1
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2610
+        width: 210
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14daec51d2d95a044962188f91a7d93f
+      internalID: -5882459240707819693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthEast_Move2
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2590
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924fa6c64f2b1244c9db49eae304397f
+      internalID: 3093730972148028656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthEast_Move3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2580
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b923b7a202e21e34684384242f945cb9
+      internalID: -7134199290942597069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_South_Throw1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2340
+        width: 200
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6f6f7c990c1f4458bafa6babd7d3c9
+      internalID: -4298503673538540110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_South_Throw2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2330
+        width: 220
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f074e37481cff9f4293517240aa07065
+      internalID: -6766895466687229171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthWest_Throw1
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2330
+        width: 200
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d8e4cba18df2e4d969a2617621163e
+      internalID: 692894223715235231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthWest_Throw2
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2330
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb78907bfb397ee4fb66485c869e49a5
+      internalID: -3342623007948820156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_West_Throw1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2080
+        width: 160
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d0740b0ddeeb9479197d025d621404
+      internalID: -2491933268228245247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_West_Throw2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2080
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc0fa2f40e064d4eb2ce6fb2dbe6004
+      internalID: -7332914599536551798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthWest_Throw1
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2080
+        width: 180
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff84af89d9459e40877ad938ea3f756
+      internalID: -9207338747395142756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthWest_Throw2
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 2080
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e262d1fdba1d948921d76ee45a25ae
+      internalID: -7637394536017954900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_North_Throw1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1830
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64429dcf952c36d4a8e7d9fecd8887b7
+      internalID: -2584764345295920961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_North_Throw2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1830
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77b12e07d85cf8408ec8569b82926d1
+      internalID: -2178370554551548951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthEast_Throw1
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1830
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e5e53dac25f4346b8d56418947983e
+      internalID: 5979508153467042671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthEast_Throw2
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1830
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aef65f7617fd3d40981bad84a2d1fec
+      internalID: -7328991162452255986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_East_Throw1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1580
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b161d817dfb3842bb2c34cdb482b89
+      internalID: -2642737095606109414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_East_Throw2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1580
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768eb305aaac83b49979dcf4a026d754
+      internalID: -2088363339737443684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthEast_Throw1
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1600
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0f2e5e109fc7d4c8a249a6eb7641b3
+      internalID: -1981041385135525682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthEast_Throw2
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1580
+        width: 210
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ceec6cf3d70c044b22e43e56f586a9
+      internalID: -3224380200118041858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthWest_Attack4
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1330
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fa2c64672cc5a4092a95324cff03d6
+      internalID: -8763235290211384117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_South_Attack1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1330
+        width: 230
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59200c172e19a0841a191ca03ea6561c
+      internalID: 7635711202012495173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_South_Attack2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1330
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74570465bf0c60045bfd2abb66726240
+      internalID: 8084526904597725532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_South_Attack3
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1330
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25707fee6d2b2e4884eebf271c4a917
+      internalID: -6850196521970396521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_South_Attack4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1330
+        width: 230
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c049f9a42970140882dcdf1eef53f3
+      internalID: 5393069851410168687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthWest_Attack1
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1340
+        width: 190
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae57c9340b7a9af499f1f2930ecef48f
+      internalID: 4656637108907833451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthWest_Attack2
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1340
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5670b5dda5fc6544abdca059b68a2c0
+      internalID: -4762711329198186389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthWest_Attack3
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1330
+        width: 230
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b0fd01e402f4845a1c9447e779f2f6
+      internalID: 819424859035599625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_West_Attack1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1080
+        width: 170
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9469afd3b99254c88075b55faa075c
+      internalID: 5550120986795228411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_West_Attack2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1080
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0f6132f10b5404197913e173cf8d34
+      internalID: 3618377786388990570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_West_Attack3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1080
+        width: 240
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85bc48e9bb00c14280202f54d27d99d
+      internalID: -5404953221750930595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_West_Attack4
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1080
+        width: 240
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a9813f5a245b4182e185aac2db6e6
+      internalID: -3694976082165343025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthWest_Attack1
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1080
+        width: 170
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661803c076ac5be4794ad75cd8aea6c1
+      internalID: -1121436129579496364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthWest_Attack2
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1080
+        width: 220
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4858d5dba6f9da149b9902861412ecf1
+      internalID: -7906461224601642048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthWest_Attack3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1080
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf43a07f56699d43b11068d935d7783
+      internalID: 8519518653037290939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthWest_Attack4
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1080
+        width: 240
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024ec82bc54284e4bb5439b75f0c06b8
+      internalID: -1687788280170421524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_North_Attack1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 830
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e022ffd138563d4ca4c552eba6e8c16
+      internalID: 282133979972269368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_North_Attack2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 830
+        width: 220
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b92434f8fc17042a344bfa2d6c04ab
+      internalID: 5023613403380600804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_North_Attack3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 830
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f74cd2750d7e2a4d8a404c0894b9c4f
+      internalID: -6124505164557259826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_North_Attack4
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 830
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f68bdd10d5572448bbfc6a57c10eae4
+      internalID: -2852450952162904197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthEast_Attack1
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 830
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6d37f64485c90459798efb3f5e0212
+      internalID: -5483790545303501521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthEast_Attack2
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 830
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4155f1719f79fce46a34a8b9b00c54fe
+      internalID: 6760327231166432945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthEast_Attack3
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 830
+        width: 210
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8233d53d62ffcbb4bacd6e123bb730d7
+      internalID: -6066632071921518289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NorthEast_Attack4
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 830
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288314e5188db7646a9faa3770a4c573
+      internalID: 3761659898475514540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_East_Attack1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 580
+        width: 170
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceddf5cbeeb4604abe3072d494ae951
+      internalID: 7070178289524689133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_East_Attack2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 580
+        width: 200
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564bfa7adc41d5043accff5554fb2072
+      internalID: -605085969999917495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_East_Attack3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 580
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49443347e1868b04f89d510604046670
+      internalID: 6355615494847903948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_East_Attack4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 580
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fc556d10167f545b4595062ceb3a2a
+      internalID: -8614557794409862696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthEast_Attack1
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 590
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a348eb67a988e429ba5d884a5f6196
+      internalID: 6878011609115712876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthEast_Attack2
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 580
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a63faeb9443194f9a83aed38b2c18d
+      internalID: 4492052139199753923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthEast_Attack3
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 580
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401e808e23a1f584e9da711cc6f917b5
+      internalID: 6801832994314373612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_SouthEast_Attack4
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 590
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44f6c9e4366bb242974fc57ad124097
+      internalID: 2918476871401471312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NextFloor1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 350
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5434a172f7d4d042a9250d2b181f274
+      internalID: -3786847772552883423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NextFloor2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 350
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571ed6f3299d03a4eb459f782b7d2af8
+      internalID: -7111008431159086585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NextFloor3
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 350
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff023c293b0f424184202cdb79cbff3
+      internalID: 3018648891346213636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NextFloor4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 360
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b461545e0bbfc4e84239c1df8287b2
+      internalID: -1045452638759046027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NextFloor5
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 370
+        width: 140
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc1c0ce527d31543b571fccb813206b
+      internalID: 5702067085158991917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NextFloor6
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 380
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500e3e2b92b605243a052bbffd347595
+      internalID: 9138622836373922488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_NextFloor7
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 390
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c0df6d69f0544cb780a769c3b3084
+      internalID: -4208870956673293230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 180
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2860adc3e4ea294590d4cbd51c9b8e9
+      internalID: -5728827071940713190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 170
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c991e5b0cf664744c914d39061a24b7b
+      internalID: 2606393950014408371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 170
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51af140fa03793b4e93c9de7d40d028f
+      internalID: -6402684484910907621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 170
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bbc25aa8fda8045a0de5f8319c0560
+      internalID: -426507635483564036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 180
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b47f23cdbd9df46a080c95cac14438
+      internalID: -7703068736549531093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 200
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec246b85fd8d0a438b8500ed5bc1d62
+      internalID: -8930488670968744596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile7
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 200
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19d8eac9fbab224293d51ece6dcbfea
+      internalID: 2279102318193068703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 190
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b7b3db16524ad4aa752394953b0cfd
+      internalID: 4728709477293239331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca9579311076ca40817c831e047278a
+      internalID: 2239578999106155913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 10
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d52f71d1c006b541b2f03d4f32ab95e
+      internalID: 2709655884897758445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 10
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f27f14d746f0c4fa5e5c0d6b3602ab
+      internalID: 6037839667293466755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 10
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9a8cc816fa06141b15cac7aeae7e44
+      internalID: -5301800625570168821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7318f793bf859e34a90d31e0c4264667
+      internalID: -2677124879028270424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile14
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 20
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4507c797a0fd54bb9aaf6ae73630ef
+      internalID: -8856197013417706764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile15
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 20
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332271e88dc7adf40843a8317b02d3fb
+      internalID: 3243238812210232568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWarrior_Projectile16
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 30
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc7a1e9d8637d488063d24109ed232
+      internalID: 4797629985800318709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

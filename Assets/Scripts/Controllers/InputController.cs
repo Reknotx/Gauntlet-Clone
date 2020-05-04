@@ -51,4 +51,48 @@ public class InputController : Element
                 break;
         }
     }
+
+    public void PlayerMeleeAttack(PlayerNumber.PlayerNum playerNum)
+    {
+        switch (playerNum)
+        {
+            case PlayerNumber.PlayerNum.PlayerOne:
+                app.view.players.playerOne.MeleeAttack();
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerTwo:
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerThree:
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerFour:
+                break;
+
+            default:
+                break;
+        }
+    }
+
+    public void PlayerThrow(PlayerNumber.PlayerNum playerNum)
+    {
+        switch (playerNum)
+        {
+            case PlayerNumber.PlayerNum.PlayerOne:
+                app.view.players.playerOne.Throw();
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerTwo:
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerThree:
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerFour:
+                break;
+
+            default:
+                break;
+        }
+    }
 }

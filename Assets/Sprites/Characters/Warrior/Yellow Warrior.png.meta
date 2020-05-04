@@ -1,7 +1,292 @@
 fileFormatVersion: 2
 guid: 5ddb9bc430a6ba64d9a3de7d97898b9b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 406872441607746608
+    second: Yellow Warrior_0
+  - first:
+      213: -7850422088839755749
+    second: Yellow Warrior_1
+  - first:
+      213: 8148295775128181590
+    second: Yellow Warrior_2
+  - first:
+      213: -7241244978811850637
+    second: Yellow Warrior_3
+  - first:
+      213: 5877720761240982429
+    second: Yellow Warrior_4
+  - first:
+      213: -2755610743453539109
+    second: Yellow Warrior_5
+  - first:
+      213: -3729300740279177966
+    second: Yellow Warrior_6
+  - first:
+      213: 3982393127732884931
+    second: Yellow Warrior_7
+  - first:
+      213: -516230294134650501
+    second: Yellow Warrior_8
+  - first:
+      213: 3699172924770689499
+    second: Yellow Warrior_9
+  - first:
+      213: -4860057815064743282
+    second: Yellow Warrior_10
+  - first:
+      213: -1242411593396536773
+    second: Yellow Warrior_11
+  - first:
+      213: -2898610430927800166
+    second: Yellow Warrior_12
+  - first:
+      213: 1745603360596077707
+    second: Yellow Warrior_13
+  - first:
+      213: -7467388782052389922
+    second: Yellow Warrior_14
+  - first:
+      213: 8426462431693937525
+    second: Yellow Warrior_15
+  - first:
+      213: 6177494988724560987
+    second: Yellow Warrior_16
+  - first:
+      213: -397994355469250088
+    second: Yellow Warrior_17
+  - first:
+      213: 6913147662266832129
+    second: Yellow Warrior_18
+  - first:
+      213: 8816162869405371074
+    second: Yellow Warrior_19
+  - first:
+      213: 3103735937434380967
+    second: Yellow Warrior_20
+  - first:
+      213: -7957054505454778537
+    second: Yellow Warrior_21
+  - first:
+      213: -3425895436808332125
+    second: Yellow Warrior_22
+  - first:
+      213: -7017284192894742085
+    second: Yellow Warrior_23
+  - first:
+      213: 8085162731407824085
+    second: Yellow Warrior_24
+  - first:
+      213: -8563457375467040214
+    second: Yellow Warrior_25
+  - first:
+      213: 9034066605433383962
+    second: Yellow Warrior_26
+  - first:
+      213: 6267827897119302041
+    second: Yellow Warrior_27
+  - first:
+      213: 9105700844247213222
+    second: Yellow Warrior_28
+  - first:
+      213: -1889419908941879979
+    second: Yellow Warrior_29
+  - first:
+      213: 2291157194406804226
+    second: Yellow Warrior_30
+  - first:
+      213: -8312812968101013388
+    second: Yellow Warrior_31
+  - first:
+      213: 2103306900434121248
+    second: Yellow Warrior_32
+  - first:
+      213: 4340282417199678066
+    second: Yellow Warrior_33
+  - first:
+      213: 8379496067524813579
+    second: Yellow Warrior_34
+  - first:
+      213: 8828470036231837890
+    second: Yellow Warrior_35
+  - first:
+      213: 1620379042603628565
+    second: Yellow Warrior_36
+  - first:
+      213: 9011400871225620824
+    second: Yellow Warrior_37
+  - first:
+      213: 3557005204082053287
+    second: Yellow Warrior_38
+  - first:
+      213: -3164703554604027832
+    second: Yellow Warrior_39
+  - first:
+      213: 8284282730866979565
+    second: Yellow Warrior_40
+  - first:
+      213: -2545972853365161453
+    second: Yellow Warrior_41
+  - first:
+      213: -992956022646422372
+    second: Yellow Warrior_42
+  - first:
+      213: -1003979564004696855
+    second: Yellow Warrior_43
+  - first:
+      213: -2979886675498194519
+    second: Yellow Warrior_44
+  - first:
+      213: 1192325591021235161
+    second: Yellow Warrior_45
+  - first:
+      213: -8163262568350242922
+    second: Yellow Warrior_46
+  - first:
+      213: -9107278199255439374
+    second: Yellow Warrior_47
+  - first:
+      213: -6001667821573335058
+    second: Yellow Warrior_48
+  - first:
+      213: 5461683321401872078
+    second: Yellow Warrior_49
+  - first:
+      213: 8295261912628653238
+    second: Yellow Warrior_50
+  - first:
+      213: 1379117594581080995
+    second: Yellow Warrior_51
+  - first:
+      213: 2744520143698829962
+    second: Yellow Warrior_52
+  - first:
+      213: 2655635751053151947
+    second: Yellow Warrior_53
+  - first:
+      213: -7676235240186676160
+    second: Yellow Warrior_54
+  - first:
+      213: -3922786908821158549
+    second: Yellow Warrior_55
+  - first:
+      213: -3393634734555947135
+    second: Yellow Warrior_56
+  - first:
+      213: -1782697688867382648
+    second: Yellow Warrior_57
+  - first:
+      213: -2572360421922537560
+    second: Yellow Warrior_58
+  - first:
+      213: 7082449220551170213
+    second: Yellow Warrior_59
+  - first:
+      213: -3965500654424114404
+    second: Yellow Warrior_60
+  - first:
+      213: -2163571740314535172
+    second: Yellow Warrior_61
+  - first:
+      213: 8162906623590725531
+    second: Yellow Warrior_62
+  - first:
+      213: 1746410212773149595
+    second: Yellow Warrior_63
+  - first:
+      213: -7618509930379563425
+    second: Yellow Warrior_64
+  - first:
+      213: -8423056978912823050
+    second: Yellow Warrior_65
+  - first:
+      213: -7169958115455351132
+    second: Yellow Warrior_66
+  - first:
+      213: 6006755043080245920
+    second: Yellow Warrior_67
+  - first:
+      213: 4818611948095611039
+    second: Yellow Warrior_68
+  - first:
+      213: 38874822196187263
+    second: Yellow Warrior_69
+  - first:
+      213: 3301503371127198352
+    second: Yellow Warrior_70
+  - first:
+      213: -7874115746043606391
+    second: Yellow Warrior_71
+  - first:
+      213: -34975812612957423
+    second: Yellow Warrior_72
+  - first:
+      213: 1465470101073037480
+    second: Yellow Warrior_73
+  - first:
+      213: 6129184040821325276
+    second: Yellow Warrior_74
+  - first:
+      213: -7608647629768696223
+    second: Yellow Warrior_75
+  - first:
+      213: -2029083076720338221
+    second: Yellow Warrior_76
+  - first:
+      213: 8944169758706894438
+    second: Yellow Warrior_77
+  - first:
+      213: -5207856651196326175
+    second: Yellow Warrior_78
+  - first:
+      213: -7210860886024740319
+    second: Yellow Warrior_79
+  - first:
+      213: 8745812761790975272
+    second: Yellow Warrior_80
+  - first:
+      213: 8869675772712786189
+    second: Yellow Warrior_81
+  - first:
+      213: 1124069053823225143
+    second: Yellow Warrior_82
+  - first:
+      213: 7598961747572203614
+    second: Yellow Warrior_83
+  - first:
+      213: -8325565413288073510
+    second: Yellow Warrior_84
+  - first:
+      213: 2074976745714189391
+    second: Yellow Warrior_85
+  - first:
+      213: 7325647173596443049
+    second: Yellow Warrior_86
+  - first:
+      213: 3786821406436769249
+    second: Yellow Warrior_87
+  - first:
+      213: 8847517182630282457
+    second: Yellow Warrior_88
+  - first:
+      213: -4492986610581544343
+    second: Yellow Warrior_89
+  - first:
+      213: -2698988848308452774
+    second: Yellow Warrior_90
+  - first:
+      213: -3896723744469180641
+    second: Yellow Warrior_91
+  - first:
+      213: -1403540077758355610
+    second: Yellow Warrior_92
+  - first:
+      213: -6448254752894761230
+    second: Yellow Warrior_93
+  - first:
+      213: -8817591384665203879
+    second: Yellow Warrior_94
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +325,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +354,2015 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Yellow Warrior_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3329
+        width: 205
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef25c1474d88d4468272a5e4ef1a64b
+      internalID: 406872441607746608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3348
+        width: 204
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd349ff307a7daa4cb98af770cf10c94
+      internalID: -7850422088839755749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3329
+        width: 204
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76213a07da5dad941983bb11fa3a218b
+      internalID: 8148295775128181590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_3
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 3329
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee71da23fa591a48b4b84d728d69d7c
+      internalID: -7241244978811850637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_4
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3337
+        width: 204
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ee36d9aa494d644910242e886af977
+      internalID: 5877720761240982429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_5
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 3337
+        width: 214
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e5dcc8ac5cbcf4f890f470e5ca9273
+      internalID: -2755610743453539109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3078
+        width: 194
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534cf85bc8b34714280b5a2d29e79e0b
+      internalID: -3729300740279177966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3078
+        width: 204
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f2b7cfc58d0bf44a9529daf12677fa
+      internalID: 3982393127732884931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3088
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da01e3d7852d8d144aecb06cec2014c6
+      internalID: -516230294134650501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_9
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 3078
+        width: 194
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c562c117654cb93428ed661f54178c89
+      internalID: 3699172924770689499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_10
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3088
+        width: 195
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff897dfba228544cac1e904326e0335
+      internalID: -4860057815064743282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_11
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3078
+        width: 194
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b851f24e00e6c5b4f92f26df3fb6437c
+      internalID: -1242411593396536773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2837
+        width: 206
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a93edf46b702414a880c11822d8967f
+      internalID: -2898610430927800166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2868
+        width: 203
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa9ba70ff155e943be7290e73c8f94f
+      internalID: 1745603360596077707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_14
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2837
+        width: 204
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabae9af13a891348b8a0540ef1bd679
+      internalID: -7467388782052389922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_15
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 2828
+        width: 195
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9269376d0821c4191cf5ec2d0739c5
+      internalID: 8426462431693937525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_16
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2847
+        width: 194
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ed8778962786b44a4496c9559e1662
+      internalID: 6177494988724560987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_17
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 2847
+        width: 195
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d68623ffa569a04f827bbed4686dfac
+      internalID: -397994355469250088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2577
+        width: 196
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521f8cdd35225b842b64bc5db1a33945
+      internalID: 6913147662266832129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2577
+        width: 204
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35e0ec8bb7ec394d979f79211158eb2
+      internalID: 8816162869405371074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2577
+        width: 203
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f1eaf404b6f264db49499769ad2c13
+      internalID: 3103735937434380967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2609
+        width: 214
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25d262b9834a31438f4ddced4de91d8
+      internalID: -7957054505454778537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_22
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 2588
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701cabceb3d50824e9d3314cb3290ce6
+      internalID: -3425895436808332125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_23
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 2577
+        width: 204
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0f0591e7670f4ca962acb691451a4
+      internalID: -7017284192894742085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2338
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f853bb3fcf66814897f7a1414694b7d
+      internalID: 8085162731407824085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2328
+        width: 224
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d180ad765bdf344aa8ed06972d0b6b
+      internalID: -8563457375467040214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_26
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2328
+        width: 204
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9696a6417e61964409b58cd06fb61233
+      internalID: 9034066605433383962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_27
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2328
+        width: 243
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd4b054b82b9c244a5cbc0339c327f5
+      internalID: 6267827897119302041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2077
+        width: 164
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fbfc7d33a5a3d44a47402ac1f20d90
+      internalID: 9105700844247213222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2077
+        width: 244
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d700e823359c344bf3dbb750b2716a
+      internalID: -1889419908941879979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_30
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 2077
+        width: 183
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f5dcb21a0a41a4f8ae4568aee6f7d0
+      internalID: 2291157194406804226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_31
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2077
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3b4d9459cd9bf49be13c86748942e7
+      internalID: -8312812968101013388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1828
+        width: 204
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e864aae5395e3da48a2b743a39e4c316
+      internalID: 2103306900434121248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1828
+        width: 203
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff0407db93494d47a438fa61d644c60
+      internalID: 4340282417199678066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_34
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1828
+        width: 195
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f144a92bf5b442f438546324f85f9b49
+      internalID: 8379496067524813579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_35
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1828
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873dc607451dafa4091cd4242af987e2
+      internalID: 8828470036231837890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1578
+        width: 193
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b782b6a11018a4bb00db957b0a49a9
+      internalID: 1620379042603628565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1578
+        width: 204
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a34e7d1ba930e40b9cfe23960e5f7d
+      internalID: 9011400871225620824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_38
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1598
+        width: 225
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41edf2ec9f889da448c2e7c28108026e
+      internalID: 3557005204082053287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_39
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1578
+        width: 215
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6d817a4553f9b4c900cb900c0d8943
+      internalID: -3164703554604027832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_40
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1329
+        width: 193
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29154f8189eae8d408336e454d8da6d5
+      internalID: 8284282730866979565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1327
+        width: 233
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6164b3ea7c6b3f946b0b4a694913a57c
+      internalID: -2545972853365161453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1327
+        width: 244
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd7d41eb4ea7ac438a38dc794a5b9cc
+      internalID: -992956022646422372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_43
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1327
+        width: 206
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622e2eb091bf43447ade99bff3ee766f
+      internalID: -1003979564004696855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_44
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1327
+        width: 235
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f86c01dfea74439469725933c7a36
+      internalID: -2979886675498194519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_45
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1338
+        width: 194
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b6fbb94eabc0a4596a87dd7f4c40a1
+      internalID: 1192325591021235161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_46
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1338
+        width: 243
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1bf01eceee3d349b6b0c71128a6166
+      internalID: -8163262568350242922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_47
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1327
+        width: 234
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdef3dea211ab44f95b133a8b54d72d
+      internalID: -9107278199255439374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 242
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42baa51eb473044ea23af7cc1fe2679
+      internalID: -6001667821573335058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_49
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1078
+        width: 235
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6219d6056beb7014fa7fe45c3279d89a
+      internalID: 5461683321401872078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1078
+        width: 243
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ba3e9b60addb547b268d1411331804
+      internalID: 8295261912628653238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_51
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1078
+        width: 244
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53272b0f158ddd04c888c5e514ccbd38
+      internalID: 1379117594581080995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_52
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1078
+        width: 175
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c95c7472df4afe4c8e7bf7b6e03dfed
+      internalID: 2744520143698829962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_53
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1078
+        width: 224
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893ea4014f71a704ea4ab22eb4796aea
+      internalID: 2655635751053151947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_54
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1078
+        width: 244
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0690fca6be2a7fe498fb0279cc3eee7b
+      internalID: -7676235240186676160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_55
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1078
+        width: 242
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0709a31c6616e46b7fd62762f106b1
+      internalID: -3922786908821158549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 827
+        width: 204
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba2bcd95f740b84ba3324538441c477
+      internalID: -3393634734555947135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 827
+        width: 224
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50581ef0655e79b409874676400a8b06
+      internalID: -1782697688867382648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_58
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 827
+        width: 193
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1997359efa08fe34785e18228770cf94
+      internalID: -2572360421922537560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_59
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 827
+        width: 204
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67213bbfd6ba8a84f826bdd1f6a536b2
+      internalID: 7082449220551170213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_60
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 827
+        width: 204
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce4eafd13d70da44a91b917e4e62398
+      internalID: -3965500654424114404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_61
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 827
+        width: 224
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b8f6748fe9b6d4a8bea0cc4b30e73b
+      internalID: -2163571740314535172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_62
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 827
+        width: 214
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48cf4beb0f2017468520a6e1cad433d
+      internalID: 8162906623590725531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_63
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 827
+        width: 206
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cab3f984f4f701418ed4524474a47c3
+      internalID: 1746410212773149595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 203
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a904bbab8188ac94ea475633047f3106
+      internalID: -7618509930379563425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_65
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 578
+        width: 204
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bc305eb5d1b0c48afffe8173609afa
+      internalID: -8423056978912823050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_66
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 578
+        width: 203
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad16ec49947592c489f3f77aea43bb84
+      internalID: -7169958115455351132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_67
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 578
+        width: 203
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd996be0dce7bb64eac67a377118fca5
+      internalID: 6006755043080245920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_68
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 588
+        width: 195
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c26dabdeef8004795308c7f735f34c
+      internalID: 4818611948095611039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_69
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 578
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821605d71011dff4696afc8bf3f1031d
+      internalID: 38874822196187263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_70
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 578
+        width: 223
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cad8b63684279a42a534ede200e6a91
+      internalID: 3301503371127198352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_71
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 588
+        width: 222
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7deddb6d5a64044194e1758a759808d
+      internalID: -7874115746043606391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 348
+        width: 225
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776da44aedd969648a99bbe7f6b2be3f
+      internalID: -34975812612957423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_73
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 348
+        width: 195
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9d81b2d7a4d144bb1ce1a225d78749
+      internalID: 1465470101073037480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_74
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 348
+        width: 206
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5650567bb509efb458aff53b1e784c59
+      internalID: 6129184040821325276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_75
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 358
+        width: 182
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3a279f803b7864b9bc76a59692dfa7
+      internalID: -7608647629768696223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_76
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 368
+        width: 145
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db22590963bbaa46b918bae0f84f655
+      internalID: -2029083076720338221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_77
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 377
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f30a2750167e429360ae9c5109228
+      internalID: 8944169758706894438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_78
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 388
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1936859c9d0cb0849bed71a4200e847d
+      internalID: -5207856651196326175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 178
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60a0e43b735f4b479fa9fd7c8ade922
+      internalID: -7210860886024740319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_80
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 168
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc2b4aed9d7ec7488c1ba2581db08c4
+      internalID: 8745812761790975272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_81
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 168
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ccab9c2b10c5b49a78bb26cc18abd9
+      internalID: 8869675772712786189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_82
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 168
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef95d4f57eccc5142ac24490b2624be4
+      internalID: 1124069053823225143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_83
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 178
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a678708500659d84481a7ed9b5a38618
+      internalID: 7598961747572203614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_84
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 198
+        width: 134
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf7a04f6c85bb44085e7c9684efa22a
+      internalID: -8325565413288073510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_85
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 198
+        width: 134
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef82be790a2a5c746b85d7ad49dd147f
+      internalID: 2074976745714189391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_86
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 187
+        width: 134
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb0509260f189d489d9e97450820a7f
+      internalID: 7325647173596443049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_87
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 8
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3397bb6993c434e829fcb263801c4d
+      internalID: 3786821406436769249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_88
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 8
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d493afd5e88b2b94690d0b6e6f2ed1e7
+      internalID: 8847517182630282457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_89
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 8
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4589963b8386d794591a86b239f77f94
+      internalID: -4492986610581544343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_90
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 8
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe50e035d7fce64da9b1b970c5d0d85
+      internalID: -2698988848308452774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_91
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 0
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6200f24d333abe94a89a1f1531087ef4
+      internalID: -3896723744469180641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_92
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 18
+        width: 135
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2538af33f987745b1a96c6cfddb727
+      internalID: -1403540077758355610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_93
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 17
+        width: 144
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9a94ecba3a5b943b395792bad82e02
+      internalID: -6448254752894761230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Warrior_94
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 28
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbc9bd161cd16643b1a136b7e9b6c84
+      internalID: -8817591384665203879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

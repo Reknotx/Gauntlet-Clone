@@ -50,6 +50,9 @@ public class PlayerClassStats : ScriptableObject
     [SerializeField]
     private Sprite _northWestSprite;
 
+    [SerializeField]
+    private GameObject _projectilePrefab;
+
     public int StartingHealth { get { return _startingHealth; } }
     public int HealthGain { get { return _healthGain; } }
     public int Armor { get { return _armor; } }
@@ -66,4 +69,6 @@ public class PlayerClassStats : ScriptableObject
     public Sprite SouthWestSprite { get { return _southWestSprite; } }
     public Sprite WestSprite { get { return _westSprite; } }
     public Sprite NorthWestSprite { get { return _northWestSprite; } }
+
+    public GameObject Projectile { get { return _projectilePrefab; } }
 }

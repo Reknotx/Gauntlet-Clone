@@ -21,4 +21,22 @@ public interface IPlayerData
     int Melee { get; }
 
     int MoveSpeed { get; }
+
+    Sprite NorthSprite { get; }
+
+    Sprite NorthEastSprite { get; }
+
+    Sprite EastSprite { get; }
+
+    Sprite SouthEastSprite { get; }
+
+    Sprite SouthSprite { get; }
+
+    Sprite SouthWestSprite { get; }
+
+    Sprite WestSprite { get; }
+
+    Sprite NorthWestSprite { get; }
+
+    GameObject Projectile { get; }
 }

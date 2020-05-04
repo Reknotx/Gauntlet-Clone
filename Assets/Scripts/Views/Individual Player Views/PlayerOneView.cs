@@ -42,73 +42,26 @@ public class PlayerOneView : PlayerView
 
     public void Rotate(Vector2 rotation)
     {
-        if (rotation.x > SpriteChangeThreshold)
+        Sprite temp = GetPlayerSpriteOnRotation(app.data.playerData.playerOne.PlayerNum, rotation);
+
+        if (temp != null)
         {
-            //Moving East
-            if (rotation.y > SpriteChangeThreshold)
-            {
-                //Moving NorthEast
-                if (playerSprite.sprite.name == app.data.playerData.playerOne.NorthEastSprite.name) return;
-                Debug.Log("Load warrior NorthEast");
-                playerSprite.sprite = app.data.playerData.playerOne.NorthEastSprite;
-            }
-            else if (rotation.y < -SpriteChangeThreshold)
-            {
-                //Moving SouthEast
-                if (playerSprite.sprite.name == app.data.playerData.playerOne.SouthEastSprite.name) return;
-                Debug.Log("Load warrior SouthEast");
-                playerSprite.sprite = app.data.playerData.playerOne.SouthEastSprite;
-            }
-            else
-            {
-                //Moving East
-                if (playerSprite.sprite.name == app.data.playerData.playerOne.EastSprite.name) return;
-                Debug.Log("Load warrior East");
-                playerSprite.sprite = app.data.playerData.playerOne.EastSprite;
-            }
+            playerSprite.sprite = temp;
         }
-        else if (rotation.x < -SpriteChangeThreshold)
-        {
-            //moving west
-            if (rotation.y > SpriteChangeThreshold)
-            {
-                //Moving NorthWest
-                if (playerSprite.sprite.name == app.data.playerData.playerOne.NorthWestSprite.name) return;
-                Debug.Log("Load warrior NorthWest");
-                playerSprite.sprite = app.data.playerData.playerOne.NorthWestSprite;
-            }
-            else if (rotation.y < -SpriteChangeThreshold)
-            {
-                //Moving SouthWest
-                if (playerSprite.sprite.name == app.data.playerData.playerOne.SouthWestSprite.name) return;
-                Debug.Log("Load warrior SouthWest");
-                playerSprite.sprite = app.data.playerData.playerOne.SouthWestSprite;
-            }
-            else
-            {
-                //Moving West
-                if (playerSprite.sprite.name == app.data.playerData.playerOne.WestSprite.name) return;
-                Debug.Log("Load warrior West");
-                playerSprite.sprite = app.data.playerData.playerOne.WestSprite;
-            }
-        }
-        else if (Mathf.Abs(rotation.y) > SpriteChangeThreshold)
-        {
-            //Moving north or south
-            if (rotation.y > 0f)
-            {
-                //Moving North
-                if (playerSprite.sprite.name == app.data.playerData.playerOne.NorthSprite.name) return;
-                Debug.Log("Load warrior North");
-                playerSprite.sprite = app.data.playerData.playerOne.NorthSprite;
-            }
-            else
-            {
-                //Moving South
-                if (playerSprite.sprite.name == app.data.playerData.playerOne.SouthSprite.name) return;
-                Debug.Log("Load warrior South");
-                playerSprite.sprite = app.data.playerData.playerOne.SouthSprite;
-            }
-        }
+    }
+
+    public void MeleeAttack()
+    {
+
+    }
+
+    public void Throw()
+    {
+        GameObject proj = Instantiate(app.data.playerData.playerOne.Projectile, transform.position, Quaternion.identity) as GameObject;
+
+        Vector2 throwDirecton = GetThrowVector(app.data.playerData.playerOne.PlayerNum);
+
+        proj.GetComponent<Rigidbody2D>().AddForce(throwDirecton * 500f);
+
     }
 }

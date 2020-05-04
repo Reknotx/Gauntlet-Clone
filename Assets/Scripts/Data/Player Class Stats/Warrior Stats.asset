@@ -27,3 +27,5 @@ MonoBehaviour:
   _southWestSprite: {fileID: 21300000, guid: 2e4a1e305fd058c44b75c2e63849cdee, type: 3}
   _westSprite: {fileID: 21300000, guid: f61c63a2b7340c443b4d83fae3542ea7, type: 3}
   _northWestSprite: {fileID: 21300000, guid: dd8dc41503057ab4f8f03abcdc91dbff, type: 3}
+  _projectilePrefab: {fileID: 2549510820038056007, guid: 8fb4980fa23e7044b91b0aff6931bbbb,
+    type: 3}

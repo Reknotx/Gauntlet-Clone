@@ -1095,7 +1095,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   data: {fileID: 1349248858}
   controller: {fileID: 1504758245}
-  view: {fileID: 0}
+  view: {fileID: 133326265}
 --- !u!1 &1212707471
 GameObject:
   m_ObjectHideFlags: 0

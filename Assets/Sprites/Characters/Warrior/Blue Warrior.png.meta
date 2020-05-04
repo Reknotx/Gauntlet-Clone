@@ -1,7 +1,292 @@
 fileFormatVersion: 2
 guid: 84619e0b26406284abc46283c00079ae
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -9209292895509691738
+    second: Blue Warrior_0
+  - first:
+      213: -7096109926623493204
+    second: Blue Warrior_1
+  - first:
+      213: 4398245433645386758
+    second: Blue Warrior_2
+  - first:
+      213: -2864242672250776293
+    second: Blue Warrior_3
+  - first:
+      213: 7544034680579472103
+    second: Blue Warrior_4
+  - first:
+      213: -7334480008615611914
+    second: Blue Warrior_5
+  - first:
+      213: 4548444195919000125
+    second: Blue Warrior_6
+  - first:
+      213: 7571104761460506995
+    second: Blue Warrior_7
+  - first:
+      213: 2897265923085692810
+    second: Blue Warrior_8
+  - first:
+      213: -6965185350841138378
+    second: Blue Warrior_9
+  - first:
+      213: -3802400516700685125
+    second: Blue Warrior_10
+  - first:
+      213: 2897938803912917857
+    second: Blue Warrior_11
+  - first:
+      213: 6279877864694590861
+    second: Blue Warrior_12
+  - first:
+      213: 8043282229337440403
+    second: Blue Warrior_13
+  - first:
+      213: -2166702278324780620
+    second: Blue Warrior_14
+  - first:
+      213: 9112784452332522399
+    second: Blue Warrior_15
+  - first:
+      213: -5058493288968349111
+    second: Blue Warrior_16
+  - first:
+      213: 1277159757378082594
+    second: Blue Warrior_17
+  - first:
+      213: -6517638469688933556
+    second: Blue Warrior_18
+  - first:
+      213: -7725503885486050779
+    second: Blue Warrior_19
+  - first:
+      213: 768158042519105532
+    second: Blue Warrior_20
+  - first:
+      213: 7183151724874930724
+    second: Blue Warrior_21
+  - first:
+      213: -2107231248412380808
+    second: Blue Warrior_22
+  - first:
+      213: 6782003277228642363
+    second: Blue Warrior_23
+  - first:
+      213: 2387352258973606336
+    second: Blue Warrior_24
+  - first:
+      213: -4038772015131830149
+    second: Blue Warrior_25
+  - first:
+      213: 6191904365971763863
+    second: Blue Warrior_26
+  - first:
+      213: 7554751730258637133
+    second: Blue Warrior_27
+  - first:
+      213: 5472567709664630065
+    second: Blue Warrior_28
+  - first:
+      213: -7538215286146494283
+    second: Blue Warrior_29
+  - first:
+      213: -3617480548835286004
+    second: Blue Warrior_30
+  - first:
+      213: -3938306554242669535
+    second: Blue Warrior_31
+  - first:
+      213: 2008389027661712473
+    second: Blue Warrior_32
+  - first:
+      213: 4616103279531864582
+    second: Blue Warrior_33
+  - first:
+      213: -1444014276072851536
+    second: Blue Warrior_34
+  - first:
+      213: 7621838634857731370
+    second: Blue Warrior_35
+  - first:
+      213: 4018195986310981017
+    second: Blue Warrior_36
+  - first:
+      213: 5623382787029446469
+    second: Blue Warrior_37
+  - first:
+      213: -3542793247930965053
+    second: Blue Warrior_38
+  - first:
+      213: -807384178358271614
+    second: Blue Warrior_39
+  - first:
+      213: 3604643014019520011
+    second: Blue Warrior_40
+  - first:
+      213: -6995256227195067189
+    second: Blue Warrior_41
+  - first:
+      213: 4441010268615125356
+    second: Blue Warrior_42
+  - first:
+      213: 7952922354148770531
+    second: Blue Warrior_43
+  - first:
+      213: 172456384416965354
+    second: Blue Warrior_44
+  - first:
+      213: 4699671816122950947
+    second: Blue Warrior_45
+  - first:
+      213: 816346756015537207
+    second: Blue Warrior_46
+  - first:
+      213: -8419512615876108787
+    second: Blue Warrior_47
+  - first:
+      213: -7084279956375946329
+    second: Blue Warrior_48
+  - first:
+      213: -4850133290459886206
+    second: Blue Warrior_49
+  - first:
+      213: -23807247012458699
+    second: Blue Warrior_50
+  - first:
+      213: -214970443027439372
+    second: Blue Warrior_51
+  - first:
+      213: 6764266742791523744
+    second: Blue Warrior_52
+  - first:
+      213: -3997077908857012285
+    second: Blue Warrior_53
+  - first:
+      213: -8437356972322506960
+    second: Blue Warrior_54
+  - first:
+      213: 2417210110285785425
+    second: Blue Warrior_55
+  - first:
+      213: 7258330090293972413
+    second: Blue Warrior_56
+  - first:
+      213: -7718799732895465917
+    second: Blue Warrior_57
+  - first:
+      213: 8012672153624806623
+    second: Blue Warrior_58
+  - first:
+      213: 4360527469142269739
+    second: Blue Warrior_59
+  - first:
+      213: -462004332808144019
+    second: Blue Warrior_60
+  - first:
+      213: -4735037142278000804
+    second: Blue Warrior_61
+  - first:
+      213: 2745058908741174761
+    second: Blue Warrior_62
+  - first:
+      213: -226468763666143252
+    second: Blue Warrior_63
+  - first:
+      213: -8400907283897037312
+    second: Blue Warrior_64
+  - first:
+      213: 7251538907580375003
+    second: Blue Warrior_65
+  - first:
+      213: -8851486548776143993
+    second: Blue Warrior_66
+  - first:
+      213: -8343973196368252971
+    second: Blue Warrior_67
+  - first:
+      213: 2012382820534037652
+    second: Blue Warrior_68
+  - first:
+      213: -4362396955624628950
+    second: Blue Warrior_69
+  - first:
+      213: 3894759584534995725
+    second: Blue Warrior_70
+  - first:
+      213: -3090384564461051370
+    second: Blue Warrior_71
+  - first:
+      213: -1641467166179367999
+    second: Blue Warrior_72
+  - first:
+      213: 4835109103457670035
+    second: Blue Warrior_73
+  - first:
+      213: -5628049211604639252
+    second: Blue Warrior_74
+  - first:
+      213: -3639149549639128978
+    second: Blue Warrior_75
+  - first:
+      213: -3907978252908801110
+    second: Blue Warrior_76
+  - first:
+      213: -5891098864724651320
+    second: Blue Warrior_77
+  - first:
+      213: -5914176577708812053
+    second: Blue Warrior_78
+  - first:
+      213: 2062443142556704695
+    second: Blue Warrior_79
+  - first:
+      213: 7175265780401400637
+    second: Blue Warrior_80
+  - first:
+      213: 7894899243097137805
+    second: Blue Warrior_81
+  - first:
+      213: -487605020500207964
+    second: Blue Warrior_82
+  - first:
+      213: 6785593804009754422
+    second: Blue Warrior_83
+  - first:
+      213: -8788599325157028040
+    second: Blue Warrior_84
+  - first:
+      213: -311823790213685610
+    second: Blue Warrior_85
+  - first:
+      213: 5280317288637555141
+    second: Blue Warrior_86
+  - first:
+      213: -8731634372323986560
+    second: Blue Warrior_87
+  - first:
+      213: 6660005582536504526
+    second: Blue Warrior_88
+  - first:
+      213: 3737565850170413334
+    second: Blue Warrior_89
+  - first:
+      213: -6585149635660084100
+    second: Blue Warrior_90
+  - first:
+      213: 1994159620842167249
+    second: Blue Warrior_91
+  - first:
+      213: 8327601311561819728
+    second: Blue Warrior_92
+  - first:
+      213: 8038405216206275495
+    second: Blue Warrior_93
+  - first:
+      213: -4311048547631408
+    second: Blue Warrior_94
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +325,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -60,7 +345,18 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -71,7 +367,2002 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Blue Warrior_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3330
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe2847df5cedcc438766eb3d2aac417
+      internalID: -9209292895509691738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3350
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7a15f49361f7a4ca44250b664dfe7b
+      internalID: -7096109926623493204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3330
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592bb3ecc08159041b389d1b33b09de8
+      internalID: 4398245433645386758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_3
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 3330
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82caacf79fdd8bf47bc22f5957bf6791
+      internalID: -2864242672250776293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_4
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 3340
+        width: 200
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9a815328ce8c1409d4109183db41c8
+      internalID: 7544034680579472103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_5
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 3340
+        width: 210
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9bd9ee384b1e64e933079f4ba567c1
+      internalID: -7334480008615611914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3080
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d614d73db28e1344839032fe85608ec
+      internalID: 4548444195919000125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3080
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028d984cb0b7f564faedbca3f35c467a
+      internalID: 7571104761460506995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 3090
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b84d4d2d6eb34ca18e8e6cd8764f5
+      internalID: 2897265923085692810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_9
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3080
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ac18fee1d98304e9bb4d3dd592d904
+      internalID: -6965185350841138378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_10
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3090
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce08dd3554dd224e913f50b66b325aa
+      internalID: -3802400516700685125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_11
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3080
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3f924b57ea8a6488e4bad2de3d605a
+      internalID: 2897938803912917857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2840
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2656dae5ccd1a949ad48c7cdb41125f
+      internalID: 6279877864694590861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2870
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c266d5f863c82724d951f36299fb8822
+      internalID: 8043282229337440403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_14
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2840
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bb45490c81d6546bbbd91254741007
+      internalID: -2166702278324780620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_15
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2830
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d251dbfce81654d86dfe657afcdeca
+      internalID: 9112784452332522399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2850
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268c5de13bd7b3c46bc9eb20313ccc9f
+      internalID: -5058493288968349111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_17
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2850
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf77080ee96eab34da76f5165d41ab93
+      internalID: 1277159757378082594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2580
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d3b0f6c3ab6ad4787c687aa79d765a
+      internalID: -6517638469688933556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2580
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2763f3a3f5652504ebec626111699cf5
+      internalID: -7725503885486050779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2580
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07e1c9f915b82f4b9dd95cff5edd47a
+      internalID: 768158042519105532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_21
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2610
+        width: 210
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3331eb2372a034fb14153716478427
+      internalID: 7183151724874930724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_22
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2590
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2909240ea936c01429b1303f25974e28
+      internalID: -2107231248412380808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2580
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c29e3d15570c374fbf99f761cc1f5cf
+      internalID: 6782003277228642363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2340
+        width: 200
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b1e0f8a5c5ffb4bbbb30f646db018b
+      internalID: 2387352258973606336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2330
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a7f055c9c89b946aaf147c72c4b144
+      internalID: -4038772015131830149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_26
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2330
+        width: 200
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba483fcf4ba35c4085fd733a5737582
+      internalID: 6191904365971763863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_27
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2330
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9294ee71e52336f419f99a87c03088f1
+      internalID: 7554751730258637133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2080
+        width: 160
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c87bbfa09c5574d9040ca82babec89
+      internalID: 5472567709664630065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2080
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43ba182555ad744782433d3dd2a418d
+      internalID: -7538215286146494283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_30
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2080
+        width: 180
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4f7fe9687bd0d4899fe68ff6cedf28
+      internalID: -3617480548835286004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_31
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 2080
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608c34ca35b9f7d498793cc6aacec5cf
+      internalID: -3938306554242669535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1830
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bba4dc761c4b204f82b02221b12e4e5
+      internalID: 2008389027661712473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_33
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1830
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1a9f55a2c01464d8c25538f97ba077
+      internalID: 4616103279531864582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_34
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1830
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71f0d177dda4e54abe8d5251b9e9d4a
+      internalID: -1444014276072851536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_35
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1830
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2e68a7c819efc4eba9cbf3c6680fcd
+      internalID: 7621838634857731370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1580
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59956f47f31e7bb49aae50058ad622e1
+      internalID: 4018195986310981017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1580
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec43529a04d856f4b92fad96224eb7c6
+      internalID: 5623382787029446469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_38
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1600
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e532ff3a6ebd74c9b65c6e75029389
+      internalID: -3542793247930965053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_39
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1580
+        width: 210
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338fad2d49038124e96e875cf89716a7
+      internalID: -807384178358271614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1330
+        width: 230
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b880fc4f8ff1ba4e99073db8bbc096d
+      internalID: 3604643014019520011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1330
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8bfcd6039e3004b9afecfa1e05626a
+      internalID: -6995256227195067189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_42
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1330
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a12f832ccd4f5f4e9d18676f42a5984
+      internalID: 4441010268615125356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_43
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1330
+        width: 230
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b500e2448cddddd4fb774d4d2c9c2d9d
+      internalID: 7952922354148770531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_44
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1340
+        width: 190
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfde159865437d42aefb1f3e283e80c
+      internalID: 172456384416965354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_45
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1340
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9bf2be2497b884498afb9a3a4e54b5
+      internalID: 4699671816122950947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_46
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1330
+        width: 230
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bd8d0d7b4a93f4a84865c40ab48274
+      internalID: 816346756015537207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_47
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1330
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ee532a04f443249a91e9a33aa80c70
+      internalID: -8419512615876108787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1080
+        width: 170
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cbf16594e36c5418800160bceb10c9
+      internalID: -7084279956375946329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_49
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1080
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6181b00687b8c124f9515a68a0bfda92
+      internalID: -4850133290459886206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1080
+        width: 240
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f3e3efbc75504e959eaeaad40755c
+      internalID: -23807247012458699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_51
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1080
+        width: 240
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e971580b37aff8443b6aa06555934c19
+      internalID: -214970443027439372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_52
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1080
+        width: 170
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d003a7a5e99da478763a5b92834b69
+      internalID: 6764266742791523744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_53
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1080
+        width: 220
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2359e771cfdbd43b2f5f1b93299d55
+      internalID: -3997077908857012285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_54
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1080
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36caf08c2ee327f459dcb74ab85385a6
+      internalID: -8437356972322506960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_55
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1080
+        width: 240
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918f43532979b154d9efd65c35399874
+      internalID: 2417210110285785425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 830
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5569915db3489c24199575f7d5aa40e6
+      internalID: 7258330090293972413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_57
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 830
+        width: 220
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9142a6f1cce810f44b64a73c5d2cd359
+      internalID: -7718799732895465917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_58
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 830
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2526f22341e46cd478f2e42ca572fea2
+      internalID: 8012672153624806623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_59
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 830
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3025f27c691dedc49b6fd11c490374ef
+      internalID: 4360527469142269739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_60
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 830
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00335d0e904eba34a9ebba2e12de6f45
+      internalID: -462004332808144019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_61
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 830
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c3172b9bf0284385ee7fc0ac4f279
+      internalID: -4735037142278000804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_62
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 830
+        width: 210
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c422fc702138248b32dda04027dc69
+      internalID: 2745058908741174761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_63
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 830
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fb04f6d04d11f4c9aa56ea8e34e0ef
+      internalID: -226468763666143252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_64
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 580
+        width: 170
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79889fa1800c774b90c6aff93494863
+      internalID: -8400907283897037312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 580
+        width: 200
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e91505a76faec4d86efce597a23668
+      internalID: 7251538907580375003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_66
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 580
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d0ba75107b1cf40bbac773799d88d8
+      internalID: -8851486548776143993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_67
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 580
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fb745d8517b3547a7cd6789e9c581d
+      internalID: -8343973196368252971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_68
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 590
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae18c7eaeb2c9af4db2161270fc68458
+      internalID: 2012382820534037652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_69
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 580
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb294541068b154980e039deaf4c3d2
+      internalID: -4362396955624628950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_70
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 580
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dca2895d7958fb489184c456f9d6376
+      internalID: 3894759584534995725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_71
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 590
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bb376c7c8e67f49b5ad1623aebff51
+      internalID: -3090384564461051370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 350
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8d4ab5e85000c45862ad757aae3d34
+      internalID: -1641467166179367999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 350
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73150ed44e5e25f4cb9da48b8e3ab783
+      internalID: 4835109103457670035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_74
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 350
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b6823c0d72e784e807eb36bee4b912
+      internalID: -5628049211604639252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_75
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 360
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527eeab5535962741b0f7c04c9f2a2f3
+      internalID: -3639149549639128978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_76
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 370
+        width: 140
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9cb6360d054544fb35b02d3fbbcfc6
+      internalID: -3907978252908801110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_77
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 380
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b27c7bb282a7c48ac5fbc88301fe9a
+      internalID: -5891098864724651320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_78
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 390
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d42d52dc4b9c4c428308e964807e3b6
+      internalID: -5914176577708812053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_79
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 180
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8060a24dafc9c44b03f3d7448b869f
+      internalID: 2062443142556704695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_80
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 170
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96231bf17d371b40962f821fc4f124a
+      internalID: 7175265780401400637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_81
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 170
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b56bd32b224704092c7fd8e8368e36
+      internalID: 7894899243097137805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_82
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 170
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafa4fbf75d524341a4efa94482dca23
+      internalID: -487605020500207964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_83
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 180
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90055e02c363204e8d03ec58b8798ae
+      internalID: 6785593804009754422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_84
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 200
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac786472cae5b404cb9e9a08162e3218
+      internalID: -8788599325157028040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_85
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 200
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f48789786d2614c80f492cadf798cd
+      internalID: -311823790213685610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_86
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 190
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f74a48e853b6ef4fa8a37d84990d5a5
+      internalID: 5280317288637555141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_87
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bbdc851f06ad549abad9a28edb1134
+      internalID: -8731634372323986560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_88
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 10
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9bad4239aff9a4a9dcdfe01e02c764
+      internalID: 6660005582536504526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_89
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 10
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1619d102357461e4bbc67a9b4a5985e0
+      internalID: 3737565850170413334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_90
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 10
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd38fea9df743a46a5bf0c45d40c222
+      internalID: -6585149635660084100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_91
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a0f27792231f941a31ca7847008652
+      internalID: 1994159620842167249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_92
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 20
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e8c5edd36955148bd765ab86981719
+      internalID: 8327601311561819728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_93
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 20
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9efa8aeab52e3f45b7b697664507f42
+      internalID: 8038405216206275495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Warrior_94
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 30
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27f40998d794ab43b63e4d982679246
+      internalID: -4311048547631408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

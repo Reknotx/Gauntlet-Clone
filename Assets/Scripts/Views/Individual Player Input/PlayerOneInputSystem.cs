@@ -35,12 +35,20 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                     ""interactions"": """"
                 },
                 {
-                    ""name"": ""Fire"",
+                    ""name"": ""Melee"",
                     ""type"": ""Button"",
                     ""id"": ""ac844c23-bcea-4aa3-9d6e-01590a815220"",
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
                     ""interactions"": """"
+                },
+                {
+                    ""name"": ""Throw"",
+                    ""type"": ""Button"",
+                    ""id"": ""af2b394b-136a-4ae6-9ed6-07e56cd7b30e"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": ""Press""
                 }
             ],
             ""bindings"": [
@@ -205,7 +213,7 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": "";Gamepad"",
-                    ""action"": ""Fire"",
+                    ""action"": ""Melee"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
@@ -216,7 +224,7 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": "";Keyboard&Mouse"",
-                    ""action"": ""Fire"",
+                    ""action"": ""Melee"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
@@ -227,7 +235,7 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": "";Touch"",
-                    ""action"": ""Fire"",
+                    ""action"": ""Melee"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
@@ -238,7 +246,7 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Joystick"",
-                    ""action"": ""Fire"",
+                    ""action"": ""Melee"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
@@ -249,7 +257,29 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""XR"",
-                    ""action"": ""Fire"",
+                    ""action"": ""Melee"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""6a72fe84-4914-46b2-99d1-43167b62831f"",
+                    ""path"": ""<Gamepad>/leftTrigger"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard&Mouse"",
+                    ""action"": ""Throw"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""7f2bb348-83ad-4b39-be44-da456282eaaa"",
+                    ""path"": ""<Gamepad>/leftTrigger"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""Throw"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -829,7 +859,8 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
         m_Player = asset.FindActionMap("Player", throwIfNotFound: true);
         m_Player_Move = m_Player.FindAction("Move", throwIfNotFound: true);
         m_Player_Look = m_Player.FindAction("Look", throwIfNotFound: true);
-        m_Player_Fire = m_Player.FindAction("Fire", throwIfNotFound: true);
+        m_Player_Melee = m_Player.FindAction("Melee", throwIfNotFound: true);
+        m_Player_Throw = m_Player.FindAction("Throw", throwIfNotFound: true);
         // UI
         m_UI = asset.FindActionMap("UI", throwIfNotFound: true);
         m_UI_Navigate = m_UI.FindAction("Navigate", throwIfNotFound: true);
@@ -893,14 +924,16 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
     private IPlayerActions m_PlayerActionsCallbackInterface;
     private readonly InputAction m_Player_Move;
     private readonly InputAction m_Player_Look;
-    private readonly InputAction m_Player_Fire;
+    private readonly InputAction m_Player_Melee;
+    private readonly InputAction m_Player_Throw;
     public struct PlayerActions
     {
         private @PlayerOneInputSystem m_Wrapper;
         public PlayerActions(@PlayerOneInputSystem wrapper) { m_Wrapper = wrapper; }
         public InputAction @Move => m_Wrapper.m_Player_Move;
         public InputAction @Look => m_Wrapper.m_Player_Look;
-        public InputAction @Fire => m_Wrapper.m_Player_Fire;
+        public InputAction @Melee => m_Wrapper.m_Player_Melee;
+        public InputAction @Throw => m_Wrapper.m_Player_Throw;
         public InputActionMap Get() { return m_Wrapper.m_Player; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -916,9 +949,12 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                 @Look.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnLook;
                 @Look.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnLook;
                 @Look.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnLook;
-                @Fire.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnFire;
-                @Fire.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnFire;
-                @Fire.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnFire;
+                @Melee.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnMelee;
+                @Melee.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnMelee;
+                @Melee.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnMelee;
+                @Throw.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnThrow;
+                @Throw.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnThrow;
+                @Throw.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnThrow;
             }
             m_Wrapper.m_PlayerActionsCallbackInterface = instance;
             if (instance != null)
@@ -929,9 +965,12 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                 @Look.started += instance.OnLook;
                 @Look.performed += instance.OnLook;
                 @Look.canceled += instance.OnLook;
-                @Fire.started += instance.OnFire;
-                @Fire.performed += instance.OnFire;
-                @Fire.canceled += instance.OnFire;
+                @Melee.started += instance.OnMelee;
+                @Melee.performed += instance.OnMelee;
+                @Melee.canceled += instance.OnMelee;
+                @Throw.started += instance.OnThrow;
+                @Throw.performed += instance.OnThrow;
+                @Throw.canceled += instance.OnThrow;
             }
         }
     }
@@ -1090,7 +1129,8 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
     {
         void OnMove(InputAction.CallbackContext context);
         void OnLook(InputAction.CallbackContext context);
-        void OnFire(InputAction.CallbackContext context);
+        void OnMelee(InputAction.CallbackContext context);
+        void OnThrow(InputAction.CallbackContext context);
     }
     public interface IUIActions
     {

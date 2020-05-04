@@ -4,24 +4,6 @@ using UnityEngine;
 
 public class PlayerThreeData : PlayerData, IPlayerData
 {
-    public int Health { get { return base._health; } set { base._health = value; } }
-    public int Score { get { return base._score; } set { base._score = value; } }
-    public int TokensUsed { get { return base._tokensUsed; } set { base._tokensUsed++; } }
-
-    public int HealthGain { get { return base._healthGain; } }
-
-    public int Armor { get { return base._armor; } }
-
-    public int Shot { get { return base._shotStrength; } }
-
-    public int Magic { get { return base._magicStrength; } }
-
-    public int Melee { get { return base._meleeStrength; } }
-
-    public int MoveSpeed { get { return base._moveSpeed; } }
-
-    public PlayerNumber.PlayerNum PlayerNum { get { return base._playerNum; } }
-
     void Start()
     {
         base._health = playerClassData.StartingHealth;
@@ -34,5 +16,14 @@ public class PlayerThreeData : PlayerData, IPlayerData
         base._meleeStrength = playerClassData.Melee;
         base._moveSpeed = playerClassData.Speed;
         base._playerNum = PlayerNumber.PlayerNum.PlayerThree;
+
+        base._northSprite = playerClassData.NorthSprite;
+        base._northEastSprite = playerClassData.NorthEastSprite;
+        base._eastSprite = playerClassData.EastSprite;
+        base._southEastSprite = playerClassData.SouthEastSprite;
+        base._southSprite = playerClassData.SouthSprite;
+        base._southWestSprite = playerClassData.SouthWestSprite;
+        base._westSprite = playerClassData.WestSprite;
+        base._northWestSprite = playerClassData.NorthWestSprite;
     }
 }
