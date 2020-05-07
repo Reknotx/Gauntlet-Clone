@@ -16,6 +16,8 @@ public abstract class PlayerData : Element, IPlayerData
         NorthWest
     }
 
+    protected bool _isAttacking = false;
+
     protected Direction currDirection;
 
     //All the necessary data
@@ -62,6 +64,7 @@ public abstract class PlayerData : Element, IPlayerData
 
     //Member variables below to access data
 
+    public bool IsAttacking { get { return _isAttacking; } set { _isAttacking = value; } }
 
     public int Health { get { return _health; } set { _health = value; } }
     public int Score { get { return _score; } set { _score = value; } }

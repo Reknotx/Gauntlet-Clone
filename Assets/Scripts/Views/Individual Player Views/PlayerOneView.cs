@@ -8,6 +8,16 @@ public class PlayerOneView : PlayerView
 
     private Rigidbody2D playerOneRB;
 
+    public Sprite NorthAttack;
+    public Sprite NorthEastAttack;
+    public Sprite EastAttack;
+    public Sprite SouthEastAttack;
+    public Sprite SouthAttack;
+    public Sprite SouthWestAttack;
+    public Sprite WestAttack;
+    public Sprite NorthWestAttack;
+
+
     private void Awake()
     {
         playerSprite = gameObject.GetComponent<SpriteRenderer>();
@@ -50,8 +60,45 @@ public class PlayerOneView : PlayerView
 
     public void MeleeAttack()
     {
-        //Execute attack animation
 
+        //Execute attack animation
+        switch (app.data.playerData.playerOne.CurrentDirection)
+        {
+            case PlayerData.Direction.North:
+                playerSprite.sprite = NorthAttack;
+                break;
+
+            case PlayerData.Direction.NorthEast:
+                playerSprite.sprite = NorthEastAttack;
+                break;
+
+            case PlayerData.Direction.East:
+                playerSprite.sprite = EastAttack;
+                break;
+
+            case PlayerData.Direction.SouthEast:
+                playerSprite.sprite = SouthEastAttack;
+                break;
+
+            case PlayerData.Direction.South:
+                playerSprite.sprite = SouthAttack;
+                break;
+
+            case PlayerData.Direction.SouthWest:
+                playerSprite.sprite = SouthWestAttack;
+                break;
+
+            case PlayerData.Direction.West:
+                playerSprite.sprite = WestAttack;
+                break;
+
+            case PlayerData.Direction.NorthWest:
+                playerSprite.sprite = NorthWestAttack;
+                break;
+
+            default:
+                break;
+        }
     }
 
     public void Throw()
@@ -63,4 +110,6 @@ public class PlayerOneView : PlayerView
         proj.GetComponent<Rigidbody2D>().AddForce(throwDirecton * 500f);
 
     }
+
+    
 }

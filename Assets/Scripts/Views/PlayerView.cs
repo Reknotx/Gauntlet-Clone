@@ -193,4 +193,119 @@ public class PlayerView : Element
 
         return throwDirection;
     }
+
+    //protected Sprite GetCurrentDirectionSprite(PlayerNumber.PlayerNum player)
+    //{
+    //    Sprite temp = null;
+
+    //    PlayerData playerData = null;
+
+    //    switch (player)
+    //    {
+    //        case PlayerNumber.PlayerNum.PlayerOne:
+    //            playerData = app.data.playerData.playerOne;
+    //            break;
+
+    //        case PlayerNumber.PlayerNum.PlayerTwo:
+    //            playerData = app.data.playerData.playerTwo;
+    //            break;
+
+    //        case PlayerNumber.PlayerNum.PlayerThree:
+    //            playerData = app.data.playerData.playerThree;
+    //            break;
+
+    //        case PlayerNumber.PlayerNum.PlayerFour:
+    //            playerData = app.data.playerData.playerFour;
+    //            break;
+
+    //        default:
+    //            break;
+    //    }
+
+    //    switch (playerData.CurrentDirection)
+    //    {
+    //        case PlayerData.Direction.North:
+    //            temp = playerData.NorthSprite;
+    //            break;
+
+    //        case PlayerData.Direction.NorthEast:
+    //            temp = playerData.NorthEastSprite;
+    //            break;
+
+    //        case PlayerData.Direction.East:
+    //            temp = playerData.EastSprite;
+    //            break;
+
+    //        case PlayerData.Direction.SouthEast:
+    //            temp = playerData.SouthEastSprite;
+    //            break;
+
+    //        case PlayerData.Direction.South:
+    //            temp = playerData.SouthSprite;
+    //            break;
+
+    //        case PlayerData.Direction.SouthWest:
+    //            temp = playerData.SouthWestSprite;
+    //            break;
+
+    //        case PlayerData.Direction.West:
+    //            temp = playerData.WestSprite;
+    //            break;
+
+    //        case PlayerData.Direction.NorthWest:
+    //            temp = playerData.NorthWestSprite;
+    //            break;
+
+    //        default:
+    //            break;
+    //    }
+
+    //    return temp;
+    //}
+
+    public void SetCurrentDirectionSprite(PlayerData playerData, PlayerView playerview)
+    {
+        //playerview.getcu
+        Sprite temp = null;
+
+        switch (playerData.CurrentDirection)
+        {
+            case PlayerData.Direction.North:
+                temp = playerData.NorthSprite;
+                break;
+
+            case PlayerData.Direction.NorthEast:
+                temp = playerData.NorthEastSprite;
+                break;
+
+            case PlayerData.Direction.East:
+                temp = playerData.EastSprite;
+                break;
+
+            case PlayerData.Direction.SouthEast:
+                temp = playerData.SouthEastSprite;
+                break;
+
+            case PlayerData.Direction.South:
+                temp = playerData.SouthSprite;
+                break;
+
+            case PlayerData.Direction.SouthWest:
+                temp = playerData.SouthWestSprite;
+                break;
+
+            case PlayerData.Direction.West:
+                temp = playerData.WestSprite;
+                break;
+
+            case PlayerData.Direction.NorthWest:
+                temp = playerData.NorthWestSprite;
+                break;
+
+            default:
+                break;
+        }
+
+        playerview.GetComponent<SpriteRenderer>().sprite = temp;
+    }
 }

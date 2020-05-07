@@ -40,7 +40,7 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                     ""id"": ""ac844c23-bcea-4aa3-9d6e-01590a815220"",
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
-                    ""interactions"": """"
+                    ""interactions"": ""Press""
                 },
                 {
                     ""name"": ""Throw"",

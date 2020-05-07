@@ -6,6 +6,8 @@ public class InputController : Element
 {
     public void MovePlayer(PlayerNumber.PlayerNum player, Vector2 movement)
     {
+        if (CheckIfPlayerAttacking(player)) return;
+
         switch (player)
         {
             case PlayerNumber.PlayerNum.PlayerOne:
@@ -32,6 +34,8 @@ public class InputController : Element
 
     public void RotatePlayer(PlayerNumber.PlayerNum player, Vector2 rotation)
     {
+        if (CheckIfPlayerAttacking(player)) return;
+
         switch (player)
         {
             case PlayerNumber.PlayerNum.PlayerOne:
@@ -52,31 +56,44 @@ public class InputController : Element
         }
     }
 
-    public void PlayerMeleeAttack(PlayerNumber.PlayerNum playerNum)
+    public void PlayerMeleeAttack(PlayerNumber.PlayerNum player)
     {
-        switch (playerNum)
+        if (CheckIfPlayerAttacking(player)) return;
+
+        switch (player)
         {
             case PlayerNumber.PlayerNum.PlayerOne:
+                app.data.playerData.playerOne.IsAttacking = true;
                 app.view.players.playerOne.MeleeAttack();
                 break;
 
             case PlayerNumber.PlayerNum.PlayerTwo:
+                app.data.playerData.playerTwo.IsAttacking = true;
+                //app.view.players.playerTwo.MeleeAttack();
                 break;
 
             case PlayerNumber.PlayerNum.PlayerThree:
+                app.data.playerData.playerThree.IsAttacking = true;
+                //app.view.players.playerThree.MeleeAttack();
                 break;
 
             case PlayerNumber.PlayerNum.PlayerFour:
+                app.data.playerData.playerFour.IsAttacking = true;
+                //app.view.players.playerFour.MeleeAttack();
                 break;
 
             default:
                 break;
         }
+
+        StartCoroutine(Attack(player));
     }
 
-    public void PlayerThrow(PlayerNumber.PlayerNum playerNum)
+    public void PlayerThrow(PlayerNumber.PlayerNum player)
     {
-        switch (playerNum)
+        if (CheckIfPlayerAttacking(player)) return;
+
+        switch (player)
         {
             case PlayerNumber.PlayerNum.PlayerOne:
                 app.view.players.playerOne.Throw();
@@ -94,5 +111,70 @@ public class InputController : Element
             default:
                 break;
         }
+    }
+
+    private bool CheckIfPlayerAttacking(PlayerNumber.PlayerNum player)
+    {
+        switch (player)
+        {
+            case PlayerNumber.PlayerNum.PlayerOne:
+                if (app.data.playerData.playerOne.IsAttacking) return true;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerTwo:
+                if (app.data.playerData.playerTwo.IsAttacking) return true;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerThree:
+                if (app.data.playerData.playerThree.IsAttacking) return true;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerFour:
+                if (app.data.playerData.playerFour.IsAttacking) return true;
+                break;
+
+            default:
+                break;
+        }
+
+        return false;
+    }
+
+    IEnumerator Attack(PlayerNumber.PlayerNum player)
+    {
+        PlayerData playerData = null;
+        PlayerView playerView = null;
+
+        switch (player)
+        {
+            case PlayerNumber.PlayerNum.PlayerOne:
+                playerData = app.data.playerData.playerOne;
+                playerView = app.view.players.playerOne;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerTwo:
+                playerData = app.data.playerData.playerTwo;
+                playerView = app.view.players.playerTwo;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerThree:
+                playerData = app.data.playerData.playerThree;
+                playerView = app.view.players.playerThree;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerFour:
+                playerData = app.data.playerData.playerFour;
+                playerView = app.view.players.playerFour;
+                break;
+
+            default:
+                break;
+        }
+
+        yield return new WaitForSeconds(0.5f);
+
+        playerView.SetCurrentDirectionSprite(playerData, playerView);
+
+        playerData.IsAttacking = false;
     }
 }

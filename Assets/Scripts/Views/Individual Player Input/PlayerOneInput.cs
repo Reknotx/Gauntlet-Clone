@@ -19,6 +19,9 @@ public class PlayerOneInput : InputView
 
     private void LateUpdate()
     {
+        //If attacking the players can't be allowed to move, need to have a way to limit
+        //player movement when performing combat actions.
+
         if (movement == Vector2.zero /*&& rotation == Vector2.zero*/) return;
 
         if (movement != Vector2.zero)
