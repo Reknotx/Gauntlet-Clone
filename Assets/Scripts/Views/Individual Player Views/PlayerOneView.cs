@@ -8,15 +8,7 @@ public class PlayerOneView : PlayerView
 
     private Rigidbody2D playerOneRB;
 
-    public Sprite NorthAttack;
-    public Sprite NorthEastAttack;
-    public Sprite EastAttack;
-    public Sprite SouthEastAttack;
-    public Sprite SouthAttack;
-    public Sprite SouthWestAttack;
-    public Sprite WestAttack;
-    public Sprite NorthWestAttack;
-
+    public GameObject meleeBox;
 
     private void Awake()
     {
@@ -55,6 +47,20 @@ public class PlayerOneView : PlayerView
         if (temp != null)
         {
             playerSprite.sprite = temp;
+            //Adjust the position of the weapon box too
+            //Adjust size of player collision box
+
+            gameObject.GetComponent<BoxCollider2D>().size = new Vector2(gameObject.GetComponent<SpriteRenderer>().sprite.rect.width / 100,
+                                                                        gameObject.GetComponent<SpriteRenderer>().sprite.rect.height / 100);
+
+            Debug.Log(new Vector3(meleeBox.transform.localPosition.x, meleeBox.transform.localPosition.y).magnitude);
+
+            meleeBox.transform.localPosition = GetMeleeBoxPosOnRotate(app.data.playerData.playerOne.PlayerNum) * 1.5f;
+
+            Quaternion newRotation = Quaternion.identity;
+            newRotation.eulerAngles = GetNewMeleeBoxRotation(app.data.playerData.playerOne.PlayerNum);
+
+            meleeBox.transform.rotation = newRotation;
         }
     }
 
@@ -65,35 +71,35 @@ public class PlayerOneView : PlayerView
         switch (app.data.playerData.playerOne.CurrentDirection)
         {
             case PlayerData.Direction.North:
-                playerSprite.sprite = NorthAttack;
+                playerSprite.sprite = app.data.playerData.playerOne.NorthAttackSprite;
                 break;
 
             case PlayerData.Direction.NorthEast:
-                playerSprite.sprite = NorthEastAttack;
+                playerSprite.sprite = app.data.playerData.playerOne.NorthEastAttackSprite;
                 break;
 
             case PlayerData.Direction.East:
-                playerSprite.sprite = EastAttack;
+                playerSprite.sprite = app.data.playerData.playerOne.EastAttackSprite;
                 break;
 
             case PlayerData.Direction.SouthEast:
-                playerSprite.sprite = SouthEastAttack;
+                playerSprite.sprite = app.data.playerData.playerOne.SouthEastAttackSprite;
                 break;
 
             case PlayerData.Direction.South:
-                playerSprite.sprite = SouthAttack;
+                playerSprite.sprite = app.data.playerData.playerOne.SouthAttackSprite;
                 break;
 
             case PlayerData.Direction.SouthWest:
-                playerSprite.sprite = SouthWestAttack;
+                playerSprite.sprite = app.data.playerData.playerOne.SouthWestAttackSprite;
                 break;
 
             case PlayerData.Direction.West:
-                playerSprite.sprite = WestAttack;
+                playerSprite.sprite = app.data.playerData.playerOne.WestAttackSprite;
                 break;
 
             case PlayerData.Direction.NorthWest:
-                playerSprite.sprite = NorthWestAttack;
+                playerSprite.sprite = app.data.playerData.playerOne.NorthWestAttackSprite;
                 break;
 
             default:
@@ -108,6 +114,8 @@ public class PlayerOneView : PlayerView
         Vector2 throwDirecton = GetThrowVector(app.data.playerData.playerOne.PlayerNum);
 
         proj.GetComponent<Rigidbody2D>().AddForce(throwDirecton * 500f);
+
+        app.view.projectiles.AddProjectileToList(proj, app.data.playerData.playerOne.PlayerNum);
 
     }
 

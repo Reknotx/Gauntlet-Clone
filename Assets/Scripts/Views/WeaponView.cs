@@ -57,4 +57,5 @@ public class WeaponView : Element
                 break;
         }
     }
+
 }

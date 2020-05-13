@@ -53,6 +53,30 @@ public class PlayerClassStats : ScriptableObject
     [SerializeField]
     private GameObject _projectilePrefab;
 
+    [SerializeField]
+    private Sprite _northAttackSprite;
+
+    [SerializeField]
+    private Sprite _northEastAttackSprite;
+
+    [SerializeField]
+    private Sprite _eastAttackSprite;
+
+    [SerializeField]
+    private Sprite _southEastAttackSprite;
+
+    [SerializeField]
+    private Sprite _southAttackSprite;
+
+    [SerializeField]
+    private Sprite _southWestAttackSprite;
+
+    [SerializeField]
+    private Sprite _westAttackSprite;
+
+    [SerializeField]
+    private Sprite _northWestAttackSprite;
+
     public int StartingHealth { get { return _startingHealth; } }
     public int HealthGain { get { return _healthGain; } }
     public int Armor { get { return _armor; } }
@@ -71,4 +95,13 @@ public class PlayerClassStats : ScriptableObject
     public Sprite NorthWestSprite { get { return _northWestSprite; } }
 
     public GameObject Projectile { get { return _projectilePrefab; } }
+
+    public Sprite NorthAttackSprite { get { return _northAttackSprite; } }
+    public Sprite NorthEastAttackSprite { get { return _northEastAttackSprite; } }
+    public Sprite EastAttackSprite { get { return _eastAttackSprite; } }
+    public Sprite SouthEastAttackSprite { get { return _southEastAttackSprite; } }
+    public Sprite SouthAttackSprite { get { return _southAttackSprite; } }
+    public Sprite SouthWestAttackSprite { get { return _southWestAttackSprite; } }
+    public Sprite WestAttackSprite { get { return _westAttackSprite; } }
+    public Sprite NorthWestAttackSprite { get { return _northWestAttackSprite; } }
 }

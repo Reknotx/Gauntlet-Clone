@@ -171,7 +171,7 @@ public class InputController : Element
                 break;
         }
 
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(0.2f);
 
         playerView.SetCurrentDirectionSprite(playerData, playerView);
 

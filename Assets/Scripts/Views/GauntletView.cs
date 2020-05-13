@@ -6,6 +6,7 @@ public class GauntletView : Element
 {
     public PlayerViewContainer players;
     public WeaponView weapon;
+    public ProjectileList projectiles;
 
     private void Start()
     {

@@ -9,32 +9,37 @@ public class CollisionController : Element
 
     }
 
-    public void OnPlayerWithEnemy()
+    public void OnPlayerWithEnemy(PlayerData playerData, EnemyData enemyData)
+    {
+        playerData.Health -= enemyData.DamageToPlayer;
+    }
+
+    public void OnPlayerWithEnemyProjectile(PlayerData playerData, EnemyData enemyData)
+    {
+        
+    }
+
+    public void OnPlayerWithFood(PlayerData playerData)
+    {
+        
+    }
+
+    public void OnWeaponWithEnemy(PlayerData playerData, EnemyData enemyData)
     {
 
     }
 
-    public void OnPlayerWithFood()
+    public void OnWeaponWithFood(PlayerData playerData, EnemyData enemyData)
     {
 
     }
 
-    public void OnWeaponWithEnemy()
+    public void OnWeaponWithTerrain(PlayerData playerData, EnemyData enemyData)
     {
 
     }
 
-    public void OnWeaponWithFood()
-    {
-
-    }
-
-    public void OnWeaponWithTerrain()
-    {
-
-    }
-
-    public void OnWeaponWithTreasure()
+    public void OnWeaponWithTreasure(PlayerData playerData)
     {
         //??????????????
     }

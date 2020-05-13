@@ -1,7 +1,244 @@
 fileFormatVersion: 2
 guid: f3cb6724cb1a0fa4fa3b7e7c32975caa
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2062492182950632371
+    second: YellowWizard_South_Move1
+  - first:
+      213: 244515687172309279
+    second: YellowWizard_South_Move2
+  - first:
+      213: -3333206568668562671
+    second: YellowWizard_South_Move3
+  - first:
+      213: 5549579716524845211
+    second: YellowWizard_SouthWest_Move1
+  - first:
+      213: 6247240850250403484
+    second: YellowWizard_SouthWest_Move2
+  - first:
+      213: 3868437398598705983
+    second: YellowWizard_SouthWest_Move3
+  - first:
+      213: 2841585169533016802
+    second: YellowWizard_West_Move1
+  - first:
+      213: -623104251930791617
+    second: YellowWizard_West_Move2
+  - first:
+      213: 3399007170536361089
+    second: YellowWizard_West_Move3
+  - first:
+      213: 3703200763690057795
+    second: YellowWizard_NorthWest_Move1
+  - first:
+      213: -1864598501959079592
+    second: YellowWizard_NorthWest_Move2
+  - first:
+      213: 6319319567258996376
+    second: YellowWizard_NorthWest_Move3
+  - first:
+      213: -2736216207979026064
+    second: YellowWizard_North_Move1
+  - first:
+      213: -1352427860630977536
+    second: YellowWizard_North_Move2
+  - first:
+      213: -615893478615571641
+    second: YellowWizard_North_Move3
+  - first:
+      213: 6590487578457881561
+    second: YellowWizard_NorthEast_Move1
+  - first:
+      213: 4838261938216329737
+    second: YellowWizard_NorthEast_Move2
+  - first:
+      213: 3521674377399828969
+    second: YellowWizard_NorthEast_Move3
+  - first:
+      213: 1148957648172731984
+    second: YellowWizard_East_Move1
+  - first:
+      213: 4512132123288989655
+    second: YellowWizard_East_Move2
+  - first:
+      213: 1415406564267997480
+    second: YellowWizard_East_Move3
+  - first:
+      213: -2019734943551646736
+    second: YellowWizard_SouthEast_Move1
+  - first:
+      213: -3274085796395016816
+    second: YellowWizard_SouthEast_Move2
+  - first:
+      213: -1446249114546619186
+    second: YellowWizard_SouthEast_Move3
+  - first:
+      213: -8665207071226499226
+    second: YellowWizard_South_Attack
+  - first:
+      213: -7678593929072975834
+    second: YellowWizard_SouthWest_Attack
+  - first:
+      213: -6881747966958944871
+    second: YellowWizard_West_Attack
+  - first:
+      213: 8714268194941851673
+    second: YellowWizard_NorthWest_Attack
+  - first:
+      213: 8514288085585305791
+    second: YellowWizard_North_Attack
+  - first:
+      213: -2776353863394579922
+    second: YellowWizard_NorthEast_Attack
+  - first:
+      213: -1816328943167511099
+    second: YellowWizard_East_Attack
+  - first:
+      213: 4822232809775971714
+    second: YellowWizard_SouthEast_Attack
+  - first:
+      213: -8395090166710048316
+    second: Yellow Wizard_32
+  - first:
+      213: -654063185337795982
+    second: Yellow Wizard_33
+  - first:
+      213: 8181017010316567477
+    second: Yellow Wizard_34
+  - first:
+      213: 6434241263179079255
+    second: Yellow Wizard_35
+  - first:
+      213: 134706299894774838
+    second: Yellow Wizard_36
+  - first:
+      213: -1346664409057594703
+    second: Yellow Wizard_37
+  - first:
+      213: 1255883345194070228
+    second: Yellow Wizard_38
+  - first:
+      213: -2768800648692747522
+    second: Yellow Wizard_39
+  - first:
+      213: -2423721627190294077
+    second: Yellow Wizard_40
+  - first:
+      213: -7479182519134249816
+    second: Yellow Wizard_41
+  - first:
+      213: -380351971571508932
+    second: Yellow Wizard_42
+  - first:
+      213: -6330040301599177517
+    second: Yellow Wizard_43
+  - first:
+      213: -1535241770685927337
+    second: Yellow Wizard_44
+  - first:
+      213: 3668915502124562864
+    second: Yellow Wizard_45
+  - first:
+      213: 6225942462725726772
+    second: Yellow Wizard_46
+  - first:
+      213: -4629347966441398972
+    second: Yellow Wizard_47
+  - first:
+      213: -5043950422592021544
+    second: Yellow Wizard_48
+  - first:
+      213: 6787081942341588574
+    second: Yellow Wizard_49
+  - first:
+      213: 2944615130950885175
+    second: Yellow Wizard_50
+  - first:
+      213: 3188160336883229360
+    second: Yellow Wizard_51
+  - first:
+      213: 4860229502147905109
+    second: Yellow Wizard_52
+  - first:
+      213: 1136849454440416610
+    second: Yellow Wizard_53
+  - first:
+      213: -796087620495743587
+    second: Yellow Wizard_54
+  - first:
+      213: 1143838927033794222
+    second: YellowWizard_South_Projectile1
+  - first:
+      213: -1209544019459299602
+    second: YellowWizard_South_Projectile2
+  - first:
+      213: 3661553314719750015
+    second: Yellow Wizard_57
+  - first:
+      213: 2922525172479780663
+    second: YellowWizard_NorthWest_Projectile1
+  - first:
+      213: -5081123550974607331
+    second: YellowWizard_NorthWest_Projectile2
+  - first:
+      213: 2998721672673797737
+    second: Yellow Wizard_60
+  - first:
+      213: -82878142162589641
+    second: YellowWizard_SouthWest_Projectile1
+  - first:
+      213: 500314198649458644
+    second: YellowWizard_SouthWest_Projectile2
+  - first:
+      213: -4317350150515592110
+    second: YellowWizard_West_Projectile1
+  - first:
+      213: 1300862249624282204
+    second: YellowWizard_West_Projectile2
+  - first:
+      213: 2962644310991249200
+    second: Yellow Wizard_65
+  - first:
+      213: 3128912263169615049
+    second: Yellow Wizard_66
+  - first:
+      213: -3705391786727537642
+    second: YellowWizard_North_Projectile1
+  - first:
+      213: 7048960618881069160
+    second: YellowWizard_North_Projectile2
+  - first:
+      213: 9010432020494824489
+    second: YellowWizard_NorthEast_Projectile1
+  - first:
+      213: 8797678296263160249
+    second: YellowWizard_NorthEast_Projectile2
+  - first:
+      213: -2188377838363128338
+    second: YellowWizard_East_Projectile1
+  - first:
+      213: 8110488233323882056
+    second: YellowWizard_East_Projectile2
+  - first:
+      213: 3411164865959627322
+    second: Yellow Wizard_73
+  - first:
+      213: -5470948755620855227
+    second: Yellow Wizard_74
+  - first:
+      213: -906922670764990193
+    second: Yellow Wizard_75
+  - first:
+      213: -1207879743157812601
+    second: YellowWizard_SouthEast_Projectile1
+  - first:
+      213: -8132942904864273204
+    second: YellowWizard_SouthEast_Projectile2
+  - first:
+      213: 20045767842631312
+    second: Yellow Wizard_78
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -60,7 +297,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -71,7 +308,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -82,7 +319,1498 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: YellowWizard_South_Move1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3080
+        width: 240
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7269e36c596e88f439b6d600e0f04386
+      internalID: -2062492182950632371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_South_Move2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3100
+        width: 230
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68355948c38fe54f922a20cc0b76ec6
+      internalID: 244515687172309279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_South_Move3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3080
+        width: 240
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4101300dd48ac945b5f0801881b96ff
+      internalID: -3333206568668562671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_SouthWest_Move1
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3080
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3944e9c3f33b4d7459aeb3c7c0c7285c
+      internalID: 5549579716524845211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_SouthWest_Move2
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 3090
+        width: 190
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9c0a84dbd2ac246a0bce989a4f0e8b
+      internalID: 6247240850250403484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_SouthWest_Move3
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 3090
+        width: 220
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6093dbe96db525c4bbef90669b5c9a80
+      internalID: 3868437398598705983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_West_Move1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2830
+        width: 170
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04cfbc616fb2f54ea341dd2cbabd202
+      internalID: 2841585169533016802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_West_Move2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2830
+        width: 160
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e337e490eb19460438c63f1ae1ca962b
+      internalID: -623104251930791617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_West_Move3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2830
+        width: 170
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2676a708b8887a4ba4c44026a8f5407
+      internalID: 3399007170536361089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_NorthWest_Move1
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2830
+        width: 150
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ee535dfa112034c947f7a30d7416b9
+      internalID: 3703200763690057795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_NorthWest_Move2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 2850
+        width: 170
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42db8ea711d50604599aa0549e61e0e5
+      internalID: -1864598501959079592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_NorthWest_Move3
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2860
+        width: 180
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0172e56b802de4d459b83c53c4bd4446
+      internalID: 6319319567258996376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_North_Move1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2580
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868c8707f8b5f60448a220eeb67d1704
+      internalID: -2736216207979026064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_North_Move2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2580
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c5026da94da7343a3c8a6a0f9fbf94
+      internalID: -1352427860630977536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_North_Move3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2580
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef6ee612e6bb0d49b0022be5a1f89aa
+      internalID: -615893478615571641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_NorthEast_Move1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2580
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579c564ca29659946a5df7379d5c16ab
+      internalID: 6590487578457881561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_NorthEast_Move2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2600
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc620d879d421ed47995025dd1b146ce
+      internalID: 4838261938216329737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_NorthEast_Move3
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2580
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32194834169f7254397d48383ea858fb
+      internalID: 3521674377399828969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_East_Move1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2330
+        width: 190
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d7720ad7c6f643a502c0f56085d2c
+      internalID: 1148957648172731984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_East_Move2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2330
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4083d97b5086e9459fca9f8c216434b
+      internalID: 4512132123288989655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_East_Move3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2340
+        width: 200
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614ed27507b4c924792f654eb750d68a
+      internalID: 1415406564267997480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_SouthEast_Move1
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2330
+        width: 160
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f803119f151552e4d84ab94339664faa
+      internalID: -2019734943551646736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_SouthEast_Move2
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2330
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168f4b99a4d15b0478fa2bde127793bd
+      internalID: -3274085796395016816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_SouthEast_Move3
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2340
+        width: 180
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2286c0b56785a41bd32b875b801f08
+      internalID: -1446249114546619186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_South_Attack
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2080
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f80140d00cee74b886f929f1ea98f9
+      internalID: -8665207071226499226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_SouthWest_Attack
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2080
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bdf51cdb3037f4794bdf2768583edb
+      internalID: -7678593929072975834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_West_Attack
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2080
+        width: 240
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bd28dd1dd8f5c4588101bd3efc8855
+      internalID: -6881747966958944871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_NorthWest_Attack
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2080
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e01987c25d2fe7469efd0b048f8e375
+      internalID: 8714268194941851673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_North_Attack
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1830
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a491428de860a374c9baac392437cde6
+      internalID: 8514288085585305791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_NorthEast_Attack
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1830
+        width: 220
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483895c6f7bfc264bbd58163619a06c1
+      internalID: -2776353863394579922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_East_Attack
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1830
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74837aeed83f8b449824838eb2c1849f
+      internalID: -1816328943167511099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_SouthEast_Attack
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1830
+        width: 210
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b17b1a396e6e1498d82cd801043af3
+      internalID: 4822232809775971714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1580
+        width: 200
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc21b67f9243744bb865014b01d611b
+      internalID: -8395090166710048316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1590
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99385b67741e2b8418ec2465a1e87f61
+      internalID: -654063185337795982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_34
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1590
+        width: 210
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ee55a0c3263ac48807da8387308b6e
+      internalID: 8181017010316567477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_35
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1580
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c856b90691bf442843ea7aa36cb9e6
+      internalID: 6434241263179079255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1330
+        width: 170
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf15f0ac2cbd4574f8924caa3931baef
+      internalID: 134706299894774838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1330
+        width: 230
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae2fb8ac09a6b8409295cee82d6329f
+      internalID: -1346664409057594703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_38
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1350
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61a1070893472244957edf8b81da323
+      internalID: 1255883345194070228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_39
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1330
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718bec5af91c08d499f12fd7bfd7270f
+      internalID: -2768800648692747522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1080
+        width: 160
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d4884f2d2190647bcdc2e75e9b789c
+      internalID: -2423721627190294077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1080
+        width: 240
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c283fe50bd00814d8c225afeffd8606
+      internalID: -7479182519134249816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_42
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1100
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b721f88ce41154da454c87733e411f
+      internalID: -380351971571508932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_43
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1080
+        width: 220
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de666458afa4e2b4583085405a3e309e
+      internalID: -6330040301599177517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 830
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e147618e428039e45b649106e62e7d9b
+      internalID: -1535241770685927337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 830
+        width: 220
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca371441c7ff764392f5b60cf9b1d7c
+      internalID: 3668915502124562864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_46
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 830
+        width: 170
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a438b1f8e6017b46a30fc3aadd09855
+      internalID: 6225942462725726772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_47
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 830
+        width: 200
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c488cc0427481254f9ffa49fab454a00
+      internalID: -4629347966441398972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_48
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 580
+        width: 210
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743d5c6517747dd40a0f23e61bd89aeb
+      internalID: -5043950422592021544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_49
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 600
+        width: 220
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f66fd45a03e024fbb38da3568689aa
+      internalID: 6787081942341588574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 600
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc9c83f38c667147a2f4c7f1b1458f4
+      internalID: 2944615130950885175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_51
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 610
+        width: 180
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e214f49b8f9264eab37c69c10f3c6a
+      internalID: 3188160336883229360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 380
+        width: 170
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f58b08fa3820934c8d607e19e602923
+      internalID: 4860229502147905109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 390
+        width: 150
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b18949da63129c49bc401f21a134244
+      internalID: 1136849454440416610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Wizard_54
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 410
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d725b55ab8eab4148aa7d2613adf4bf6
+      internalID: -796087620495743587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_South_Projectile1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 180
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b77b1fa1eb94824e89fbf9ff21a112b
+      internalID: 1143838927033794222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_South_Projectile2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 180
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1bb0eb6f1e00345864a4a9bd6df35b
+      internalID: -1209544019459299602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_NorthWest_Projectile1
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27abffdded02f446b17b549463048e4
+      internalID: 2922525172479780663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_NorthWest_Projectile2
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 190
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849877efbab47424d9f7f7a9470c3ed2
+      internalID: -5081123550974607331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_SouthWest_Projectile1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc294342b122f7840860445c4b37d2e9
+      internalID: -82878142162589641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_SouthWest_Projectile2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 180
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeb61681e946e045879ac8726140b6f
+      internalID: 500314198649458644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_West_Projectile1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 190
+        width: 120
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94fe194956471648bf9591326c3b41d
+      internalID: -4317350150515592110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_West_Projectile2
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 190
+        width: 130
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5558a28c5322d6742a7e9deceab09e04
+      internalID: 1300862249624282204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_North_Projectile1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb4ae6950d30594b88fcf93487f1f1d
+      internalID: -3705391786727537642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_North_Projectile2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b003850fa4e844acbc46eed82cb08
+      internalID: 7048960618881069160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_NorthEast_Projectile1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 30
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c47f4c4cc5f414295b3c472c03c098
+      internalID: 9010432020494824489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_NorthEast_Projectile2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 20
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b354bc568166598448eb1eaa752c63b8
+      internalID: 8797678296263160249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_East_Projectile1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 40
+        width: 120
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0280e975b9bf046b69ada0e928fa40
+      internalID: -2188377838363128338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_East_Projectile2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 40
+        width: 130
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85001bde95c87a84bb31b4639d9572a8
+      internalID: 8110488233323882056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_SouthEast_Projectile1
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5561c711bd27d4aa5231b3d4b32311
+      internalID: -1207879743157812601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowWizard_SouthEast_Projectile2
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 10
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c72a2dd61140d44b4cd8c1bbe48db3
+      internalID: -8132942904864273204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

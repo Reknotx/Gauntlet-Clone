@@ -19,13 +19,37 @@ MonoBehaviour:
   _magicStrength: 1
   _meleeStrength: 5
   _moveSpeed: 2
-  _northSprite: {fileID: 21300000, guid: 0265dc4506e8bd34db81d7310a76d64f, type: 3}
-  _northEastSprite: {fileID: 21300000, guid: 8925d3435d624f445b4de807a88138f7, type: 3}
-  _eastSprite: {fileID: 21300000, guid: 2670c64e494683d498775030bbba9c68, type: 3}
-  _southEastSprite: {fileID: 21300000, guid: a555ce892bdb1314bbd852e1bcbb9cc3, type: 3}
-  _southSprite: {fileID: 21300000, guid: 6f6e8a73e9de697419948e43fd7b824c, type: 3}
-  _southWestSprite: {fileID: 21300000, guid: 2e4a1e305fd058c44b75c2e63849cdee, type: 3}
-  _westSprite: {fileID: 21300000, guid: f61c63a2b7340c443b4d83fae3542ea7, type: 3}
-  _northWestSprite: {fileID: 21300000, guid: dd8dc41503057ab4f8f03abcdc91dbff, type: 3}
+  _northSprite: {fileID: -8200644538220232768, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _northEastSprite: {fileID: -8017077564339775471, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _eastSprite: {fileID: 2601704408225601620, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _southEastSprite: {fileID: 3093730972148028656, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _southSprite: {fileID: -8685034346851596434, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _southWestSprite: {fileID: 1919487909751445940, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _westSprite: {fileID: -7941678188754086714, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _northWestSprite: {fileID: 1976302084042722704, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
   _projectilePrefab: {fileID: 2549510820038056007, guid: 8fb4980fa23e7044b91b0aff6931bbbb,
+    type: 3}
+  _northAttackSprite: {fileID: -6124505164557259826, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _northEastAttackSprite: {fileID: -6066632071921518289, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _eastAttackSprite: {fileID: 6355615494847903948, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _southEastAttackSprite: {fileID: 6801832994314373612, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _southAttackSprite: {fileID: -6850196521970396521, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _southWestAttackSprite: {fileID: 819424859035599625, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _westAttackSprite: {fileID: -5404953221750930595, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
+    type: 3}
+  _northWestAttackSprite: {fileID: 8519518653037290939, guid: 2128c7eb3e5ee174995c9232c4c1ef83,
     type: 3}

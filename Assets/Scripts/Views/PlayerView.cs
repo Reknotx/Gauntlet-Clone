@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class PlayerView : Element
 {
+    //Create a private helper function that tells if the players current direction,
+    //matches the desired one
+
     private float SpriteChangeThreshold = 0.5f;
 
     protected void ProcessCollision(PlayerNumber.PlayerNum player, LayerMask layer)
@@ -127,6 +130,146 @@ public class PlayerView : Element
         return playerSprite;
     }
 
+    protected Vector2 GetMeleeBoxPosOnRotate(PlayerNumber.PlayerNum player)
+    {
+        PlayerData playerData = null;
+        Vector2 newPos = Vector2.zero;
+        switch (player)
+        {
+            case PlayerNumber.PlayerNum.PlayerOne:
+                playerData = app.data.playerData.playerOne;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerTwo:
+                playerData = app.data.playerData.playerTwo;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerThree:
+                playerData = app.data.playerData.playerThree;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerFour:
+                playerData = app.data.playerData.playerFour;
+                break;
+
+            default:
+                break;
+        }
+
+        switch (playerData.CurrentDirection)
+        {
+            case PlayerData.Direction.North:
+                newPos = Vector2.up;
+                break;
+
+            case PlayerData.Direction.NorthEast:
+                newPos = Vector2.one.normalized;
+                Debug.Log(newPos);
+                break;
+
+            case PlayerData.Direction.East:
+                newPos = Vector2.right;
+                break;
+
+            case PlayerData.Direction.SouthEast:
+                newPos = new Vector2(1f, -1f).normalized;
+                Debug.Log(newPos);
+                break;
+
+            case PlayerData.Direction.South:
+                newPos = Vector2.down;
+                break;
+
+            case PlayerData.Direction.SouthWest:
+                newPos = new Vector2(-1f, -1f).normalized;
+                Debug.Log(newPos);
+                break;
+
+            case PlayerData.Direction.West:
+                newPos = Vector2.left;
+                break;
+
+            case PlayerData.Direction.NorthWest:
+                newPos = new Vector2(-1f, 1f).normalized;
+                Debug.Log(newPos);
+                break;
+
+            default:
+                break;
+        }
+
+
+        return newPos;
+    }
+
+    public Vector3 GetNewMeleeBoxRotation(PlayerNumber.PlayerNum player)
+    {
+        PlayerData playerData = null;
+        Vector3 rotation = new Vector3(0f, 0f, 0f);
+
+        switch (player)
+        {
+            case PlayerNumber.PlayerNum.PlayerOne:
+                playerData = app.data.playerData.playerOne;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerTwo:
+                playerData = app.data.playerData.playerTwo;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerThree:
+                playerData = app.data.playerData.playerThree;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerFour:
+                playerData = app.data.playerData.playerFour;
+                break;
+
+            default:
+                break;
+        }
+
+        switch (playerData.CurrentDirection)
+        {
+            case PlayerData.Direction.North:
+                rotation.z = 90f;
+                break;
+
+            case PlayerData.Direction.NorthEast:
+                rotation.z = 45f;
+                break;
+
+            case PlayerData.Direction.East:
+                rotation.z = 0f;
+                break;
+
+            case PlayerData.Direction.SouthEast:
+                rotation.z = 315f;
+                break;
+
+            case PlayerData.Direction.South:
+                rotation.z = 270f;
+                break;
+
+            case PlayerData.Direction.SouthWest:
+                rotation.z = 215f;
+                break;
+
+            case PlayerData.Direction.West:
+                rotation.z = 180f;
+                break;
+
+            case PlayerData.Direction.NorthWest:
+                rotation.z = 135f;
+                break;
+
+            default:
+                break;
+        }
+
+        return rotation;
+    }
+
     protected Vector2 GetThrowVector(PlayerNumber.PlayerNum player)
     {
         Vector2 throwDirection = Vector2.zero;
@@ -194,74 +337,7 @@ public class PlayerView : Element
         return throwDirection;
     }
 
-    //protected Sprite GetCurrentDirectionSprite(PlayerNumber.PlayerNum player)
-    //{
-    //    Sprite temp = null;
 
-    //    PlayerData playerData = null;
-
-    //    switch (player)
-    //    {
-    //        case PlayerNumber.PlayerNum.PlayerOne:
-    //            playerData = app.data.playerData.playerOne;
-    //            break;
-
-    //        case PlayerNumber.PlayerNum.PlayerTwo:
-    //            playerData = app.data.playerData.playerTwo;
-    //            break;
-
-    //        case PlayerNumber.PlayerNum.PlayerThree:
-    //            playerData = app.data.playerData.playerThree;
-    //            break;
-
-    //        case PlayerNumber.PlayerNum.PlayerFour:
-    //            playerData = app.data.playerData.playerFour;
-    //            break;
-
-    //        default:
-    //            break;
-    //    }
-
-    //    switch (playerData.CurrentDirection)
-    //    {
-    //        case PlayerData.Direction.North:
-    //            temp = playerData.NorthSprite;
-    //            break;
-
-    //        case PlayerData.Direction.NorthEast:
-    //            temp = playerData.NorthEastSprite;
-    //            break;
-
-    //        case PlayerData.Direction.East:
-    //            temp = playerData.EastSprite;
-    //            break;
-
-    //        case PlayerData.Direction.SouthEast:
-    //            temp = playerData.SouthEastSprite;
-    //            break;
-
-    //        case PlayerData.Direction.South:
-    //            temp = playerData.SouthSprite;
-    //            break;
-
-    //        case PlayerData.Direction.SouthWest:
-    //            temp = playerData.SouthWestSprite;
-    //            break;
-
-    //        case PlayerData.Direction.West:
-    //            temp = playerData.WestSprite;
-    //            break;
-
-    //        case PlayerData.Direction.NorthWest:
-    //            temp = playerData.NorthWestSprite;
-    //            break;
-
-    //        default:
-    //            break;
-    //    }
-
-    //    return temp;
-    //}
 
     public void SetCurrentDirectionSprite(PlayerData playerData, PlayerView playerview)
     {
