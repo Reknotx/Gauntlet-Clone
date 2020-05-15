@@ -21,7 +21,9 @@ public abstract class PlayerData : Element, IPlayerData
     protected Direction currDirection;
 
     //All the necessary data
-    protected int _health;
+    protected int _maxHealth;
+
+    protected int _currentHealth;
 
     protected int _healthGain;
 
@@ -82,7 +84,19 @@ public abstract class PlayerData : Element, IPlayerData
 
     public bool IsAttacking { get { return _isAttacking; } set { _isAttacking = value; } }
 
-    public int Health { get { return _health; } set { _health = value; } }
+    public int Health
+    {
+        get { return _currentHealth; }
+        set
+        {
+            _currentHealth = value;
+
+            if (_currentHealth >= _maxHealth)
+            {
+                _currentHealth = _maxHealth;
+            }
+        }
+    }
     public int Score { get { return _score; } set { _score = value; } }
     public int TokensUsed { get { return _tokensUsed; } set { _tokensUsed++; } }
 
@@ -142,7 +156,8 @@ public abstract class PlayerData : Element, IPlayerData
 
     protected void AssignClassInfo()
     {
-        _health = playerClassData.StartingHealth;
+        _maxHealth = playerClassData.StartingHealth;
+        _currentHealth = playerClassData.StartingHealth;
         _healthGain = playerClassData.HealthGain;
         _score = 0;
         _tokensUsed = 1;
@@ -173,5 +188,10 @@ public abstract class PlayerData : Element, IPlayerData
         _southWestAttackSprite = playerClassData.SouthWestAttackSprite;
         _westAttackSprite = playerClassData.WestAttackSprite;
         _northWestAttackSprite = playerClassData.NorthWestAttackSprite;
+    }
+
+    public void IncreaseMaxHealth()
+    {
+        _maxHealth += HealthGain;
     }
 }

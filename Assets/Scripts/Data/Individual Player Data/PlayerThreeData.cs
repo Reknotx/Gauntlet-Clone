@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerThreeData : PlayerData, IPlayerData
 {
-    void Start()
+    void Awake()
     {
         
         base._playerNum = PlayerNumber.PlayerNum.PlayerThree;

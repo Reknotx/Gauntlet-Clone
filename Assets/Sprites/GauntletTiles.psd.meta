@@ -819,7 +819,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -862,7 +862,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 516
+        y: 240
         width: 32
         height: 32
       alignment: 0
@@ -872,7 +872,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 987587d86cecd7744a25467df864f20c
+      spriteID: 3ea05f8224fd74f4fb2c6855999f51e3
       internalID: 7235163928436481407
       vertices: []
       indices: 
@@ -883,7 +883,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 34
-        y: 516
+        y: 240
         width: 32
         height: 32
       alignment: 0
@@ -893,7 +893,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dddd8fa2a6b13594bab3cc2851fe9cc3
+      spriteID: c1e35c16ec8674641bcd6a2d815efc55
       internalID: -864457197604603431
       vertices: []
       indices: 
@@ -904,7 +904,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 68
-        y: 516
+        y: 240
         width: 32
         height: 32
       alignment: 0
@@ -914,7 +914,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c22afd92e18570e4eb2cc9f4d082ee26
+      spriteID: a5f44cb88fb02af46a50eabb11692b00
       internalID: -8954038866459235145
       vertices: []
       indices: 
@@ -925,7 +925,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 102
-        y: 516
+        y: 240
         width: 32
         height: 32
       alignment: 0
@@ -935,7 +935,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf2c8c810acc6384ab25c62e479b248e
+      spriteID: 444c79a8e68c51e4fad7fcb089ba0573
       internalID: -12493536628029643
       vertices: []
       indices: 
@@ -946,7 +946,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 138
-        y: 516
+        y: 240
         width: 32
         height: 32
       alignment: 0
@@ -956,7 +956,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4dba90bde037f64b9efa67fbef60f4e
+      spriteID: 4d1830b1a5df6614496c0e3dd40e7214
       internalID: -1468548529745103621
       vertices: []
       indices: 
@@ -967,7 +967,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 172
-        y: 516
+        y: 240
         width: 32
         height: 32
       alignment: 0
@@ -977,7 +977,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b825aebeb5f06c849a5b09e251bbd11c
+      spriteID: a991c440b484cc1468e2de2a4396afc4
       internalID: -6944743913847826301
       vertices: []
       indices: 
@@ -988,7 +988,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 206
-        y: 516
+        y: 240
         width: 32
         height: 32
       alignment: 0
@@ -998,7 +998,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aeeee5f0e9064014f9e4867c5109e09d
+      spriteID: cf7d384577283fd4d81b18f34765e8e0
       internalID: 420164153277471019
       vertices: []
       indices: 
@@ -1009,7 +1009,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 240
-        y: 516
+        y: 240
         width: 32
         height: 32
       alignment: 0
@@ -1019,7 +1019,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42e9bfb9aca0b174398b4905889e1df6
+      spriteID: a51c18fd6db22174eb2fc7c4a0dcb354
       internalID: -6462533586373568924
       vertices: []
       indices: 
@@ -1030,7 +1030,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 276
-        y: 516
+        y: 240
         width: 32
         height: 32
       alignment: 0
@@ -1040,7 +1040,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6299bf7005cad72439769d6fe1d1007b
+      spriteID: 75ccc733050388f4db18b4520b51d031
       internalID: 6184931991180173576
       vertices: []
       indices: 
@@ -1051,7 +1051,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 310
-        y: 516
+        y: 240
         width: 32
         height: 32
       alignment: 0
@@ -1061,7 +1061,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e3cdfa9bf2f27e4d925cdd41601c304
+      spriteID: 5ad409a156b0f4148bceb67e1c149a36
       internalID: 865701976454507721
       vertices: []
       indices: 
@@ -1072,7 +1072,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 344
-        y: 516
+        y: 240
         width: 32
         height: 32
       alignment: 0
@@ -1082,7 +1082,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69f0ce6b2bee80549a7c5e352f940b08
+      spriteID: 69745b74fa67bf347a93941a2e21c1cf
       internalID: -5712054262618530426
       vertices: []
       indices: 
@@ -1093,7 +1093,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 378
-        y: 516
+        y: 240
         width: 33
         height: 32
       alignment: 0
@@ -1103,7 +1103,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a7f88729f4f2f94b9582ae4219d73c7
+      spriteID: fb2b7749c7646774093f4e4e4b2c5814
       internalID: -4266051601198001916
       vertices: []
       indices: 
@@ -1113,8 +1113,8 @@ TextureImporter:
       name: GauntletTiles_12
       rect:
         serializedVersion: 2
-        x: 414
-        y: 516
+        x: 0
+        y: 206
         width: 32
         height: 32
       alignment: 0
@@ -1124,7 +1124,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb5cc8bce8d6deb4b80e4eca7a2adfb2
+      spriteID: d14e0b7b2e6dd3a40b01637de3838684
       internalID: -2476513768197034232
       vertices: []
       indices: 
@@ -1134,8 +1134,8 @@ TextureImporter:
       name: GauntletTiles_13
       rect:
         serializedVersion: 2
-        x: 448
-        y: 516
+        x: 34
+        y: 206
         width: 32
         height: 32
       alignment: 0
@@ -1145,7 +1145,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dee44fcd9ff89b24a94f59012b6db979
+      spriteID: 5400bd9b28388be4892e07a0638bd37b
       internalID: -2792941039388493987
       vertices: []
       indices: 
@@ -1155,8 +1155,8 @@ TextureImporter:
       name: GauntletTiles_14
       rect:
         serializedVersion: 2
-        x: 482
-        y: 516
+        x: 68
+        y: 206
         width: 32
         height: 32
       alignment: 0
@@ -1166,7 +1166,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46b9eace08bb4f0448ac49b7df6f63f6
+      spriteID: 9ce5a5369e9ed9b4284d248ca90a4c40
       internalID: -730676519118833912
       vertices: []
       indices: 
@@ -1176,8 +1176,8 @@ TextureImporter:
       name: GauntletTiles_15
       rect:
         serializedVersion: 2
-        x: 516
-        y: 516
+        x: 102
+        y: 206
         width: 32
         height: 32
       alignment: 0
@@ -1187,7 +1187,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22e990112237f9d40a7c2fdffee88ba2
+      spriteID: 243e5b7ee39d4014da75631d7140139a
       internalID: 7177067740695774431
       vertices: []
       indices: 
@@ -1197,8 +1197,8 @@ TextureImporter:
       name: GauntletTiles_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 482
+        x: 138
+        y: 206
         width: 32
         height: 32
       alignment: 0
@@ -1208,7 +1208,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b697fd1baef8bfc49be5e7c540615012
+      spriteID: 1002a7864faa2c4458727e9c67523cea
       internalID: 2608850337227103289
       vertices: []
       indices: 
@@ -1218,8 +1218,8 @@ TextureImporter:
       name: GauntletTiles_17
       rect:
         serializedVersion: 2
-        x: 34
-        y: 482
+        x: 172
+        y: 206
         width: 32
         height: 32
       alignment: 0
@@ -1229,7 +1229,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18d1403cb69a09c49b7049f0078da8a8
+      spriteID: e6865469f65259f4aadc25e04a8731d7
       internalID: -774600081130040643
       vertices: []
       indices: 
@@ -1239,8 +1239,8 @@ TextureImporter:
       name: GauntletTiles_18
       rect:
         serializedVersion: 2
-        x: 68
-        y: 482
+        x: 206
+        y: 206
         width: 32
         height: 32
       alignment: 0
@@ -1250,7 +1250,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acb9f208d9b49ab4889efacf4b231e64
+      spriteID: 8d36fdb79288c0e4fa5ac5a7bc160c3d
       internalID: -7093595114957358498
       vertices: []
       indices: 
@@ -1260,8 +1260,8 @@ TextureImporter:
       name: GauntletTiles_19
       rect:
         serializedVersion: 2
-        x: 102
-        y: 482
+        x: 240
+        y: 206
         width: 32
         height: 32
       alignment: 0
@@ -1271,7 +1271,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 414a572693730bb4f8072f390486633b
+      spriteID: e419b822876eec945a7a6fe2f55e9272
       internalID: -7442772361390461064
       vertices: []
       indices: 
@@ -1281,8 +1281,8 @@ TextureImporter:
       name: GauntletTiles_20
       rect:
         serializedVersion: 2
-        x: 138
-        y: 482
+        x: 276
+        y: 206
         width: 32
         height: 32
       alignment: 0
@@ -1292,7 +1292,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2174fa8556b04124da1c29f565f839ee
+      spriteID: b198cf78268da8a4d95647fe80213e17
       internalID: -840657162402167769
       vertices: []
       indices: 
@@ -1302,8 +1302,8 @@ TextureImporter:
       name: GauntletTiles_21
       rect:
         serializedVersion: 2
-        x: 172
-        y: 482
+        x: 310
+        y: 206
         width: 32
         height: 32
       alignment: 0
@@ -1313,7 +1313,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdad24a74fa02b1428a36b90e70bc297
+      spriteID: 78eb34c2c7a751d4cbae6949f2779ced
       internalID: 1099438163269240764
       vertices: []
       indices: 
@@ -1323,8 +1323,8 @@ TextureImporter:
       name: GauntletTiles_22
       rect:
         serializedVersion: 2
-        x: 206
-        y: 482
+        x: 344
+        y: 206
         width: 32
         height: 32
       alignment: 0
@@ -1334,7 +1334,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f90081460fe0ef64a9fb9e438195b342
+      spriteID: 3912b9392a89e514cbd2ad28cd224693
       internalID: -8258052374140542532
       vertices: []
       indices: 
@@ -1344,8 +1344,8 @@ TextureImporter:
       name: GauntletTiles_23
       rect:
         serializedVersion: 2
-        x: 240
-        y: 482
+        x: 378
+        y: 206
         width: 32
         height: 32
       alignment: 0
@@ -1355,7 +1355,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3126787e37e4f954a9214ab18a2fc4af
+      spriteID: 13412ff7b1e281243a0159482aae858d
       internalID: 4589992064636669897
       vertices: []
       indices: 
@@ -1365,8 +1365,8 @@ TextureImporter:
       name: GauntletTiles_24
       rect:
         serializedVersion: 2
-        x: 276
-        y: 482
+        x: 0
+        y: 172
         width: 32
         height: 32
       alignment: 0
@@ -1376,7 +1376,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec8a5243af6118c48b9b4f7d2b75d5e0
+      spriteID: 7686742fe31b3c54f8da68a48009addd
       internalID: -105601423866854371
       vertices: []
       indices: 
@@ -1386,8 +1386,8 @@ TextureImporter:
       name: GauntletTiles_25
       rect:
         serializedVersion: 2
-        x: 310
-        y: 482
+        x: 34
+        y: 172
         width: 32
         height: 32
       alignment: 0
@@ -1397,7 +1397,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ffdc2232e48e494da8fb11440cca26e
+      spriteID: 52cb1a8b3dcd7514d9b76f86efdde0f5
       internalID: 5172688965454638221
       vertices: []
       indices: 
@@ -1407,8 +1407,8 @@ TextureImporter:
       name: GauntletTiles_26
       rect:
         serializedVersion: 2
-        x: 344
-        y: 482
+        x: 68
+        y: 172
         width: 32
         height: 32
       alignment: 0
@@ -1418,7 +1418,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 125774e035307954cb5aa28a9292a8ea
+      spriteID: 3120803ccc607584f821acf6b78f7a83
       internalID: -3446501801992918703
       vertices: []
       indices: 
@@ -1428,8 +1428,8 @@ TextureImporter:
       name: GauntletTiles_27
       rect:
         serializedVersion: 2
-        x: 378
-        y: 482
+        x: 102
+        y: 172
         width: 32
         height: 32
       alignment: 0
@@ -1439,7 +1439,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5e52ab3f0ce0f24c8ddd9949e05553d
+      spriteID: ac76ce8ca26e4d54386fb56062b5aa58
       internalID: 5981799840444551093
       vertices: []
       indices: 
@@ -1449,8 +1449,8 @@ TextureImporter:
       name: GauntletTiles_28
       rect:
         serializedVersion: 2
-        x: 414
-        y: 482
+        x: 138
+        y: 172
         width: 32
         height: 32
       alignment: 0
@@ -1460,7 +1460,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a19a8f610da12c45a3e298e10704060
+      spriteID: 98b9eced4ea92f94f8d54f0b10469756
       internalID: -3054785387777034175
       vertices: []
       indices: 
@@ -1470,8 +1470,8 @@ TextureImporter:
       name: GauntletTiles_29
       rect:
         serializedVersion: 2
-        x: 448
-        y: 482
+        x: 172
+        y: 172
         width: 32
         height: 32
       alignment: 0
@@ -1481,7 +1481,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1314b5ca555e1604896f29cf09ba47c4
+      spriteID: 2c9cd4955777f4646bef1526ef4f6d76
       internalID: -6945228658873313096
       vertices: []
       indices: 
@@ -1491,8 +1491,8 @@ TextureImporter:
       name: GauntletTiles_30
       rect:
         serializedVersion: 2
-        x: 482
-        y: 482
+        x: 206
+        y: 172
         width: 32
         height: 32
       alignment: 0
@@ -1502,7 +1502,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85c82f34ed700634f8e1e957fbe42667
+      spriteID: f00a45652795ae947be5ffb87e550721
       internalID: 4729995578283814736
       vertices: []
       indices: 
@@ -1512,8 +1512,8 @@ TextureImporter:
       name: GauntletTiles_31
       rect:
         serializedVersion: 2
-        x: 516
-        y: 482
+        x: 240
+        y: 172
         width: 32
         height: 32
       alignment: 0
@@ -1523,7 +1523,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56f81a3e71fd67548b53daeaaefa70d7
+      spriteID: c0c5956dea8c6b947b3777001b3f4feb
       internalID: -2352277845360364516
       vertices: []
       indices: 
@@ -1533,8 +1533,8 @@ TextureImporter:
       name: GauntletTiles_32
       rect:
         serializedVersion: 2
-        x: 0
-        y: 448
+        x: 276
+        y: 172
         width: 32
         height: 32
       alignment: 0
@@ -1544,7 +1544,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b21159233b522b469a97682ea55fd2c
+      spriteID: 8f654d80e67a043459336750de74177c
       internalID: 2251388100669007306
       vertices: []
       indices: 
@@ -1554,8 +1554,8 @@ TextureImporter:
       name: GauntletTiles_33
       rect:
         serializedVersion: 2
-        x: 34
-        y: 448
+        x: 310
+        y: 172
         width: 32
         height: 32
       alignment: 0
@@ -1565,7 +1565,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbec600eea1839d41bbd687bc69fd46c
+      spriteID: eb48d3a152f34c54db7b7d1d474ff131
       internalID: -2236387127138783544
       vertices: []
       indices: 
@@ -1575,8 +1575,8 @@ TextureImporter:
       name: GauntletTiles_34
       rect:
         serializedVersion: 2
-        x: 68
-        y: 448
+        x: 344
+        y: 172
         width: 32
         height: 32
       alignment: 0
@@ -1586,7 +1586,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 241df0212a8c2374daf7d9661b462790
+      spriteID: e31f864dc4cb4324ea6c7487bfd50d21
       internalID: 6838461897000614498
       vertices: []
       indices: 
@@ -1596,8 +1596,8 @@ TextureImporter:
       name: GauntletTiles_35
       rect:
         serializedVersion: 2
-        x: 102
-        y: 448
+        x: 378
+        y: 172
         width: 32
         height: 32
       alignment: 0
@@ -1607,7 +1607,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 632b207324226844aafb6bd24b989815
+      spriteID: 12736256de0e9b34f8603fc061069e38
       internalID: -4104034055163666257
       vertices: []
       indices: 
@@ -1617,8 +1617,8 @@ TextureImporter:
       name: GauntletTiles_36
       rect:
         serializedVersion: 2
-        x: 138
-        y: 448
+        x: 0
+        y: 138
         width: 32
         height: 32
       alignment: 0
@@ -1628,7 +1628,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c7bea97f407643419c0250c351996f0
+      spriteID: ed46a791d1291194ea27a5f38d44532a
       internalID: -712858846562165952
       vertices: []
       indices: 
@@ -1638,8 +1638,8 @@ TextureImporter:
       name: GauntletTiles_37
       rect:
         serializedVersion: 2
-        x: 172
-        y: 448
+        x: 34
+        y: 138
         width: 32
         height: 32
       alignment: 0
@@ -1649,7 +1649,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 257062e0036384547a7a99185cc02034
+      spriteID: b9992f70c9e5c8e40890f0ac1717ecb6
       internalID: 928785040583398343
       vertices: []
       indices: 
@@ -1659,8 +1659,8 @@ TextureImporter:
       name: GauntletTiles_38
       rect:
         serializedVersion: 2
-        x: 206
-        y: 448
+        x: 68
+        y: 138
         width: 32
         height: 32
       alignment: 0
@@ -1670,7 +1670,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b02d3e45f4632a04f9576ec9dfe95fb2
+      spriteID: 06a4c782802ddfa49aa9b0b0e2e6843a
       internalID: 8047410601359600422
       vertices: []
       indices: 
@@ -1680,8 +1680,8 @@ TextureImporter:
       name: GauntletTiles_39
       rect:
         serializedVersion: 2
-        x: 240
-        y: 448
+        x: 102
+        y: 138
         width: 32
         height: 32
       alignment: 0
@@ -1691,7 +1691,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 323e2169b2095a44b88c556eaf3e37a2
+      spriteID: ad6bd96de12b6c84aa610d5c7a1e3ccc
       internalID: -7168568278560100535
       vertices: []
       indices: 
@@ -1701,8 +1701,8 @@ TextureImporter:
       name: GauntletTiles_40
       rect:
         serializedVersion: 2
-        x: 276
-        y: 448
+        x: 138
+        y: 138
         width: 32
         height: 32
       alignment: 0
@@ -1712,7 +1712,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a5a43fd5025cbe4682e204a66d6a563
+      spriteID: 9e341c8a9a1cd4648a113f16d9d28ee9
       internalID: -5592065276240774596
       vertices: []
       indices: 
@@ -1722,8 +1722,8 @@ TextureImporter:
       name: GauntletTiles_41
       rect:
         serializedVersion: 2
-        x: 310
-        y: 448
+        x: 172
+        y: 138
         width: 32
         height: 32
       alignment: 0
@@ -1733,7 +1733,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 745f6c946dd834849ad17ccf05017509
+      spriteID: 6948b53702639fd47813e6c6864e3128
       internalID: 6576792474600578647
       vertices: []
       indices: 
@@ -1743,8 +1743,8 @@ TextureImporter:
       name: GauntletTiles_42
       rect:
         serializedVersion: 2
-        x: 344
-        y: 448
+        x: 206
+        y: 138
         width: 32
         height: 32
       alignment: 0
@@ -1754,7 +1754,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9bb13895cda1754bac1e00b5a8cdb4b
+      spriteID: 8ff33af9f34e92e4491e4c9f31770fc1
       internalID: -5561623499789900113
       vertices: []
       indices: 
@@ -1764,8 +1764,8 @@ TextureImporter:
       name: GauntletTiles_43
       rect:
         serializedVersion: 2
-        x: 378
-        y: 448
+        x: 240
+        y: 138
         width: 32
         height: 32
       alignment: 0
@@ -1775,7 +1775,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5973ea007f2e6754ba872cf71a89b883
+      spriteID: f50beb83503fc5f4bb4e0ca6b4bbd580
       internalID: 2503474399942501330
       vertices: []
       indices: 
@@ -1785,8 +1785,8 @@ TextureImporter:
       name: GauntletTiles_44
       rect:
         serializedVersion: 2
-        x: 414
-        y: 448
+        x: 276
+        y: 138
         width: 32
         height: 32
       alignment: 0
@@ -1796,7 +1796,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17a9fc7c063027649a81d62a4c4f368a
+      spriteID: 186d22f33b3ef2144878e4ab9812d0ce
       internalID: 6883610841035309818
       vertices: []
       indices: 
@@ -1806,8 +1806,8 @@ TextureImporter:
       name: GauntletTiles_45
       rect:
         serializedVersion: 2
-        x: 448
-        y: 448
+        x: 310
+        y: 138
         width: 32
         height: 32
       alignment: 0
@@ -1817,7 +1817,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0e5d3f12585e824181b77d84b665ff4
+      spriteID: cfa99cd392a04c243b0c7f7416dab426
       internalID: 4105593170588526912
       vertices: []
       indices: 
@@ -1827,10 +1827,10 @@ TextureImporter:
       name: GauntletTiles_46
       rect:
         serializedVersion: 2
-        x: 482
-        y: 414
+        x: 344
+        y: 138
         width: 32
-        height: 67
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1838,7 +1838,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b02d15e228183444ea5614c93cb8fe7a
+      spriteID: bdd7b810e40d5c34fa22c36f55a847fb
       internalID: -5387052150293150332
       vertices: []
       indices: 
@@ -1848,8 +1848,8 @@ TextureImporter:
       name: GauntletTiles_47
       rect:
         serializedVersion: 2
-        x: 516
-        y: 448
+        x: 378
+        y: 138
         width: 32
         height: 32
       alignment: 0
@@ -1859,7 +1859,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6526c0904dbe3fb42a53374ed4f185f4
+      spriteID: fcc160ddfbd30df47b109b017aa3ed0b
       internalID: 738879244070147031
       vertices: []
       indices: 
@@ -1869,8 +1869,8 @@ TextureImporter:
       name: GauntletTiles_48
       rect:
         serializedVersion: 2
-        x: 0
-        y: 414
+        x: 1
+        y: 101
         width: 32
         height: 32
       alignment: 0
@@ -1880,7 +1880,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb45d09010b07e64ba609c49693c3153
+      spriteID: 9db6cf6314c09244a9528a07759b619e
       internalID: 638871868439679339
       vertices: []
       indices: 
@@ -1890,8 +1890,8 @@ TextureImporter:
       name: GauntletTiles_49
       rect:
         serializedVersion: 2
-        x: 34
-        y: 414
+        x: 35
+        y: 101
         width: 32
         height: 32
       alignment: 0
@@ -1901,7 +1901,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 870ed3bf0754d0345b93c04317559ccb
+      spriteID: 898ac297db8623d4a95c40a4ac73493a
       internalID: -8280955747811791759
       vertices: []
       indices: 
@@ -1911,8 +1911,8 @@ TextureImporter:
       name: GauntletTiles_50
       rect:
         serializedVersion: 2
-        x: 68
-        y: 414
+        x: 69
+        y: 101
         width: 32
         height: 32
       alignment: 0
@@ -1922,7 +1922,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c17286c6a211ce648907862253ad63b7
+      spriteID: dffa4116d10913344853c3f439db77e0
       internalID: 3479481124849720862
       vertices: []
       indices: 
@@ -1932,8 +1932,8 @@ TextureImporter:
       name: GauntletTiles_51
       rect:
         serializedVersion: 2
-        x: 102
-        y: 414
+        x: 103
+        y: 101
         width: 32
         height: 32
       alignment: 0
@@ -1943,7 +1943,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f75067c9414defb4a881f66327a49b7c
+      spriteID: c852716e4d89a07489a6b1e3f7a88763
       internalID: -6800107609728402856
       vertices: []
       indices: 
@@ -1954,7 +1954,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 138
-        y: 414
+        y: 100
         width: 32
         height: 32
       alignment: 0
@@ -1964,7 +1964,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8729c181ab8d8a94b8f6dedb8489c61f
+      spriteID: ccd42ef6785eda04d9c0d977ea09c55b
       internalID: 1900800102483793235
       vertices: []
       indices: 
@@ -1975,7 +1975,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 172
-        y: 414
+        y: 100
         width: 32
         height: 32
       alignment: 0
@@ -1985,7 +1985,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 753bccf4e335c08409b1046a4eb70989
+      spriteID: a2013b76af1c6724a971ffd86d4585aa
       internalID: 4740563003126538916
       vertices: []
       indices: 
@@ -1995,8 +1995,8 @@ TextureImporter:
       name: GauntletTiles_54
       rect:
         serializedVersion: 2
-        x: 206
-        y: 414
+        x: 276
+        y: 103
         width: 32
         height: 32
       alignment: 0
@@ -2006,7 +2006,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 187c3d1380d90204a9c636373dd23071
+      spriteID: 1f6250d6a1a903b4fb25d83830463575
       internalID: -4729857424909529081
       vertices: []
       indices: 
@@ -2016,8 +2016,8 @@ TextureImporter:
       name: GauntletTiles_55
       rect:
         serializedVersion: 2
-        x: 240
-        y: 414
+        x: 310
+        y: 103
         width: 32
         height: 32
       alignment: 0
@@ -2027,7 +2027,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59f86d6c67ebe7f4699cdf71e397e0b9
+      spriteID: f3f7118e38bf5554f96bce9a6b0b0857
       internalID: 6353996420626588548
       vertices: []
       indices: 
@@ -2037,8 +2037,8 @@ TextureImporter:
       name: GauntletTiles_56
       rect:
         serializedVersion: 2
-        x: 276
-        y: 414
+        x: 344
+        y: 103
         width: 32
         height: 32
       alignment: 0
@@ -2048,7 +2048,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a970c41a946539148930ff49c95b7f0c
+      spriteID: 2d2758f70bd9c954287d589a4a41e23e
       internalID: -3288510333126096568
       vertices: []
       indices: 
@@ -2058,8 +2058,8 @@ TextureImporter:
       name: GauntletTiles_57
       rect:
         serializedVersion: 2
-        x: 310
-        y: 414
+        x: 378
+        y: 103
         width: 32
         height: 32
       alignment: 0
@@ -2069,7 +2069,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4d43d56d66a7fb4fab69533061cd356
+      spriteID: 88415ac78462bbf41b48107b00419687
       internalID: -8803232872057745712
       vertices: []
       indices: 
@@ -2079,8 +2079,8 @@ TextureImporter:
       name: GauntletTiles_58
       rect:
         serializedVersion: 2
-        x: 344
-        y: 414
+        x: 1
+        y: 67
         width: 32
         height: 32
       alignment: 0
@@ -2090,7 +2090,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a153cb5b3f30dc49ac460f151de9977
+      spriteID: 36503880e33f27e4097339298bc3de49
       internalID: 674191528669738161
       vertices: []
       indices: 
@@ -2100,8 +2100,8 @@ TextureImporter:
       name: GauntletTiles_59
       rect:
         serializedVersion: 2
-        x: 378
-        y: 414
+        x: 35
+        y: 67
         width: 32
         height: 32
       alignment: 0
@@ -2111,7 +2111,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18577ecf58a5c8c43967ba18f413323a
+      spriteID: 5caee349839913d4796c376a7903e7a5
       internalID: 9118523641736181663
       vertices: []
       indices: 
@@ -2121,10 +2121,10 @@ TextureImporter:
       name: GauntletTiles_60
       rect:
         serializedVersion: 2
-        x: 414
-        y: 405
+        x: 69
+        y: 67
         width: 32
-        height: 41
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2132,7 +2132,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bddbace8d6a36334abde147a0aeee7d1
+      spriteID: 6a9a0427bc108f44385d7113b91e6e9b
       internalID: -8103641647376235037
       vertices: []
       indices: 
@@ -2142,10 +2142,10 @@ TextureImporter:
       name: GauntletTiles_61
       rect:
         serializedVersion: 2
-        x: 414
-        y: 275
-        width: 73
-        height: 171
+        x: 103
+        y: 67
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2153,7 +2153,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1761ebf01af10b349b957157dee12473
+      spriteID: 15f1671cca84be849ac7008885cf0e6b
       internalID: -2802884762002582446
       vertices: []
       indices: 
@@ -2163,8 +2163,8 @@ TextureImporter:
       name: GauntletTiles_62
       rect:
         serializedVersion: 2
-        x: 516
-        y: 414
+        x: 138
+        y: 66
         width: 32
         height: 32
       alignment: 0
@@ -2174,7 +2174,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd77787d793f1cc49b0094d5ab69d6ec
+      spriteID: 671ca4afc07638a41ba2f66cb3cbc8a5
       internalID: -5199663546314132148
       vertices: []
       indices: 
@@ -2184,8 +2184,8 @@ TextureImporter:
       name: GauntletTiles_63
       rect:
         serializedVersion: 2
-        x: 1
-        y: 377
+        x: 172
+        y: 66
         width: 32
         height: 32
       alignment: 0
@@ -2195,7 +2195,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 707af1ace9730ca4bba7205b58ffaba4
+      spriteID: f9c7711962cf43f4f943c280b23d165f
       internalID: 331385902923168409
       vertices: []
       indices: 
@@ -2205,8 +2205,8 @@ TextureImporter:
       name: GauntletTiles_64
       rect:
         serializedVersion: 2
-        x: 35
-        y: 377
+        x: 276
+        y: 69
         width: 32
         height: 32
       alignment: 0
@@ -2216,7 +2216,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c5814173f6329c46ae07543d8a42596
+      spriteID: b39d01e42f73e464f9175544368c436b
       internalID: -2871685532494203950
       vertices: []
       indices: 
@@ -2226,8 +2226,8 @@ TextureImporter:
       name: GauntletTiles_65
       rect:
         serializedVersion: 2
-        x: 69
-        y: 377
+        x: 310
+        y: 69
         width: 32
         height: 32
       alignment: 0
@@ -2237,7 +2237,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 214f64a91af53a741ab1a14299b936d2
+      spriteID: 635ca35c62d68ea42957a00535fc0060
       internalID: 4943977148513516912
       vertices: []
       indices: 
@@ -2247,8 +2247,8 @@ TextureImporter:
       name: GauntletTiles_66
       rect:
         serializedVersion: 2
-        x: 103
-        y: 377
+        x: 344
+        y: 69
         width: 32
         height: 32
       alignment: 0
@@ -2258,7 +2258,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9935ab8dff473b4c8076f384c6110f6
+      spriteID: 3707e319da96d4849b78ddac89f6ad3a
       internalID: -5539443736578281036
       vertices: []
       indices: 
@@ -2268,8 +2268,8 @@ TextureImporter:
       name: GauntletTiles_67
       rect:
         serializedVersion: 2
-        x: 138
-        y: 376
+        x: 378
+        y: 69
         width: 32
         height: 32
       alignment: 0
@@ -2279,7 +2279,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5379038d256ade4fa3607cf76a925c4
+      spriteID: 4f247db5d523f8d4a9c740838f8ed66b
       internalID: -4247285600557574713
       vertices: []
       indices: 
@@ -2289,8 +2289,8 @@ TextureImporter:
       name: GauntletTiles_68
       rect:
         serializedVersion: 2
-        x: 172
-        y: 376
+        x: 1
+        y: 33
         width: 32
         height: 32
       alignment: 0
@@ -2300,7 +2300,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 941648bc70c5dee4b82ed509c8b11d99
+      spriteID: d91f9991770bf5b409c07d522a709648
       internalID: -8107148315024347909
       vertices: []
       indices: 
@@ -2310,8 +2310,8 @@ TextureImporter:
       name: GauntletTiles_69
       rect:
         serializedVersion: 2
-        x: 1
-        y: 343
+        x: 35
+        y: 33
         width: 32
         height: 32
       alignment: 0
@@ -2321,7 +2321,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8d54e90d77dd6441b8e15a5a6f4e428
+      spriteID: 408dd5cb04558104bbb607acb1bd1445
       internalID: -1011470589880356239
       vertices: []
       indices: 
@@ -2331,8 +2331,8 @@ TextureImporter:
       name: GauntletTiles_70
       rect:
         serializedVersion: 2
-        x: 35
-        y: 343
+        x: 69
+        y: 33
         width: 32
         height: 32
       alignment: 0
@@ -2342,7 +2342,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fce69a2cebe6dfd4ab84f11059dba463
+      spriteID: 997db55f28bcaba4c98b9cfec17ed97e
       internalID: 4419071125091322834
       vertices: []
       indices: 
@@ -2352,8 +2352,8 @@ TextureImporter:
       name: GauntletTiles_71
       rect:
         serializedVersion: 2
-        x: 69
-        y: 343
+        x: 103
+        y: 33
         width: 32
         height: 32
       alignment: 0
@@ -2363,7 +2363,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 795f6b3d85e6de142beeff04814dc785
+      spriteID: 3eab2348b420e1e43925fb40938433e4
       internalID: 6208607948506146892
       vertices: []
       indices: 
@@ -2373,8 +2373,8 @@ TextureImporter:
       name: GauntletTiles_72
       rect:
         serializedVersion: 2
-        x: 103
-        y: 343
+        x: 138
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -2384,7 +2384,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b88d98fe54f66dd48b27ea3acc316cca
+      spriteID: da2e2328d82239946abf60ad32f605c4
       internalID: 1729616888938157283
       vertices: []
       indices: 
@@ -2394,8 +2394,8 @@ TextureImporter:
       name: GauntletTiles_73
       rect:
         serializedVersion: 2
-        x: 138
-        y: 342
+        x: 172
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -2405,7 +2405,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c830fb9ef18e3b847b4a0781063c4243
+      spriteID: f5b8921557640b74bac2adce3af419ae
       internalID: -6482980729616189695
       vertices: []
       indices: 
@@ -2415,8 +2415,8 @@ TextureImporter:
       name: GauntletTiles_74
       rect:
         serializedVersion: 2
-        x: 172
-        y: 342
+        x: 276
+        y: 35
         width: 32
         height: 32
       alignment: 0
@@ -2426,7 +2426,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5e91ee13a22e364190464b7a0d4d8b0
+      spriteID: 886bbe8e6932bc944ae41047fbda3cc9
       internalID: 6351690944579201842
       vertices: []
       indices: 
@@ -2436,8 +2436,8 @@ TextureImporter:
       name: GauntletTiles_75
       rect:
         serializedVersion: 2
-        x: 1
-        y: 309
+        x: 310
+        y: 35
         width: 32
         height: 32
       alignment: 0
@@ -2447,7 +2447,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6caf65049c50ac46aa5ff716462351c
+      spriteID: 2cc1dd831be751b44a1ffc4d1d3ec36b
       internalID: 4187071516956663803
       vertices: []
       indices: 
@@ -2457,8 +2457,8 @@ TextureImporter:
       name: GauntletTiles_76
       rect:
         serializedVersion: 2
-        x: 35
-        y: 309
+        x: 344
+        y: 1
         width: 32
         height: 32
       alignment: 0
@@ -2468,7 +2468,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b01ba620ec2843a47884b06407893e10
+      spriteID: e4bd1866f95f20c4e97499f3c5d70592
       internalID: 8725987492260233473
       vertices: []
       indices: 
@@ -2478,8 +2478,8 @@ TextureImporter:
       name: GauntletTiles_77
       rect:
         serializedVersion: 2
-        x: 69
-        y: 309
+        x: 378
+        y: 35
         width: 32
         height: 32
       alignment: 0
@@ -2489,7 +2489,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c3dc910e495f5c49ae158db3ba7652e
+      spriteID: 8f001dce86fee25459715d801b2aa214
       internalID: 5564952711434219787
       vertices: []
       indices: 
@@ -2499,10 +2499,10 @@ TextureImporter:
       name: GauntletTiles_78
       rect:
         serializedVersion: 2
-        x: 103
-        y: 309
+        x: 1
+        y: 0
         width: 32
-        height: 32
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2510,7 +2510,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1f3048e0682dd040811a78f4556c9a2
+      spriteID: 42cfc521527100749b2f057bcf2d9b8e
       internalID: 3335086635448943496
       vertices: []
       indices: 
@@ -2520,10 +2520,10 @@ TextureImporter:
       name: GauntletTiles_79
       rect:
         serializedVersion: 2
-        x: 138
-        y: 308
+        x: 35
+        y: 0
         width: 32
-        height: 32
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2531,7 +2531,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ada97516ce90c34ca5199b4289be6b9
+      spriteID: cf162ebd6e1748b43aed0011ae681ed5
       internalID: 3438728994202800385
       vertices: []
       indices: 
@@ -2541,10 +2541,10 @@ TextureImporter:
       name: GauntletTiles_80
       rect:
         serializedVersion: 2
-        x: 172
-        y: 308
+        x: 69
+        y: 0
         width: 32
-        height: 32
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2552,7 +2552,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8156b6c2d945d448aa83cb76549111c
+      spriteID: 39a4e0d63293ee642b8b9799c3aa5bc0
       internalID: 3739810464062979613
       vertices: []
       indices: 
@@ -2562,10 +2562,10 @@ TextureImporter:
       name: GauntletTiles_81
       rect:
         serializedVersion: 2
-        x: 1
-        y: 275
+        x: 103
+        y: 0
         width: 32
-        height: 32
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2573,7 +2573,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb5ad975bca20ca4eb8e2be8a0ca351a
+      spriteID: aa478dda092a169419706d2ab3246606
       internalID: -1427327885630027040
       vertices: []
       indices: 
@@ -2583,10 +2583,10 @@ TextureImporter:
       name: GauntletTiles_82
       rect:
         serializedVersion: 2
-        x: 35
-        y: 275
+        x: 138
+        y: 0
         width: 32
-        height: 32
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2594,7 +2594,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bfb89b5df26be74885472882c9f5017
+      spriteID: f085577cf5a8c394994c66e76e41112f
       internalID: 1600225968389331352
       vertices: []
       indices: 
@@ -2604,8 +2604,8 @@ TextureImporter:
       name: GauntletTiles_83
       rect:
         serializedVersion: 2
-        x: 69
-        y: 275
+        x: 276
+        y: 1
         width: 32
         height: 32
       alignment: 0
@@ -2615,7 +2615,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a50534007392eb747b32301b714c69b1
+      spriteID: ff616d18a77559943954884b3abb7fcf
       internalID: -4417437591329895217
       vertices: []
       indices: 
@@ -2625,8 +2625,8 @@ TextureImporter:
       name: GauntletTiles_84
       rect:
         serializedVersion: 2
-        x: 103
-        y: 275
+        x: 310
+        y: 1
         width: 32
         height: 32
       alignment: 0
@@ -2636,7 +2636,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c10a30f5f16c8041833586d1192a525
+      spriteID: 7e3ad132b16890c40a5ca9e112954147
       internalID: -546169042217986495
       vertices: []
       indices: 
@@ -2646,10 +2646,10 @@ TextureImporter:
       name: GauntletTiles_85
       rect:
         serializedVersion: 2
-        x: 132
-        y: 207
-        width: 38
-        height: 99
+        x: 378
+        y: 1
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2657,8 +2657,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 937a9587b0874ac4895a6f80389e4f74
+      spriteID: 64627b93bf9073942ba2a572e7c76ec8
       internalID: 5773593614642610531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GauntletTiles_86
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364a6b652e09a5848acaef33dbc0d371
+      internalID: 6628294800821193228
       vertices: []
       indices: 
       edges: []

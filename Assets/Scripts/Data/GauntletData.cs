@@ -5,11 +5,12 @@ using UnityEngine;
 public class GauntletData : Element
 {
     public PlayerDataContainer playerData;
-    public EnemyData enemy;
+    public EnemyDataContainer enemyData;
+    public ProjectileList projectiles;
 
     private void Awake()
     {
         if (playerData == null) playerData = FindObjectOfType<PlayerDataContainer>();
-        if (enemy == null) enemy = FindObjectOfType<EnemyData>();
+        if (enemyData == null) enemyData = FindObjectOfType<EnemyDataContainer>();
     }
 }

@@ -19,3 +19,36 @@ MonoBehaviour:
   _magicStrength: 5
   _meleeStrength: 1
   _moveSpeed: 3
+  _northSprite: {fileID: -1352427860630977536, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _northEastSprite: {fileID: 4838261938216329737, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _eastSprite: {fileID: 4512132123288989655, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _southEastSprite: {fileID: -3274085796395016816, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _southSprite: {fileID: 244515687172309279, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _southWestSprite: {fileID: 6247240850250403484, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _westSprite: {fileID: -623104251930791617, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _northWestSprite: {fileID: -1864598501959079592, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _projectilePrefab: {fileID: 0}
+  _northAttackSprite: {fileID: 8514288085585305791, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _northEastAttackSprite: {fileID: -2776353863394579922, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _eastAttackSprite: {fileID: -1816328943167511099, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _southEastAttackSprite: {fileID: 4822232809775971714, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _southAttackSprite: {fileID: -8665207071226499226, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _southWestAttackSprite: {fileID: -7678593929072975834, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _westAttackSprite: {fileID: -6881747966958944871, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}
+  _northWestAttackSprite: {fileID: 8714268194941851673, guid: f3cb6724cb1a0fa4fa3b7e7c32975caa,
+    type: 3}

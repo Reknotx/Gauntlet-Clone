@@ -9,38 +9,16 @@ public class PlayerView : Element
 
     private float SpriteChangeThreshold = 0.5f;
 
-    protected void ProcessCollision(PlayerNumber.PlayerNum player, LayerMask layer)
+    protected void SendCollisionMessage(GameObject player, GameObject objTwo)
     {
-
+        app.controller.collisions.FilterCollision(player, objTwo);
     }
 
     protected Sprite GetPlayerSpriteOnRotation(PlayerNumber.PlayerNum player, Vector2 rotation)
     {
         Sprite playerSprite = null;
 
-        PlayerData playerData = null;
-
-        switch (player)
-        {
-            case PlayerNumber.PlayerNum.PlayerOne:
-                playerData = app.data.playerData.playerOne;
-                break;
-
-            case PlayerNumber.PlayerNum.PlayerTwo:
-                playerData = app.data.playerData.playerTwo;
-                break;
-
-            case PlayerNumber.PlayerNum.PlayerThree:
-                playerData = app.data.playerData.playerThree;
-                break;
-
-            case PlayerNumber.PlayerNum.PlayerFour:
-                playerData = app.data.playerData.playerFour;
-                break;
-
-            default:
-                break;
-        }
+        PlayerData playerData = GetPlayerData(player);
 
         if (rotation.x > SpriteChangeThreshold)
         {
@@ -132,29 +110,8 @@ public class PlayerView : Element
 
     protected Vector2 GetMeleeBoxPosOnRotate(PlayerNumber.PlayerNum player)
     {
-        PlayerData playerData = null;
+        PlayerData playerData = GetPlayerData(player);
         Vector2 newPos = Vector2.zero;
-        switch (player)
-        {
-            case PlayerNumber.PlayerNum.PlayerOne:
-                playerData = app.data.playerData.playerOne;
-                break;
-
-            case PlayerNumber.PlayerNum.PlayerTwo:
-                playerData = app.data.playerData.playerTwo;
-                break;
-
-            case PlayerNumber.PlayerNum.PlayerThree:
-                playerData = app.data.playerData.playerThree;
-                break;
-
-            case PlayerNumber.PlayerNum.PlayerFour:
-                playerData = app.data.playerData.playerFour;
-                break;
-
-            default:
-                break;
-        }
 
         switch (playerData.CurrentDirection)
         {
@@ -204,30 +161,8 @@ public class PlayerView : Element
 
     public Vector3 GetNewMeleeBoxRotation(PlayerNumber.PlayerNum player)
     {
-        PlayerData playerData = null;
+        PlayerData playerData = GetPlayerData(player);
         Vector3 rotation = new Vector3(0f, 0f, 0f);
-
-        switch (player)
-        {
-            case PlayerNumber.PlayerNum.PlayerOne:
-                playerData = app.data.playerData.playerOne;
-                break;
-
-            case PlayerNumber.PlayerNum.PlayerTwo:
-                playerData = app.data.playerData.playerTwo;
-                break;
-
-            case PlayerNumber.PlayerNum.PlayerThree:
-                playerData = app.data.playerData.playerThree;
-                break;
-
-            case PlayerNumber.PlayerNum.PlayerFour:
-                playerData = app.data.playerData.playerFour;
-                break;
-
-            default:
-                break;
-        }
 
         switch (playerData.CurrentDirection)
         {
@@ -298,7 +233,6 @@ public class PlayerView : Element
                 break;
         }
 
-
         switch (temp)
         {
             case PlayerData.Direction.North:
@@ -337,11 +271,8 @@ public class PlayerView : Element
         return throwDirection;
     }
 
-
-
     public void SetCurrentDirectionSprite(PlayerData playerData, PlayerView playerview)
     {
-        //playerview.getcu
         Sprite temp = null;
 
         switch (playerData.CurrentDirection)
@@ -383,5 +314,34 @@ public class PlayerView : Element
         }
 
         playerview.GetComponent<SpriteRenderer>().sprite = temp;
+    }
+
+    private PlayerData GetPlayerData(PlayerNumber.PlayerNum player)
+    {
+        PlayerData playerData = null;
+
+        switch (player)
+        {
+            case PlayerNumber.PlayerNum.PlayerOne:
+                playerData = app.data.playerData.playerOne;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerTwo:
+                playerData = app.data.playerData.playerTwo;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerThree:
+                playerData = app.data.playerData.playerThree;
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerFour:
+                playerData = app.data.playerData.playerFour;
+                break;
+
+            default:
+                break;
+        }
+
+        return playerData;
     }
 }

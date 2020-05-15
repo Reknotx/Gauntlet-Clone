@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GruntData : Element
+public class GruntData : EnemyData
 {
   
 }

@@ -10,32 +10,22 @@ public class PlayerOneView : PlayerView
 
     public GameObject meleeBox;
 
-    private void Awake()
+    private void Start()
     {
         playerSprite = gameObject.GetComponent<SpriteRenderer>();
         playerOneRB = GetComponent<Rigidbody2D>();
+        app.controller.ui.UpdatePlayerHealth(app.data.playerData.playerOne.PlayerNum);
+        app.controller.ui.UpdatePlayerScore(app.data.playerData.playerOne.PlayerNum);
     }
-
-    private void OnCollisionEnter(Collision collision)
-    {
-        //Use layers to determine collision actions
-        //If layer isn't the environment then send the rest of the detection towards either
-        //the controller or the parent class first which will then send the collision
-        //info to the right controller in collision controller.
-
-        //If  collision.gameObject.layer != walls
-        //then send message to parent to deal with
-
+    private void OnCollisionEnter2D(Collision2D collision)
+    {    
         //No need to write the same tests in the various player views
-
-        //ProcessCollision(PlayerNumber.PlayerNum.PlayerOne, collision.gameObject.layer);
+        Debug.Log(collision.gameObject);
+        SendCollisionMessage(this.gameObject, collision.gameObject);
     }
 
     public void Movement(Vector2 movement)
     {
-        //Debug.Log(movement.ToString());
-
-        
         Vector3 moveV3 = (new Vector3(movement.x, movement.y) * app.data.playerData.playerOne.MoveSpeed * 10f * Time.deltaTime) + transform.position;
         playerOneRB.MovePosition(moveV3);
     }
@@ -52,8 +42,6 @@ public class PlayerOneView : PlayerView
 
             gameObject.GetComponent<BoxCollider2D>().size = new Vector2(gameObject.GetComponent<SpriteRenderer>().sprite.rect.width / 100,
                                                                         gameObject.GetComponent<SpriteRenderer>().sprite.rect.height / 100);
-
-            Debug.Log(new Vector3(meleeBox.transform.localPosition.x, meleeBox.transform.localPosition.y).magnitude);
 
             meleeBox.transform.localPosition = GetMeleeBoxPosOnRotate(app.data.playerData.playerOne.PlayerNum) * 1.5f;
 
@@ -115,7 +103,7 @@ public class PlayerOneView : PlayerView
 
         proj.GetComponent<Rigidbody2D>().AddForce(throwDirecton * 500f);
 
-        app.view.projectiles.AddProjectileToList(proj, app.data.playerData.playerOne.PlayerNum);
+        app.data.projectiles.AddProjectileToList(proj, app.data.playerData.playerOne.PlayerNum);
 
     }
 

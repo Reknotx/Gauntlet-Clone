@@ -5,11 +5,11 @@ using UnityEngine;
 public class GauntletView : Element
 {
     public PlayerViewContainer players;
-    public WeaponView weapon;
-    public ProjectileList projectiles;
+    public UIView ui;
 
     private void Start()
     {
         if (players == null) players = FindObjectOfType<PlayerViewContainer>();
+        if (ui == null) ui = FindObjectOfType<UIView>();
     }
 }

@@ -13,33 +13,39 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player One
+  - Player Two
+  - Player Three
+  - Player Four
+  - Melee Weapon
+  - Projectile
+  - Treasure
+  - Food
+  - Potion
+  - Key
+  - Death
+  - Demon
+  - Ghost
+  - Grunt
+  - Lobber
+  - Sorcerer
+  - Thief
+  - Lobber Projectile
+  - Demon Projectile
+  - Sorcerer Projectile
+  - Spawner
+  - Environment
+  - Door
   - 
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 213747207
+    locked: 0
+  - name: Enemy
+    uniqueID: 697685875
     locked: 0
   - name: Player
     uniqueID: 674540075

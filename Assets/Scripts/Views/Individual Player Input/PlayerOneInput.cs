@@ -11,7 +11,6 @@ public class PlayerOneInput : InputView
     {
         inputAction = new PlayerOneInputSystem();
         inputAction.Player.Move.performed += ctxM => movement = ctxM.ReadValue<Vector2>();
-        //inputAction.Player.Look.performed += ctxL => rotation = ctxL.ReadValue<Vector2>();
         inputAction.Player.Look.performed += ctxL => OnRotate(app.data.playerData.playerOne.PlayerNum, ctxL.ReadValue<Vector2>());
         inputAction.Player.Melee.performed += ctxMA => OnMeleeAttack(app.data.playerData.playerOne.PlayerNum);
         inputAction.Player.Throw.performed += ctxT => OnThrow(app.data.playerData.playerOne.PlayerNum);
@@ -22,18 +21,9 @@ public class PlayerOneInput : InputView
         //If attacking the players can't be allowed to move, need to have a way to limit
         //player movement when performing combat actions.
 
-        if (movement == Vector2.zero /*&& rotation == Vector2.zero*/) return;
+        if (movement == Vector2.zero) return;
 
-        if (movement != Vector2.zero)
-        {
-            OnMovement(app.data.playerData.playerOne.PlayerNum, movement);
-
-        }
-
-        //if (rotation != Vector2.zero)
-        //{
-        //    OnRotate(app.data.playerData.playerOne.PlayerNum, rotation);
-        //}
+        OnMovement(app.data.playerData.playerOne.PlayerNum, movement);
     }
 
     private void OnEnable()
