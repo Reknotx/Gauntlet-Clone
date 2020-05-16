@@ -37,25 +37,25 @@ public class WeaponView : Element
      *      collision info to the collision controller.
      */
 
-    [SerializeField]
-    private WeaponDamageType.DamageType damageType;
+    //[SerializeField]
+    //private WeaponDamageType.DamageType damageType;
 
-    private void Start()
-    {
-        switch (damageType)
-        {
-            case WeaponDamageType.DamageType.Melee:
-                break;
+    //private void Start()
+    //{
+    //    switch (damageType)
+    //    {
+    //        case WeaponDamageType.DamageType.Melee:
+    //            break;
 
-            case WeaponDamageType.DamageType.Magic:
-                break;
+    //        case WeaponDamageType.DamageType.Magic:
+    //            break;
 
-            case WeaponDamageType.DamageType.Shot:
-                break;
+    //        case WeaponDamageType.DamageType.Shot:
+    //            break;
 
-            default:
-                break;
-        }
-    }
+    //        default:
+    //            break;
+    //    }
+    //}
 
 }

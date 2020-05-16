@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * <summary>Helper class that every class file extends. Gives access
+ * to the whole application.</summary>
+ * 
+ */
 public class Element : MonoBehaviour
 {
 
@@ -9,9 +14,11 @@ public class Element : MonoBehaviour
 
 }
 
-
-
-
+/**
+ * <summary>The main entry point of the application. Holds references
+ * to the data, the controllers, and the views.</summary>
+ * 
+ */
 public class GauntletApp : MonoBehaviour
 {
     public static GauntletApp Instance;

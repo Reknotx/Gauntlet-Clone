@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * <summary>Defines the type of pickup in the world</summary>
+ * 
+ */ 
 public enum PickUpType
 {
     Treasure,
@@ -21,11 +25,21 @@ public class PickUp : Element
 
     private int health = 2;
 
+    /**
+     * <summary>Returns the type of pick up that we have collided with.</summary>
+     * 
+     * 
+     */
     public PickUpType GetPickUpType()
     {
         return _pickUpType;
     }
 
+    /**
+     * <summary>Decreases the hp of the pick up if necessary.</summary>
+     * 
+     * 
+     */
     public void DecreaseHP()
     {
         health--;

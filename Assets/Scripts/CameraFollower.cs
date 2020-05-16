@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * <summary>Follows player one around the world. Doesn't yet
+ * have smoothing on it.</summary>
+ * 
+ */
 public class CameraFollower : Element
 {
-    private void Start()
-    {
-        
-    }
 
     private void Update()
     {
