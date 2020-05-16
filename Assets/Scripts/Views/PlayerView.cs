@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * <summary>The base player view class that each player inherits from
+ * to allow for generic programming.</summary>
+ * 
+ */
 public class PlayerView : Element
 {
     //Create a private helper function that tells if the players current direction,
@@ -11,11 +16,26 @@ public class PlayerView : Element
 
     public GameObject meleeBox;
 
+    /**
+     * <summary>Send a collision message to the collision controller for filtering
+     * purposes.</summary>
+     * 
+     * <param name="player">The player.</param>
+     * <param name="objTwo">The object that was collided with.</param>
+     * 
+     */
     protected void SendCollisionMessage(GameObject player, GameObject objTwo)
     {
         app.controller.collisions.FilterCollision(player, objTwo);
     }
 
+    /**
+     * <summary>Get's the sprite that is relevant to the player's current
+     * facing direction.</summary>
+     * 
+     * <param name="player">The player that rotated.</param>
+     * <param name="rotation">The vector2 that represents the direction of rotation.</param>
+     */
     protected Sprite GetPlayerSpriteOnRotation(PlayerNumber.PlayerNum player, Vector2 rotation)
     {
         Sprite playerSprite = null;

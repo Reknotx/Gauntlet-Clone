@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * <summary>Controller which filters out collisions between objects and 
+ * executes necessary logic.</summary>
+ */
 public class CollisionController : Element
 {
     private int projectileLayer = 13;

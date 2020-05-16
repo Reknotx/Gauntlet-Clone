@@ -29,6 +29,9 @@ public class EnemyView : Element
 
     public int CurrentHealth { get { return _currentHealth; } set { _currentHealth = value; } }
 
+    /**
+     * <summary>Basic AI behavior for enemy to run towards player's position.</summary>
+     */
     public void Rush()
     {
         //Vector2 direction = app.view.players.playerOne.transform.position - ;
@@ -36,6 +39,11 @@ public class EnemyView : Element
         enemyRB.MovePosition(Vector2.MoveTowards(transform.position, app.view.players.playerOne.transform.position, 0.1f));
     }
 
+    /**
+     * <summary>Basic AI behavior for enemy to fire projectils at the player's
+     * current position.</summary>
+     * 
+     */
     public void FireProjectile()
     {
         //Spawn a projectile in the direction of the player.
@@ -52,11 +60,21 @@ public class EnemyView : Element
         }
     }
 
+    /**
+     * <summary>When an enemy is visible they are added to the camera list
+     * that holds references to all visible enemy objects.</summary>
+     * 
+     */
     public void OnBecameVisible()
     {
         app.controller.AddEnemyToCameraList(gameObject);
     }
 
+    /**
+     * <summary>When an enemy is no longer visible they are removed from 
+     * the camera list that holds references to all visible enemy objects.</summary>
+     * 
+     */
     public void OnBecameInvisible()
     {
         app.controller.RemoveEnemyFromCameraList(gameObject);

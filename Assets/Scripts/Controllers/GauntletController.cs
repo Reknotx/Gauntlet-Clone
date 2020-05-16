@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * <summary>Main controller that holds access to each individual controller
+ * in the system.</summary>
+ * 
+ */
 public class GauntletController : Element
 {
     public CollisionController collisions;

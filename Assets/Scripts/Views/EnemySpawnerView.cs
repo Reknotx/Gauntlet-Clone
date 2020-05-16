@@ -5,6 +5,10 @@ using UnityEngine;
 
 public class EnemySpawnerView : Element
 {
+    /**
+     * <summary>The enemy to spawn.</summary>
+     * 
+     */
     enum SpawnedEnemy
     {
         Demon,
@@ -54,6 +58,16 @@ public class EnemySpawnerView : Element
 
     }
 
+    /**
+     * Checks every fixed update if the spawner is visible from the main camera.
+     * If it is then an invoke repeating is executed only once on the Spawn enemy
+     * function.
+     * 
+     * If it is not then the invoke is cancelled.
+     * 
+     * Prevents the world from being stuffed with enemies that aren't in the game's view.
+     * 
+     */
     private void FixedUpdate()
     {
         if (RendererExtensions.IsVisibleFrom(gameObject.GetComponent<SpriteRenderer>(), Camera.main))
@@ -68,6 +82,9 @@ public class EnemySpawnerView : Element
         }
     }
 
+    /**
+     * <summary>Reduce the health of the spawner by one.</summary>
+     */
     public void ReduceHP()
     {
         HitPoints--;
@@ -78,6 +95,11 @@ public class EnemySpawnerView : Element
         }
     }
 
+    /**
+     * <summary>Spawns an enemy based off of the currently selected enum in
+     * the inspector.</summary>
+     * 
+     */
     public void SpawnEnemy()
     {
         if (Random.Range(0, spawnChance) > 2)
