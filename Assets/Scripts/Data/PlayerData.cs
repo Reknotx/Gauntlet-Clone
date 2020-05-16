@@ -41,6 +41,10 @@ public abstract class PlayerData : Element, IPlayerData
 
     protected int _moveSpeed;
 
+    protected int _collectedKeys = 0;
+
+    protected int _collectedPotions = 0;
+
     [SerializeField]
     protected PlayerClassStats playerClassData;
 
@@ -112,6 +116,10 @@ public abstract class PlayerData : Element, IPlayerData
 
     public int MoveSpeed { get { return _moveSpeed; } }
 
+    public int CollectedKeys { get { return _collectedKeys; } set { _collectedKeys = value; } }
+
+    public int Potions { get { return _collectedPotions; } set { _collectedPotions = value; } }
+
     public Direction CurrentDirection { get { return currDirection; } set { currDirection = value; } }
 
     public PlayerNumber.PlayerNum PlayerNum { get { return _playerNum; } }
@@ -153,6 +161,7 @@ public abstract class PlayerData : Element, IPlayerData
     public Sprite WestAttackSprite { get { return _westAttackSprite; } }
 
     public Sprite NorthWestAttackSprite { get { return _northWestAttackSprite; } }
+
 
     protected void AssignClassInfo()
     {

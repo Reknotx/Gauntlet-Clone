@@ -17,14 +17,17 @@ public class InputController : Element
 
             case PlayerNumber.PlayerNum.PlayerTwo:
                 //Move player two
+                app.view.players.playerTwo.Movement(movement);
                 break;
 
             case PlayerNumber.PlayerNum.PlayerThree:
                 //Move player three
+                app.view.players.playerThree.Movement(movement);
                 break;
 
             case PlayerNumber.PlayerNum.PlayerFour:
                 //Move player four
+                app.view.players.playerFour.Movement(movement);
                 break;
 
             default:
@@ -43,12 +46,15 @@ public class InputController : Element
                 break;
 
             case PlayerNumber.PlayerNum.PlayerTwo:
+                app.view.players.playerTwo.Rotate(rotation);
                 break;
 
             case PlayerNumber.PlayerNum.PlayerThree:
+                app.view.players.playerThree.Rotate(rotation);
                 break;
 
             case PlayerNumber.PlayerNum.PlayerFour:
+                app.view.players.playerFour.Rotate(rotation);
                 break;
 
             default:
@@ -69,17 +75,17 @@ public class InputController : Element
 
             case PlayerNumber.PlayerNum.PlayerTwo:
                 app.data.playerData.playerTwo.IsAttacking = true;
-                //app.view.players.playerTwo.MeleeAttack();
+                app.view.players.playerTwo.MeleeAttack();
                 break;
 
             case PlayerNumber.PlayerNum.PlayerThree:
                 app.data.playerData.playerThree.IsAttacking = true;
-                //app.view.players.playerThree.MeleeAttack();
+                app.view.players.playerThree.MeleeAttack();
                 break;
 
             case PlayerNumber.PlayerNum.PlayerFour:
                 app.data.playerData.playerFour.IsAttacking = true;
-                //app.view.players.playerFour.MeleeAttack();
+                app.view.players.playerFour.MeleeAttack();
                 break;
 
             default:
@@ -100,12 +106,56 @@ public class InputController : Element
                 break;
 
             case PlayerNumber.PlayerNum.PlayerTwo:
+                app.view.players.playerTwo.Throw();
                 break;
 
             case PlayerNumber.PlayerNum.PlayerThree:
+                app.view.players.playerThree.Throw();
                 break;
 
             case PlayerNumber.PlayerNum.PlayerFour:
+                app.view.players.playerFour.Throw();
+                break;
+
+            default:
+                break;
+        }
+    }
+
+    public void UsePotion(PlayerNumber.PlayerNum player)
+    {
+        switch (player)
+        {
+            case PlayerNumber.PlayerNum.PlayerOne:
+                if (app.data.playerData.playerOne.Potions != 0)
+                {
+                    app.data.objectsInView.KillAllEnemies();
+                    app.data.playerData.playerOne.Potions--;
+                }
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerTwo:
+                if (app.data.playerData.playerTwo.Potions != 0)
+                {
+                    app.data.objectsInView.KillAllEnemies();
+                    app.data.playerData.playerTwo.Potions--;
+                }
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerThree:
+                if (app.data.playerData.playerThree.Potions != 0)
+                {
+                    app.data.objectsInView.KillAllEnemies();
+                    app.data.playerData.playerThree.Potions--;
+                }
+                break;
+
+            case PlayerNumber.PlayerNum.PlayerFour:
+                if (app.data.playerData.playerFour.Potions != 0)
+                {
+                    app.data.objectsInView.KillAllEnemies();
+                    app.data.playerData.playerFour.Potions--;
+                }
                 break;
 
             default:
@@ -150,6 +200,7 @@ public class InputController : Element
             case PlayerNumber.PlayerNum.PlayerOne:
                 playerData = app.data.playerData.playerOne;
                 playerView = app.view.players.playerOne;
+                
                 break;
 
             case PlayerNumber.PlayerNum.PlayerTwo:
@@ -171,10 +222,14 @@ public class InputController : Element
                 break;
         }
 
+        playerView.meleeBox.SetActive(true);
+
         yield return new WaitForSeconds(0.2f);
 
         playerView.SetCurrentDirectionSprite(playerData, playerView);
 
         playerData.IsAttacking = false;
+
+        playerView.meleeBox.SetActive(false);
     }
 }

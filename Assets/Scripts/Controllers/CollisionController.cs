@@ -4,11 +4,14 @@ using UnityEngine;
 
 public class CollisionController : Element
 {
-    private int pickUpMinLayer = 14;
-    private int pickUpMaxLayer = 17;
-    private int enemyMinLayer = 18;
-    private int enemyMaxLayer = 27;
-    private int spawnerLayer = 28;
+    private int projectileLayer = 13;
+    private int pickUpLayer = 14;
+    private int enemyMinLayer = 16;
+    private int enemyMaxLayer = 21;
+    private int enemyProjectileMinLayer = 22;
+    private int enemyProjectileMaxLayer = 24;
+    private int spawnerLayer = 25;
+    
     /**
      * <summary>Filters the collision between two game objects in the world
      * and exectutes the necessary logic based on the layer they
@@ -23,14 +26,25 @@ public class CollisionController : Element
             //The source came from a player
             if (objTwo.layer >= enemyMinLayer && objTwo.layer <= enemyMaxLayer)
             {
-                //The collided object is an enemy
+                //The collided object is an enemy besides death
                 OnPlayerWithEnemy(objOne, objTwo);
             }
-            else if (objTwo.layer >= pickUpMinLayer && objTwo.layer <= pickUpMaxLayer)
+            else if (objTwo.layer >= enemyProjectileMinLayer && objTwo.layer <= enemyProjectileMaxLayer)
+            {
+                //The collided object is an enemy projectile
+                OnPlayerWithEnemyProjectile(objOne, objTwo);
+            }
+            else if (objTwo.layer == pickUpLayer)
             {
                 //The collided object is a pickup
                 OnPlayerWithPickUp(objOne, objTwo);
             }
+            else if (objTwo.layer == 27)
+            {
+                //The collided object was a door.
+                OnPlayerWithDoor(objOne, objTwo);
+            }
+            
         }
         else if (objOne.layer == 12)
         {
@@ -40,7 +54,7 @@ public class CollisionController : Element
                 //The collided object is a enemy
                 OnWeaponWithEnemy(objOne, objTwo);
             }
-            else if (objTwo.layer >= pickUpMinLayer && objTwo.layer <= pickUpMaxLayer)
+            else if (objTwo.layer == pickUpLayer)
             {
                 //The collided object is a pickup
                 OnWeaponWithPickUp(objOne, objTwo);
@@ -51,7 +65,7 @@ public class CollisionController : Element
                 OnWeaponWithSpawner(objOne, objTwo);
             }
         }
-        else if (objOne.layer == 13)
+        else if (objOne.layer == projectileLayer)
         {
             //the source is from a player projectile
             if (objTwo.layer >= enemyMinLayer && objTwo.layer <= enemyMaxLayer)
@@ -59,7 +73,7 @@ public class CollisionController : Element
                 //The collided object is a enemy
                 OnWeaponWithEnemy(objOne, objTwo);
             }
-            else if (objTwo.layer >= pickUpMinLayer && objTwo.layer <= pickUpMaxLayer)
+            else if (objTwo.layer == pickUpLayer)
             {
                 //The collided object is a pickup
                 OnWeaponWithPickUp(objOne, objTwo);
@@ -69,11 +83,44 @@ public class CollisionController : Element
                 //The collided object is a spawner
                 OnWeaponWithSpawner(objOne, objTwo);
             }
-            else if (objTwo.layer == 29 || objTwo.layer == 30)
+            else if (objTwo.layer == 26 || objTwo.layer == 27)
             {
                 //The collided object is a wall or a door
-                OnWeaponWithTerrain(objOne);
+                OnProjectileWithTerrain(objOne);
             }
+        }
+        else if (objOne.layer >= enemyProjectileMinLayer && objOne.layer <= enemyProjectileMaxLayer)
+        {
+            //Source is from an enemy projectile
+            //This is called when the enemy projectile collides with food, treasure,
+            //or walls or players
+            
+            if (objTwo.layer == 26 || objTwo.layer == 27)
+            {
+                //Collides with terrain
+                OnProjectileWithTerrain(objOne);
+            }
+            else if (objTwo.layer >= 8 && objTwo.layer <= 11)
+            {
+                GameObject player = objTwo;
+                GameObject enemyProjectile = objOne;
+                OnPlayerWithEnemyProjectile(player, enemyProjectile);
+            }
+            else if (objTwo.layer == pickUpLayer)
+            {
+                //Collides with pickup
+                OnWeaponWithPickUp(objOne, objTwo);
+            }
+            else if (objOne.layer == 23 && (objTwo.layer >= enemyMinLayer && objTwo.layer <= enemyMaxLayer))
+            {
+                //Demon projectile that collides with enemy
+                OnDemonProjectileWithEnemy(objOne, objTwo);
+            }
+        }
+        else if (objOne.layer == 15)
+        {
+            //The source is from death
+            OnDeathWithPlayer(objOne, objTwo);
         }
     }
 
@@ -82,21 +129,41 @@ public class CollisionController : Element
         PlayerData playerData = GetPlayerData(player);
         EnemyData enemyData = GetEnemyData(enemy);
 
-        Debug.Log(enemyData.ToString());
+        playerData.Health -= enemyData.DamageToPlayer;
 
         if (enemyData is GhostData)
         {
-            playerData.Health -= app.data.enemyData.ghost.DamageToPlayer;
             Destroy(enemy.gameObject);
         }
 
-        app.controller.ui.UpdatePlayerHealth(playerData.PlayerNum);
+        UpdatePlayerHUDS(playerData.PlayerNum);
     }
 
     private void OnPlayerWithEnemyProjectile(GameObject player, GameObject enemyProjectile)
     {
-        //MNight be void 
+        PlayerData playerData = GetPlayerData(player);
+        EnemyData enemyData = null;
 
+        if (enemyProjectile.layer == 22)
+        {
+            //Lobber projectile
+            enemyData = GetEnemyData(EnemyType.Enemy.Lobber);
+        }
+        else if (enemyProjectile.layer == 23)
+        {
+            //Demon projectile
+            enemyData = GetEnemyData(EnemyType.Enemy.Demon);
+        }
+        else if (enemyProjectile.layer == 24)
+        {
+            //Sorcerer projectile
+            enemyData = GetEnemyData(EnemyType.Enemy.Sorcerer);
+        }
+
+        playerData.Health -= enemyData.DamageToPlayer;
+
+        RemoveProjectile(enemyProjectile);
+        UpdatePlayerHUDS(playerData.PlayerNum);
     }
 
     private void OnPlayerWithPickUp(GameObject player, GameObject pickUp)
@@ -108,22 +175,37 @@ public class CollisionController : Element
         {
             case PickUpType.Treasure:
                 playerData.Score += 100;
-                app.controller.ui.UpdatePlayerHealth(playerData.PlayerNum);
+                app.controller.ui.UpdatePlayerScore(playerData.PlayerNum);
                 break;
 
             case PickUpType.Food:
                 playerData.Health += 100;
-                app.controller.ui.UpdatePlayerScore(playerData.PlayerNum);
+                app.controller.ui.UpdatePlayerHealth(playerData.PlayerNum);
                 break;
 
             case PickUpType.Potion:
+                playerData.Potions++;
                 break;
 
             case PickUpType.Key:
+                playerData.CollectedKeys++;
                 break;
 
             default:
                 break;
+        }
+
+        Destroy(pickUp);
+    }
+
+    private void OnPlayerWithDoor(GameObject player, GameObject door)
+    {
+        PlayerData playerData = GetPlayerData(player);
+
+        if (playerData.CollectedKeys > 0)
+        {
+            Destroy(door);
+            playerData.CollectedKeys--;
         }
     }
 
@@ -131,61 +213,113 @@ public class CollisionController : Element
     {
         Element weaponScript = weapon.GetComponent<Element>();
         EnemyData enemyData = GetEnemyData(enemy);
+        EnemyView enemyView = enemy.GetComponent<EnemyView>();
         PlayerData playerData = null;
+        PlayerNumber.PlayerNum player = PlayerNumber.PlayerNum.PlayerOne;
 
         if (weaponScript is MeleeWeaponView)
         {
             //Handle all logic for melee weapons here
             /** Notes
              * 1. Ghost's and Death can't be killed with melee attacks
-             * 
-             * 
-             * 
              */
-
             MeleeWeaponView playerWeapon = weapon.GetComponent<MeleeWeaponView>();
-            playerData = GetPlayerData(playerWeapon.BelongsTo);
 
+            player = playerWeapon.BelongsTo;
 
+            playerData = GetPlayerData(player);
+
+            if (enemy.layer == 16 || (enemy.layer >= 18 && enemy.layer <= enemyMaxLayer))
+            {
+                enemyView.CurrentHealth -= playerData.Melee;
+            }
         }
         else if (weaponScript is ProjectileView)
         {
             //Handle all logic for projectile weapons here
-            ProjectileInfo projectileInfo = app.data.projectiles.RetrieveProjectileInfo(weapon);
-            playerData = GetPlayerData(projectileInfo.Player);
+            //ProjectileInfo projectileInfo = app.data.projectiles.RetrieveProjectileInfo(weapon);
 
-            if (enemy.layer == 20)
+            //player = projectileInfo.Player;
+            ProjectileView playerProjectile = weapon.GetComponent<ProjectileView>();
+
+            playerData = GetPlayerData(playerProjectile.BelongsTo);
+
+            if (enemy.layer >= 16 && enemy.layer <= enemyMaxLayer)
             {
-                //Ghost enemy
-                Destroy(enemy.gameObject);
+                enemyView.CurrentHealth -= playerData.Shot;
             }
 
-            app.data.projectiles.RemoveProjFromList(projectileInfo.Projectile);
-
-            Destroy(weapon);
+            RemoveProjectile(weapon);
         }
+
+
+        if (enemyView.CurrentHealth <= 0)
+        {
+            playerData.Score += enemyData.ScoreOnDeath;
+            Destroy(enemy.gameObject);
+        }
+
+        UpdatePlayerHUDS(player);
     }
 
     private void OnWeaponWithPickUp(GameObject weapon, GameObject pickUp)
     {
-        if (weapon.layer == 13)
+        if (pickUp.GetComponent<PickUp>().GetPickUpType() == PickUpType.Key) return;
+
+        if (weapon.layer == projectileLayer || (weapon.layer >= enemyProjectileMinLayer && weapon.layer <= enemyProjectileMaxLayer))
         {
-            //Is a projectile.
+            //was a projectile
+            RemoveProjectile(weapon);
         }
+
+        if (pickUp.GetComponent<PickUp>().GetPickUpType() == PickUpType.Food) pickUp.GetComponent<PickUp>().DecreaseHP();
     }
 
-    private void OnWeaponWithSpawner(GameObject weapon, GameObject spawnwer)
+    /**
+     * <summary>Called when player weapon collides with an enemy
+     * spawner.</summary>
+     * 
+     * <param name="weapon">The player weapon game object</param>
+     * <param name="spawner">The spawner that was hit.</param>
+     * 
+     */
+    private void OnWeaponWithSpawner(GameObject weapon, GameObject spawner)
     {
+        spawner.GetComponent<EnemySpawnerView>().ReduceHP();
 
+        if (weapon.layer == projectileLayer)
+        {
+            RemoveProjectile(weapon);
+        }
     }
 
     /**
      * <summary>Called by projectile hitting a wall.</summary
      */
-    private void OnWeaponWithTerrain(GameObject weapon)
+    private void OnProjectileWithTerrain(GameObject weapon)
     {
-        app.data.projectiles.RemoveProjFromList(weapon);
-        Destroy(weapon);
+        RemoveProjectile(weapon);
+    }
+
+    private void OnDemonProjectileWithEnemy(GameObject projectile, GameObject enemy)
+    {
+        EnemyView enemyView = enemy.GetComponent<EnemyView>();
+        RemoveProjectile(projectile);
+
+        enemyView.CurrentHealth -= app.data.enemyData.demon.DamageToPlayer;
+    }
+
+    private void OnDeathWithPlayer(GameObject death, GameObject player)
+    {
+        Debug.Log("On Death With Player");
+
+        PlayerData playerData = GetPlayerData(player);
+
+        playerData.Health -= app.data.enemyData.death.DamageToPlayer;
+
+        Debug.Log(playerData.Health.ToString());
+
+        UpdatePlayerHUDS(playerData.PlayerNum);
     }
 
     /**
@@ -259,7 +393,7 @@ public class CollisionController : Element
         return playerData;
     }
 
-    public EnemyData GetEnemyData(GameObject enemy)
+    private EnemyData GetEnemyData(GameObject enemy)
     {
         EnemyView enemyView = enemy.GetComponent<EnemyView>();
         EnemyData enemyData = null;
@@ -279,5 +413,58 @@ public class CollisionController : Element
         if (enemyView is ThiefView) return app.data.enemyData.thief;
 
         return enemyData;
+    }
+
+    private EnemyData GetEnemyData(EnemyType.Enemy enemy)
+    {
+        EnemyData enemyData = null;
+
+        switch (enemy)
+        {
+            case EnemyType.Enemy.Death:
+                enemyData = app.data.enemyData.death;
+                break;
+
+            case EnemyType.Enemy.Demon:
+                enemyData = app.data.enemyData.demon;
+                break;
+
+            case EnemyType.Enemy.Grunt:
+                enemyData = app.data.enemyData.grunt;
+                break;
+
+            case EnemyType.Enemy.Ghost:
+                enemyData = app.data.enemyData.ghost;
+                break;
+
+            case EnemyType.Enemy.Lobber:
+                enemyData = app.data.enemyData.lobber;
+                break;
+
+            case EnemyType.Enemy.Sorcerer:
+                enemyData = app.data.enemyData.sorcerer;
+                break;
+
+            case EnemyType.Enemy.Thief:
+                enemyData = app.data.enemyData.thief;
+                break;
+
+            default:
+                break;
+        }
+
+        return enemyData;
+    }
+
+    private void RemoveProjectile(GameObject projectile)
+    {
+        //app.data.projectiles.RemoveProjFromList(projectile);
+        Destroy(projectile);
+    }
+
+    private void UpdatePlayerHUDS(PlayerNumber.PlayerNum player)
+    {
+        app.controller.ui.UpdatePlayerHealth(player);
+        app.controller.ui.UpdatePlayerScore(player);
     }
 }

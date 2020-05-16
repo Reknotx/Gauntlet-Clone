@@ -4,15 +4,17 @@ using UnityEngine;
 
 public class ThiefView : EnemyView
 {
-    // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-        
+        enemyRB = GetComponent<Rigidbody2D>();
+        behavior = Rush;
+        _currentHealth = app.data.enemyData.thief.Health;
+        thisEnemysData = app.data.enemyData.thief;
     }
 
-    // Update is called once per frame
-    void Update()
+
+    private void FixedUpdate()
     {
-        
+        behavior();
     }
 }

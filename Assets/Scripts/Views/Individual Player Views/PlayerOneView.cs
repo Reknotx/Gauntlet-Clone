@@ -8,7 +8,6 @@ public class PlayerOneView : PlayerView
 
     private Rigidbody2D playerOneRB;
 
-    public GameObject meleeBox;
 
     private void Start()
     {
@@ -20,7 +19,6 @@ public class PlayerOneView : PlayerView
     private void OnCollisionEnter2D(Collision2D collision)
     {    
         //No need to write the same tests in the various player views
-        Debug.Log(collision.gameObject);
         SendCollisionMessage(this.gameObject, collision.gameObject);
     }
 
@@ -103,7 +101,9 @@ public class PlayerOneView : PlayerView
 
         proj.GetComponent<Rigidbody2D>().AddForce(throwDirecton * 500f);
 
-        app.data.projectiles.AddProjectileToList(proj, app.data.playerData.playerOne.PlayerNum);
+        proj.GetComponent<ProjectileView>().BelongsTo = app.data.playerData.playerOne.PlayerNum;
+
+        //app.data.projectiles.AddProjectileToList(proj, app.data.playerData.playerOne.PlayerNum);
 
     }
 

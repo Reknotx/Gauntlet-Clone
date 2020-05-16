@@ -19,10 +19,7 @@ TagManager:
   - Player Four
   - Melee Weapon
   - Projectile
-  - Treasure
-  - Food
-  - Potion
-  - Key
+  - Pick Up
   - Death
   - Demon
   - Ghost
@@ -36,6 +33,9 @@ TagManager:
   - Spawner
   - Environment
   - Door
+  - Exit
+  - 
+  - 
   - 
   m_SortingLayers:
   - name: Default

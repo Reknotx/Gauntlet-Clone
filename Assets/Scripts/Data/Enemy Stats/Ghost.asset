@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d866c2fc1d8b6348bea32c580c30155, type: 3}
   m_Name: Ghost
   m_EditorClassIdentifier: 
-  _damageToPlayer: 5
-  _health: 1
+  _damageToPlayer: 20
+  _health: 6
   _moveSpeed: 3
+  _scoreOnDeath: 30

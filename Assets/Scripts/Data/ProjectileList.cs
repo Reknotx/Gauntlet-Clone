@@ -20,7 +20,6 @@ public class ProjectileInfo
     {
         return "Projectile: " + _projectile.name + "\nBelongs to: " + _player.ToString();
     }
-
 }
 
 public class ProjectileList : Element

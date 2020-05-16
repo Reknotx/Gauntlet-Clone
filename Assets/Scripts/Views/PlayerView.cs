@@ -9,6 +9,8 @@ public class PlayerView : Element
 
     private float SpriteChangeThreshold = 0.5f;
 
+    public GameObject meleeBox;
+
     protected void SendCollisionMessage(GameObject player, GameObject objTwo)
     {
         app.controller.collisions.FilterCollision(player, objTwo);

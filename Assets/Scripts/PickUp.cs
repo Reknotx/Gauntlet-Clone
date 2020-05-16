@@ -19,8 +19,20 @@ public class PickUp : Element
 
     public PickUpBehavior behavior;
 
+    private int health = 2;
+
     public PickUpType GetPickUpType()
     {
         return _pickUpType;
+    }
+
+    public void DecreaseHP()
+    {
+        health--;
+
+        if (health == 0)
+        {
+            Destroy(this.gameObject);
+        }
     }
 }

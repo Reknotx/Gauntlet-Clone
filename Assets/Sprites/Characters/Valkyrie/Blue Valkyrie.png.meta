@@ -1,7 +1,268 @@
 fileFormatVersion: 2
 guid: 49277cafa09c7d646a97a54ca7e71728
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1232886595206509734
+    second: Blue Valkyrie_0
+  - first:
+      213: -3606701824714622938
+    second: Blue Valkyrie_1
+  - first:
+      213: 7569723005459810992
+    second: Blue Valkyrie_2
+  - first:
+      213: -5221927505562145430
+    second: Blue Valkyrie_3
+  - first:
+      213: 4941956060779886530
+    second: Blue Valkyrie_4
+  - first:
+      213: -4207228229383627783
+    second: Blue Valkyrie_5
+  - first:
+      213: -8333937125253335279
+    second: Blue Valkyrie_6
+  - first:
+      213: -6000461859932121638
+    second: Blue Valkyrie_7
+  - first:
+      213: -4265338589798247871
+    second: Blue Valkyrie_8
+  - first:
+      213: 4875453135728322368
+    second: Blue Valkyrie_9
+  - first:
+      213: 4255206814678668836
+    second: Blue Valkyrie_10
+  - first:
+      213: 5756831539377560654
+    second: Blue Valkyrie_11
+  - first:
+      213: -4994076794766186535
+    second: Blue Valkyrie_12
+  - first:
+      213: -6049966415035695997
+    second: Blue Valkyrie_13
+  - first:
+      213: 47721848820233388
+    second: Blue Valkyrie_14
+  - first:
+      213: -3233110685614445016
+    second: Blue Valkyrie_15
+  - first:
+      213: -9102140316630148957
+    second: Blue Valkyrie_16
+  - first:
+      213: -2542844359324535192
+    second: Blue Valkyrie_17
+  - first:
+      213: 998000902761042723
+    second: Blue Valkyrie_18
+  - first:
+      213: 1733692490133877935
+    second: Blue Valkyrie_19
+  - first:
+      213: 1236893859728279360
+    second: Blue Valkyrie_20
+  - first:
+      213: -2793316447537123813
+    second: Blue Valkyrie_21
+  - first:
+      213: -1506392613296042245
+    second: Blue Valkyrie_22
+  - first:
+      213: 6241354160151836674
+    second: Blue Valkyrie_23
+  - first:
+      213: -5757150145507130199
+    second: Blue Valkyrie_24
+  - first:
+      213: 4475700492908760011
+    second: Blue Valkyrie_25
+  - first:
+      213: -3106793470769624094
+    second: Blue Valkyrie_26
+  - first:
+      213: 4774941734278680923
+    second: Blue Valkyrie_27
+  - first:
+      213: 5672796004699812025
+    second: Blue Valkyrie_28
+  - first:
+      213: -4154202193356344593
+    second: Blue Valkyrie_29
+  - first:
+      213: -109837533360314001
+    second: Blue Valkyrie_30
+  - first:
+      213: 2003936301685784309
+    second: Blue Valkyrie_31
+  - first:
+      213: -7002736372635144529
+    second: Blue Valkyrie_32
+  - first:
+      213: 7637845640843708442
+    second: Blue Valkyrie_33
+  - first:
+      213: 3320857059448825921
+    second: Blue Valkyrie_34
+  - first:
+      213: -8995341795535849302
+    second: Blue Valkyrie_35
+  - first:
+      213: 4519501770359654646
+    second: Blue Valkyrie_36
+  - first:
+      213: -3771302992740493980
+    second: Blue Valkyrie_37
+  - first:
+      213: -8383939474094514829
+    second: Blue Valkyrie_38
+  - first:
+      213: -3729495678976461882
+    second: Blue Valkyrie_39
+  - first:
+      213: 7441579297640469678
+    second: Blue Valkyrie_40
+  - first:
+      213: 9210363992482525831
+    second: Blue Valkyrie_41
+  - first:
+      213: -4106547040195217678
+    second: Blue Valkyrie_42
+  - first:
+      213: 5356275312026454138
+    second: Blue Valkyrie_43
+  - first:
+      213: -7574153857300995925
+    second: Blue Valkyrie_44
+  - first:
+      213: -1628564102909038987
+    second: Blue Valkyrie_45
+  - first:
+      213: 872989896788416554
+    second: Blue Valkyrie_46
+  - first:
+      213: -7123247621040156698
+    second: Blue Valkyrie_47
+  - first:
+      213: -4377900721809732545
+    second: Blue Valkyrie_48
+  - first:
+      213: 1941850727421047971
+    second: Blue Valkyrie_49
+  - first:
+      213: 5239603292609210181
+    second: Blue Valkyrie_50
+  - first:
+      213: -7018578057179900202
+    second: Blue Valkyrie_51
+  - first:
+      213: -7076103633447347296
+    second: Blue Valkyrie_52
+  - first:
+      213: -7157623211053347035
+    second: Blue Valkyrie_53
+  - first:
+      213: 8438805836996960618
+    second: Blue Valkyrie_54
+  - first:
+      213: -8769125573590274327
+    second: Blue Valkyrie_55
+  - first:
+      213: 3186745446940588386
+    second: Blue Valkyrie_56
+  - first:
+      213: 734388786620440935
+    second: Blue Valkyrie_57
+  - first:
+      213: -7596527230395396102
+    second: Blue Valkyrie_58
+  - first:
+      213: -7299269209336978604
+    second: Blue Valkyrie_59
+  - first:
+      213: -6530205960139107147
+    second: Blue Valkyrie_60
+  - first:
+      213: 2104268473013702107
+    second: Blue Valkyrie_61
+  - first:
+      213: 2926266930403310008
+    second: Blue Valkyrie_62
+  - first:
+      213: -4383731444263565295
+    second: Blue Valkyrie_63
+  - first:
+      213: -6490524479511767289
+    second: Blue Valkyrie_64
+  - first:
+      213: -8622209544569566398
+    second: Blue Valkyrie_65
+  - first:
+      213: -5504785297731376477
+    second: Blue Valkyrie_66
+  - first:
+      213: -7634347734790391627
+    second: Blue Valkyrie_67
+  - first:
+      213: -8603268076494702946
+    second: Blue Valkyrie_68
+  - first:
+      213: -5416092641350250986
+    second: Blue Valkyrie_69
+  - first:
+      213: 4397371823480972240
+    second: Blue Valkyrie_70
+  - first:
+      213: -7666534518489163138
+    second: Blue Valkyrie_71
+  - first:
+      213: -4920755937850917038
+    second: Blue Valkyrie_72
+  - first:
+      213: -255788635289534864
+    second: Blue Valkyrie_73
+  - first:
+      213: 4217362797562373071
+    second: Blue Valkyrie_74
+  - first:
+      213: 7067339940619236603
+    second: Blue Valkyrie_75
+  - first:
+      213: 8274515243133156555
+    second: Blue Valkyrie_76
+  - first:
+      213: 2900570147099682697
+    second: Blue Valkyrie_77
+  - first:
+      213: 3226024517560040398
+    second: Blue Valkyrie_78
+  - first:
+      213: 583335230215579900
+    second: Blue Valkyrie_79
+  - first:
+      213: 5953349692991567835
+    second: Blue Valkyrie_80
+  - first:
+      213: -3927986182613105497
+    second: Blue Valkyrie_81
+  - first:
+      213: 2524198564565312108
+    second: Blue Valkyrie_82
+  - first:
+      213: 5923249885447896012
+    second: Blue Valkyrie_83
+  - first:
+      213: -7571172461746339939
+    second: Blue Valkyrie_84
+  - first:
+      213: 4191739932591463265
+    second: Blue Valkyrie_85
+  - first:
+      213: -7273246312607669751
+    second: Blue Valkyrie_86
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -82,7 +343,1834 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Blue Valkyrie_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3178
+        width: 215
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a87be9fa122114282221e8370f858a
+      internalID: -1232886595206509734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3168
+        width: 214
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052772a8b1b4db84685e78a9e868f05a
+      internalID: -3606701824714622938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3168
+        width: 252
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c6e0d2ae9449247ae3107706a1dcda
+      internalID: 7569723005459810992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_3
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3168
+        width: 233
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9092f22043a6c345a85d938fa83a33d
+      internalID: -5221927505562145430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_4
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 3168
+        width: 213
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76825e8529d2544bb6ba019074055ef
+      internalID: 4941956060779886530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_5
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 3168
+        width: 234
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dd2685adcfbd442b4d481782fe2636
+      internalID: -4207228229383627783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2678
+        width: 192
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab361023ddd434696d8da99508bc59
+      internalID: -8333937125253335279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2919
+        width: 202
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da4f61a03d79564e98d7fd9fae78fe3
+      internalID: -6000461859932121638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2717
+        width: 203
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eba07efc60c684d8cecf344982e4b6
+      internalID: -4265338589798247871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2919
+        width: 205
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf6530d44962254b9183b75ec2734c0
+      internalID: 4875453135728322368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2668
+        width: 204
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65498f7162d17444a9b5ec02a57ab9b
+      internalID: 4255206814678668836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_11
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2919
+        width: 234
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d68076ef341a194daa0a5a7b48fef2d
+      internalID: 5756831539377560654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_12
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 2919
+        width: 234
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d174b19403ffa44a2b2de47890af3a
+      internalID: -4994076794766186535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_13
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2668
+        width: 243
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621ff4855202d50489f58baf75715ce3
+      internalID: -6049966415035695997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_14
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2919
+        width: 215
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8405a17c63e5f54fadd0185e0f83534
+      internalID: 47721848820233388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_15
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 2668
+        width: 204
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5849738ca03a4d349990c9ca731f5763
+      internalID: -3233110685614445016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_16
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2848
+        width: 471
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6c579d1bb418348b2c809660d1ad97
+      internalID: -9102140316630148957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_17
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 2668
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598bf0914a9c4634aaa7c87344a988d7
+      internalID: -2542844359324535192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2419
+        width: 213
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395e089405b568a418beb0f84f2e6ec5
+      internalID: 998000902761042723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2419
+        width: 194
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aa1a5f5ef7f11459ae456c05f29603
+      internalID: 1733692490133877935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_20
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2419
+        width: 214
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35267629603658a40a9061ae65a0c8d9
+      internalID: 1236893859728279360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_21
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2429
+        width: 235
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f1f797a16897141b18161fc612163d
+      internalID: -2793316447537123813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_22
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2419
+        width: 224
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad525af2ea58eb4eb52e06279f56f9b
+      internalID: -1506392613296042245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_23
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 2419
+        width: 225
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b988aa3908358fb4f8cfa0a9bbbdbff4
+      internalID: 6241354160151836674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2198
+        width: 195
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78415a66bc018945ad24a1f506d849f
+      internalID: -5757150145507130199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2168
+        width: 215
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad6da317acbc404084048956f06df6d
+      internalID: 4475700492908760011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_26
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2168
+        width: 193
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d94b6723d050c4394b859adf027c0e
+      internalID: -3106793470769624094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_27
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2168
+        width: 244
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2b24417e93b7046af867e7bb7ab628
+      internalID: 4774941734278680923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1919
+        width: 183
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7fe115b49773f4f940449043313151
+      internalID: 5672796004699812025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1919
+        width: 235
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eaa3fb87e95f54fbb00e937cc7d51a
+      internalID: -4154202193356344593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_30
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1919
+        width: 235
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e9a8642becc9a4f833c622dddbad26
+      internalID: -109837533360314001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_31
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1919
+        width: 203
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09a6e6ae099a90468b5598e338d4481
+      internalID: 2003936301685784309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1668
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af534dd4e73bc2245a46086b82f4c6a1
+      internalID: -7002736372635144529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1668
+        width: 183
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da67720cfafeb00469d5b8ba3083a0de
+      internalID: 7637845640843708442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_34
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1668
+        width: 193
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e6ab7fd7eaa734fa6a49693c68aeb7
+      internalID: 3320857059448825921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_35
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1668
+        width: 234
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9ad91ad8ffd3047913b74be879104f
+      internalID: -8995341795535849302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1438
+        width: 192
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd7a9b8ede058c47b9a675e6ce5e90d
+      internalID: 4519501770359654646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_37
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1419
+        width: 225
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3c2a446ac09204ba8b11d93ef75905
+      internalID: -3771302992740493980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_38
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1468
+        width: 243
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db828f7923844ed44810f79eafce9146
+      internalID: -8383939474094514829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_39
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1419
+        width: 205
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067104a4a8bcdd74a92af5dc46b8c0f4
+      internalID: -3729495678976461882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_40
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1168
+        width: 192
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415555494a413764c8eebefd5796046c
+      internalID: 7441579297640469678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1199
+        width: 212
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f243485b55ce24c8c03954af025376
+      internalID: 9210363992482525831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1168
+        width: 215
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2800dcb4ebf3544b9775a109abc41c5
+      internalID: -4106547040195217678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_43
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1168
+        width: 215
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa3508fdf3b4d04d89c85d819ab432e
+      internalID: 5356275312026454138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_44
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1219
+        width: 214
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6da94c713e29f49b7a6be98d9c9fe8
+      internalID: -7574153857300995925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_45
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1168
+        width: 193
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed477e42fffa0244b2c33f39861085c
+      internalID: -1628564102909038987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_46
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1168
+        width: 244
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7b075d036a95f47bdc6124f46cd5bc
+      internalID: 872989896788416554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_47
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1178
+        width: 245
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191946c599d0f854e97f9cd75b2dae4b
+      internalID: -7123247621040156698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 242
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d097461ec05eb46b47c65b1b2a1aae
+      internalID: -4377900721809732545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 918
+        width: 225
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb555ca672a8d04da5f62944527550f
+      internalID: 1941850727421047971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 918
+        width: 234
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc738b9858e2154bae12c88f21b29cc
+      internalID: 5239603292609210181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_51
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 918
+        width: 163
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73940203b952f8d44a1af0163b3dacc0
+      internalID: -7018578057179900202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_52
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 918
+        width: 235
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee44260e879d42a42b321c0be1398e91
+      internalID: -7076103633447347296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_53
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 918
+        width: 215
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e279cd4b102934199d56012c98f43c
+      internalID: -7157623211053347035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_54
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 918
+        width: 245
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00992a8248404494da6b28d60744dc1d
+      internalID: 8438805836996960618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_55
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 918
+        width: 202
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15da98ea8be3d444aa843d95fd63a53b
+      internalID: -8769125573590274327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 668
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef513bb5927c074f80b3fd47756b42d
+      internalID: 3186745446940588386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 668
+        width: 224
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f5a6c985526344a882e60a15cd808
+      internalID: 734388786620440935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_58
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 668
+        width: 205
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b26805ba76e246b0a7793e4840f4b
+      internalID: -7596527230395396102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_59
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 668
+        width: 213
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49211f5d8851e0442bca073b1b32ea67
+      internalID: -7299269209336978604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_60
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 668
+        width: 194
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d82a8f856d5ed14e8c302c7ad983b22
+      internalID: -6530205960139107147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_61
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 668
+        width: 244
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d3943ac8b5b2b499ad4a8821297234
+      internalID: 2104268473013702107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_62
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 668
+        width: 244
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56c18c0dc79bc64ea04d65deeb0d711
+      internalID: 2926266930403310008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_63
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 668
+        width: 173
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d194bcdf6490fed46a3e34f56754d9fe
+      internalID: -4383731444263565295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 192
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510ca219b32ac084c9804e6fd3657b63
+      internalID: -6490524479511767289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_65
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 418
+        width: 224
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9d1aaedefca14cbc835998085b83d
+      internalID: -8622209544569566398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_66
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 438
+        width: 223
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffc32c92c4a8284c9b71a2f30e8177b
+      internalID: -5504785297731376477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_67
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 418
+        width: 174
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1094f07ed4bfe2f4ba099ae98c7072df
+      internalID: -7634347734790391627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_68
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 468
+        width: 244
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a5154e1ead20b41abc3c6e68d040f6
+      internalID: -8603268076494702946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_69
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 418
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c7e52aa74d15c47bab070cfb31d20b
+      internalID: -5416092641350250986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_70
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 468
+        width: 225
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738d9c4fcf6b390469ecd8c16ffd0dff
+      internalID: 4397371823480972240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_71
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 478
+        width: 212
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca832278f081a24a8685214c4cb1839
+      internalID: -7666534518489163138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_72
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 168
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f3a2c146fb4cf47acfd6d6d70267db
+      internalID: -4920755937850917038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_73
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 168
+        width: 224
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac39cc5e1d12f0409283dc8fdba1802
+      internalID: -255788635289534864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_74
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 189
+        width: 234
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d33053ec3c1f2541bdbd7c1905aa098
+      internalID: 4217362797562373071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_75
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 177
+        width: 195
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aafcc90d360bc4c8377349f77cb6c1
+      internalID: 7067339940619236603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_76
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 229
+        width: 133
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc15c0d1ebe01cc46916a0b059789905
+      internalID: 8274515243133156555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_77
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 238
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934f6a3e1da7c2e4ba10e0fde6b08d7e
+      internalID: 2900570147099682697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_78
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 258
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5efbb8445af534c868e40cf76a9191
+      internalID: 3226024517560040398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 62
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43b93bcae957ee4f9c11d6adb0621b4
+      internalID: 583335230215579900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_80
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 17
+        width: 132
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7e4f208213e2441b31bef645837f68
+      internalID: 5953349692991567835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_81
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 49
+        width: 163
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4effc490748614b9d103f43aeb8bc4
+      internalID: -3927986182613105497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_82
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b3f88bd91cc0f4a91e203ad60f96a9
+      internalID: 2524198564565312108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_83
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 64
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3211696116db72147ba6306cbe72e381
+      internalID: 5923249885447896012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_84
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 17
+        width: 135
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523ef3f6a11f27946b81a9f48ce2b982
+      internalID: -7571172461746339939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_85
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 49
+        width: 163
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d827c0591bb149926116ba91ec5e2
+      internalID: 4191739932591463265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Valkyrie_86
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 17
+        width: 133
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb1d47b1424a741a30c0820687a62d
+      internalID: -7273246312607669751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -14,6 +14,7 @@ public class PlayerOneInput : InputView
         inputAction.Player.Look.performed += ctxL => OnRotate(app.data.playerData.playerOne.PlayerNum, ctxL.ReadValue<Vector2>());
         inputAction.Player.Melee.performed += ctxMA => OnMeleeAttack(app.data.playerData.playerOne.PlayerNum);
         inputAction.Player.Throw.performed += ctxT => OnThrow(app.data.playerData.playerOne.PlayerNum);
+        inputAction.Player.Potion.performed += ctxP => OnPotion(app.data.playerData.playerOne.PlayerNum);
     }
 
     private void LateUpdate()

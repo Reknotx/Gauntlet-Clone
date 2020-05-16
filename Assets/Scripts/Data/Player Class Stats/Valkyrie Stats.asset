@@ -19,3 +19,28 @@ MonoBehaviour:
   _magicStrength: 2
   _meleeStrength: 3
   _moveSpeed: 3
+  _northSprite: {fileID: -8333937125253335279, guid: 49277cafa09c7d646a97a54ca7e71728,
+    type: 3}
+  _northEastSprite: {fileID: -3233110685614445016, guid: 49277cafa09c7d646a97a54ca7e71728,
+    type: 3}
+  _eastSprite: {fileID: 1733692490133877935, guid: 49277cafa09c7d646a97a54ca7e71728,
+    type: 3}
+  _southEastSprite: {fileID: -1506392613296042245, guid: 49277cafa09c7d646a97a54ca7e71728,
+    type: 3}
+  _southSprite: {fileID: -3606701824714622938, guid: 49277cafa09c7d646a97a54ca7e71728,
+    type: 3}
+  _southWestSprite: {fileID: 4941956060779886530, guid: 49277cafa09c7d646a97a54ca7e71728,
+    type: 3}
+  _westSprite: {fileID: 4875453135728322368, guid: 49277cafa09c7d646a97a54ca7e71728,
+    type: 3}
+  _northWestSprite: {fileID: -3233110685614445016, guid: 49277cafa09c7d646a97a54ca7e71728,
+    type: 3}
+  _projectilePrefab: {fileID: 0}
+  _northAttackSprite: {fileID: 0}
+  _northEastAttackSprite: {fileID: 0}
+  _eastAttackSprite: {fileID: 0}
+  _southEastAttackSprite: {fileID: 0}
+  _southAttackSprite: {fileID: 0}
+  _southWestAttackSprite: {fileID: 0}
+  _westAttackSprite: {fileID: 0}
+  _northWestAttackSprite: {fileID: 0}

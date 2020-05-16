@@ -14,4 +14,15 @@ public class GauntletController : Element
         if (input == null) input = FindObjectOfType<InputController>();
         if (ui == null) ui = FindObjectOfType<UIController>();
     }
+
+    public void AddEnemyToCameraList(GameObject enemy)
+    {
+        app.data.objectsInView.AddToList(enemy);
+    }
+
+    public void RemoveEnemyFromCameraList(GameObject enemy)
+    {
+        app.data.objectsInView.RemoveFromList(enemy);
+    }
+
 }

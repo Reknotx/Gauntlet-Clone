@@ -22,6 +22,10 @@ public interface IPlayerData
 
     int MoveSpeed { get; }
 
+    int CollectedKeys { get; set; }
+
+    int Potions { get; set; }
+
     Sprite NorthSprite { get; }
 
     Sprite NorthEastSprite { get; }

@@ -4,5 +4,9 @@ using UnityEngine;
 
 public class DemonData : EnemyData
 {
-   
+    private void Awake()
+    {
+        base._enemyType = EnemyType.Enemy.Demon;
+        InitializeStats();
+    }
 }

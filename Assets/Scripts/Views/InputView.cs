@@ -31,6 +31,6 @@ public class InputView : Element
 
     protected void OnPotion(PlayerNumber.PlayerNum player)
     {
-
+        app.controller.input.UsePotion(player);
     }
 }

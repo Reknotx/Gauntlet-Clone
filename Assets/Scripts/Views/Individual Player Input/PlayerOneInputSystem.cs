@@ -49,6 +49,14 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
                     ""interactions"": ""Press""
+                },
+                {
+                    ""name"": ""Potion"",
+                    ""type"": ""Button"",
+                    ""id"": ""38d37b2e-83ad-4867-a812-b317b7cacdbe"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": ""Press""
                 }
             ],
             ""bindings"": [
@@ -280,6 +288,17 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                     ""processors"": """",
                     ""groups"": ""Keyboard&Mouse"",
                     ""action"": ""Throw"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""82afb194-0922-484d-b407-72b9669dc37f"",
+                    ""path"": ""<Gamepad>/rightShoulder"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""Potion"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -861,6 +880,7 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
         m_Player_Look = m_Player.FindAction("Look", throwIfNotFound: true);
         m_Player_Melee = m_Player.FindAction("Melee", throwIfNotFound: true);
         m_Player_Throw = m_Player.FindAction("Throw", throwIfNotFound: true);
+        m_Player_Potion = m_Player.FindAction("Potion", throwIfNotFound: true);
         // UI
         m_UI = asset.FindActionMap("UI", throwIfNotFound: true);
         m_UI_Navigate = m_UI.FindAction("Navigate", throwIfNotFound: true);
@@ -926,6 +946,7 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
     private readonly InputAction m_Player_Look;
     private readonly InputAction m_Player_Melee;
     private readonly InputAction m_Player_Throw;
+    private readonly InputAction m_Player_Potion;
     public struct PlayerActions
     {
         private @PlayerOneInputSystem m_Wrapper;
@@ -934,6 +955,7 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
         public InputAction @Look => m_Wrapper.m_Player_Look;
         public InputAction @Melee => m_Wrapper.m_Player_Melee;
         public InputAction @Throw => m_Wrapper.m_Player_Throw;
+        public InputAction @Potion => m_Wrapper.m_Player_Potion;
         public InputActionMap Get() { return m_Wrapper.m_Player; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -955,6 +977,9 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                 @Throw.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnThrow;
                 @Throw.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnThrow;
                 @Throw.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnThrow;
+                @Potion.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnPotion;
+                @Potion.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnPotion;
+                @Potion.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnPotion;
             }
             m_Wrapper.m_PlayerActionsCallbackInterface = instance;
             if (instance != null)
@@ -971,6 +996,9 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
                 @Throw.started += instance.OnThrow;
                 @Throw.performed += instance.OnThrow;
                 @Throw.canceled += instance.OnThrow;
+                @Potion.started += instance.OnPotion;
+                @Potion.performed += instance.OnPotion;
+                @Potion.canceled += instance.OnPotion;
             }
         }
     }
@@ -1131,6 +1159,7 @@ public class @PlayerOneInputSystem : IInputActionCollection, IDisposable
         void OnLook(InputAction.CallbackContext context);
         void OnMelee(InputAction.CallbackContext context);
         void OnThrow(InputAction.CallbackContext context);
+        void OnPotion(InputAction.CallbackContext context);
     }
     public interface IUIActions
     {

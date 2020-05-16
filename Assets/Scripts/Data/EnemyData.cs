@@ -10,13 +10,17 @@ public class EnemyData : Element
 
     protected int _moveSpeed;
 
+    protected int _scoreOnDeath;
+
     protected EnemyType.Enemy _enemyType;
 
     public int DamageToPlayer { get { return _damageToPlayer; } }
 
-    public int Health { get { return _health; } set { _health = value; } }
+    public int Health { get { return _health; } }
 
     public int MoveSpeed { get { return _moveSpeed; } }
+
+    public int ScoreOnDeath { get { return _scoreOnDeath; } }
 
     public EnemyType.Enemy Enemy { get { return _enemyType; } }
 
@@ -28,5 +32,6 @@ public class EnemyData : Element
         _damageToPlayer = stats.DamageToPlayer;
         _health = stats.StartingHP;
         _moveSpeed = stats.MoveSpeed;
+        _scoreOnDeath = stats.ScoreOnDeath;
     }
 }
