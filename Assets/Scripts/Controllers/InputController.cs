@@ -2,6 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * <summary>Controller which filters input from the player to 
+ * appropriate view for updating their presence in the world.
+ * 
+ * Such actions include movement, rotation, attacking, and potion use.</summary>
+ * 
+ * Currenly only one player is able to play the game at this time
+ * but once mulitplayer functionality is acquired the messages will
+ * be filtered without issue.
+ * 
+ * 
+ */
 public class InputController : Element
 {
     public void MovePlayer(PlayerNumber.PlayerNum player, Vector2 movement)

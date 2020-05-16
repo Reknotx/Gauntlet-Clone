@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * <summary>Controller class which updates the player's health and 
+ * score on the screen.</summary>
+ * 
+ */
 public class UIController : Element
 {
     public void UpdatePlayerHealth(PlayerNumber.PlayerNum player)
