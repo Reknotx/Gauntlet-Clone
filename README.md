@@ -17,7 +17,13 @@ Data - Contains all the information for the game's systems.
 
 Controllers - Handles the logic for the game in terms of combat, pick up behavior, world interaction behavior,
 individual player input and movement (if it was setup), etc.
+  - Every individual type of event that can happen in the game will be sent to the appropriate controller to filter the message
+  and update the necessary data in the game.
+  - Controllers are set up to filter the messages to players appropriately. 
 
 View - Handles input detection and passes event callbacks to the controller.
+  - Player input and collision detection are separated into their own scripts and inherit from a parent. This is to allow for 
+  messages to be handled in one central location and to allow for code reuse.
+  - Weapons are given their own collision detection scripts that send messages to the correct controller.
 
 
