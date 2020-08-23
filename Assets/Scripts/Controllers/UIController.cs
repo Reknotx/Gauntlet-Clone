@@ -9,6 +9,11 @@ using UnityEngine;
  */
 public class UIController : Element
 {
+    /**
+     * <summary>Sends a message to the UI to update the player's health.</summary>
+     * 
+     * <param name="player">The player whose health needs to be updated.</param>
+     */
     public void UpdatePlayerHealth(PlayerNumber.PlayerNum player)
     {
         switch (player)
@@ -34,6 +39,13 @@ public class UIController : Element
         }
     }
 
+
+    /**
+     * <summary>Sends a message to the UI to update the player's score.</summary>
+     * 
+     * <param name="player">The player whose score needs to be updated.</param>
+     * 
+     */
     public void UpdatePlayerScore(PlayerNumber.PlayerNum player)
     {
         switch (player)

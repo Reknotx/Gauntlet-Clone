@@ -10,7 +10,6 @@ public class PauseButtons : MonoBehaviour {
 
     public GameObject pauseMenuUI;
 
-    // Update is called one per frame
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -26,8 +25,9 @@ public class PauseButtons : MonoBehaviour {
         }
     }
 
-    //Resume
-    //Upon pressing the button, it will resume the given time scale and closes the Pause Menu.
+    /**
+     * <summary>Closes the pause menu and resumes the game by setting the timeScale back to 1.</summary>
+     */
     public void Resume()
     {
         pauseMenuUI.SetActive(false);
@@ -36,8 +36,9 @@ public class PauseButtons : MonoBehaviour {
         GameIsPaused = false;
     }
 
-    //Pause
-    //Pressing the escape key brings up the Pause Menu witht he corresponding buttons and pauses the Scene in the background.
+    /**
+     * <summary>Pauses the game by setting the time </summary>
+     */
     private void Stopped()
     {
         pauseMenuUI.SetActive(true);

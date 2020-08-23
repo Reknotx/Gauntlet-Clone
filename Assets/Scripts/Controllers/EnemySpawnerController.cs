@@ -4,15 +4,11 @@ using UnityEngine;
 
 public class EnemySpawnerController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    /*
+     * Currently an empty script that serves no purpose. It's intention
+     * was to activate and deactivate spawners when they entered and left
+     * the view of the camera respectively. The purpose was to prevent enemies
+     * from continuously spawning off screen which would have caused horrible lag 
+     * if left running for a while
+     */
 }

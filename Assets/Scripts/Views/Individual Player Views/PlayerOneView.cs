@@ -16,18 +16,30 @@ public class PlayerOneView : PlayerView
         app.controller.ui.UpdatePlayerHealth(app.data.playerData.playerOne.PlayerNum);
         app.controller.ui.UpdatePlayerScore(app.data.playerData.playerOne.PlayerNum);
     }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {    
         //No need to write the same tests in the various player views
         SendCollisionMessage(this.gameObject, collision.gameObject);
     }
 
+    /**
+     * <summary>Moves player one's position in the supplied direction.</summary>
+     * 
+     * <param name="movement">The directin of movement.</param>
+     */
     public void Movement(Vector2 movement)
     {
         Vector3 moveV3 = (new Vector3(movement.x, movement.y) * app.data.playerData.playerOne.MoveSpeed * 10f * Time.deltaTime) + transform.position;
         playerOneRB.MovePosition(moveV3);
     }
 
+    /**
+     * <summary>Rotates player one's sprite to face one of named directions on the compass. Also
+     * will resize the player's hit box and move their melee attack trigger zone. </summary>
+     * 
+     * <param name="rotation">The direction of rotation.</param>
+     */
     public void Rotate(Vector2 rotation)
     {
         Sprite temp = GetPlayerSpriteOnRotation(app.data.playerData.playerOne.PlayerNum, rotation);
@@ -50,6 +62,10 @@ public class PlayerOneView : PlayerView
         }
     }
 
+    /**
+     * <summary>Sets player one's sprite to be their attack sprite base on
+     * their currently faced direction.</summary>
+     */
     public void MeleeAttack()
     {
 
@@ -93,6 +109,11 @@ public class PlayerOneView : PlayerView
         }
     }
 
+    /**
+     * <summary>Spawns player one's projectile, applies a force to the rigidbody in their faced
+     * direction, and attaches it to the player to provide the player a score value if they kill
+     * and enemy.</summary>
+     */
     public void Throw()
     {
         GameObject proj = Instantiate(app.data.playerData.playerOne.Projectile, transform.position, Quaternion.identity) as GameObject;

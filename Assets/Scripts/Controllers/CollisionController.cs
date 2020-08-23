@@ -19,7 +19,14 @@ public class CollisionController : Element
     /**
      * <summary>Filters the collision between two game objects in the world
      * and exectutes the necessary logic based on the layer they
-     * occupy.</summary>
+     * occupy.
+     * Layer 8 to 11 are for players.
+     * Layer 12 is player melee attacks.
+     * Layer 13 is for player projectiles.
+     * Layer 14 is for pick ups.
+     * Layers 16 to 21 are for enemy characters.
+     * Layers 22 to 224 are for enemy projectiles.
+     * Layer 25 is for enemy spawners.</summary>
      * <param name="objOne">The source object.</param>
      * <param name="objTwo">The object that was collided with.</param>
      */

@@ -16,6 +16,13 @@ using UnityEngine;
  */
 public class InputController : Element
 {
+    /**
+     * <summary>Sends a message to the appropriate player to update their position
+     * in the world based on the supplied value.</summary>
+     * 
+     * <param name="player">The player to be moved.</param>
+     * <param name="movement">The direction of movement.</param>
+     */
     public void MovePlayer(PlayerNumber.PlayerNum player, Vector2 movement)
     {
         if (CheckIfPlayerAttacking(player)) return;
@@ -47,6 +54,13 @@ public class InputController : Element
         }
     }
 
+    /**
+     * <summary>Sends a message to the appropriate player to change their current sprite to match
+     * their desired aiming direction.</summary>
+     * 
+     * <param name="player">The player to be rotated.</param>
+     * <param name="rotation">The direction of rotation, or aiming direction.</param>
+     */
     public void RotatePlayer(PlayerNumber.PlayerNum player, Vector2 rotation)
     {
         if (CheckIfPlayerAttacking(player)) return;
@@ -74,6 +88,12 @@ public class InputController : Element
         }
     }
 
+    /**
+     * <summary>Executes the player's melee attack and triggers the attack animation
+     * on screen.</summary>
+     * 
+     * <param name="player">The attacking player.</param>
+     */
     public void PlayerMeleeAttack(PlayerNumber.PlayerNum player)
     {
         if (CheckIfPlayerAttacking(player)) return;
@@ -107,6 +127,12 @@ public class InputController : Element
         StartCoroutine(Attack(player));
     }
 
+    /**
+     * <summary>Executes the player's throwing attack.</summary>
+     * 
+     * <param name="player">The attacking player.</param>
+     * 
+     */
     public void PlayerThrow(PlayerNumber.PlayerNum player)
     {
         if (CheckIfPlayerAttacking(player)) return;
@@ -134,6 +160,13 @@ public class InputController : Element
         }
     }
 
+    /**
+     * <summary>Uses a potion that the player currently holds. In current state
+     * potions will kill all enemies on screen. Will reduce number of potions
+     * held by player by one.</summary>
+     * 
+     * <param name="player">The player using a potion.</param>
+     */
     public void UsePotion(PlayerNumber.PlayerNum player)
     {
         switch (player)
@@ -175,6 +208,12 @@ public class InputController : Element
         }
     }
 
+    /**
+     * <summary>Private helper function which checks if player is already attacking
+     * to limit the player to one attack at a time.</summary>
+     * 
+     * <param name="player">The player that needs to be evaluated.</param>
+     */
     private bool CheckIfPlayerAttacking(PlayerNumber.PlayerNum player)
     {
         switch (player)
@@ -202,6 +241,14 @@ public class InputController : Element
         return false;
     }
 
+    /**
+     * <summary>Private co-routine that carries out the player's melee attack
+     * and then resets their sprites to default. Receives references to the
+     * PlayerData and PlayerView internally.</summary>
+     * 
+     * <param name="player">The attacking player.</param>
+     * 
+     */
     IEnumerator Attack(PlayerNumber.PlayerNum player)
     {
         PlayerData playerData = null;

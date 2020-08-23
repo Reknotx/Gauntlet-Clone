@@ -10,6 +10,7 @@ public class ObjectsInCameraView : Element
      * <summary>Adds enemies to a list when they are in
      * the view of the camera.</summary>
      * 
+     * <param name="enemy">The enemy game object that has entered the screen.</param>
      */
     public void AddToList(GameObject enemy)
     {
@@ -19,6 +20,8 @@ public class ObjectsInCameraView : Element
     /**
      * <summary>Removes an enemy from a list when they are 
      * no longer in the view of the camera.</summary>
+     * 
+     * <param name="enemy">The enemy game object that has left the screen.</param>
      * 
      */
     public void RemoveFromList(GameObject enemy)

@@ -130,6 +130,12 @@ public class PlayerView : Element
         return playerSprite;
     }
 
+    /**
+     * <summary>Returns a vector 2 direction for determining where to place the player's
+     * melee box when rotating the player's sprite.</summary>
+     * 
+     * <param name="player">The player whose direction needs to be examined.</param>
+     */
     protected Vector2 GetMeleeBoxPosOnRotate(PlayerNumber.PlayerNum player)
     {
         PlayerData playerData = GetPlayerData(player);
@@ -143,7 +149,6 @@ public class PlayerView : Element
 
             case PlayerData.Direction.NorthEast:
                 newPos = Vector2.one.normalized;
-                Debug.Log(newPos);
                 break;
 
             case PlayerData.Direction.East:
@@ -152,7 +157,6 @@ public class PlayerView : Element
 
             case PlayerData.Direction.SouthEast:
                 newPos = new Vector2(1f, -1f).normalized;
-                Debug.Log(newPos);
                 break;
 
             case PlayerData.Direction.South:
@@ -161,7 +165,6 @@ public class PlayerView : Element
 
             case PlayerData.Direction.SouthWest:
                 newPos = new Vector2(-1f, -1f).normalized;
-                Debug.Log(newPos);
                 break;
 
             case PlayerData.Direction.West:
@@ -170,7 +173,6 @@ public class PlayerView : Element
 
             case PlayerData.Direction.NorthWest:
                 newPos = new Vector2(-1f, 1f).normalized;
-                Debug.Log(newPos);
                 break;
 
             default:
@@ -181,6 +183,14 @@ public class PlayerView : Element
         return newPos;
     }
 
+    /**
+     * <summary>Provides a rotation for the player's melee box when rotating the player. Will obtain
+     * a reference to the player's data.</summary>
+     * 
+     * <param name="player">The player whose melee box is being rotated.</param>
+     * 
+     * <returns>A vector 3 detailing the player's melee box rotation.</returns>
+     */
     public Vector3 GetNewMeleeBoxRotation(PlayerNumber.PlayerNum player)
     {
         PlayerData playerData = GetPlayerData(player);
@@ -227,6 +237,14 @@ public class PlayerView : Element
         return rotation;
     }
 
+    /**
+     * <summary>Returns a vector 2 to apply to the player's projectile to throw it in the
+     * appropriate direction.</summary>
+     * 
+     * <param name="player">The player whose direction needs to be evaluated.</param>
+     * 
+     * <returns>A vector 2 describing the projectiles direction of movement.</returns>
+     */
     protected Vector2 GetThrowVector(PlayerNumber.PlayerNum player)
     {
         Vector2 throwDirection = Vector2.zero;
@@ -293,6 +311,15 @@ public class PlayerView : Element
         return throwDirection;
     }
 
+
+    /**
+     * <summary>Sets the player's sprite to the appropriate one for their currently
+     * faced direction.</summary>
+     * 
+     * <param name="playerData">The data of the player we are adjusting.</param>
+     * <param name="playerview">The view of the player we are adjusting. Used to set the
+     * sprite for the player.</param>
+     */
     public void SetCurrentDirectionSprite(PlayerData playerData, PlayerView playerview)
     {
         Sprite temp = null;
@@ -338,6 +365,14 @@ public class PlayerView : Element
         playerview.GetComponent<SpriteRenderer>().sprite = temp;
     }
 
+    /**
+     * <summary>Get's the player data file for the player.</summary>
+     * 
+     * <param name="player">The player whose data we need.</param>
+     * 
+     * <returns>A reference to the player data script associated with the
+     * player.</returns>
+     */
     private PlayerData GetPlayerData(PlayerNumber.PlayerNum player)
     {
         PlayerData playerData = null;
