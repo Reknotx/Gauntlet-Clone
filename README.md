@@ -1,9 +1,10 @@
 # Gauntlet-Clone
 Clone of the Arcade Game Gauntlet for CAGD 380
 Goal of this class project was to create a clone of the arcade game with multiplayer functionality.
-Input was created with the use of the new Unity Input System package. Multiplayer is unfortunately
-not implemented due to lack of time and documentation to properly implement one. Project is buildable
-for execution on windows machines and requires an xbox controller to be played.
+Input was created with the use of the new Unity Input System package to allow for input to be read through
+callback contexts and events rather than having a large cumbersome file. Multiplayer is unfortunately
+not implemented due to lack of time and proper documentation on the package to properly implement one. Project is buildable
+for execution on Windows machines and requires an xBox controller to be played properly due to lack of proper keyboard support.
 
 Code structure was designed around the Model-View-Controller software design pattern for both simplicity
 and for organizational purposes, separating the data from the logic. 
